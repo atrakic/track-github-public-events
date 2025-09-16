@@ -1,0 +1,2598 @@
+[
+  {
+    "id": "54671724902",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26796504505,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "40b531e95951a4f9a57df80472579809c04b89b7",
+      "before": "8979fff42437b6eb1fe044956498a0e4716ab99f",
+      "commits": [
+        {
+          "sha": "40b531e95951a4f9a57df80472579809c04b89b7",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Use CAF naming strategy",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/40b531e95951a4f9a57df80472579809c04b89b7"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T14:11:40Z"
+  },
+  {
+    "id": "54670703668",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26795859765,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "8979fff42437b6eb1fe044956498a0e4716ab99f",
+      "before": "85650a8e2296954b87cf4b05f2baee7e0198e2a6",
+      "commits": [
+        {
+          "sha": "8979fff42437b6eb1fe044956498a0e4716ab99f",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Allow configuration for app_settings",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/8979fff42437b6eb1fe044956498a0e4716ab99f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T13:08:48Z"
+  },
+  {
+    "id": "54666898414",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26793433780,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "85650a8e2296954b87cf4b05f2baee7e0198e2a6",
+      "before": "8a174d4f393ae2809ce77bdf8338739c3b285072",
+      "commits": [
+        {
+          "sha": "85650a8e2296954b87cf4b05f2baee7e0198e2a6",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/85650a8e2296954b87cf4b05f2baee7e0198e2a6"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T08:53:16Z"
+  },
+  {
+    "id": "54666795242",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26793370077,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "8a174d4f393ae2809ce77bdf8338739c3b285072",
+      "before": "1b2d19dc876b0c283ab2a1cc78170eb7233941d6",
+      "commits": [
+        {
+          "sha": "8a174d4f393ae2809ce77bdf8338739c3b285072",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Add support for auth_settings",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/8a174d4f393ae2809ce77bdf8338739c3b285072"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T08:45:24Z"
+  },
+  {
+    "id": "54666201204",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26793017388,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "1b2d19dc876b0c283ab2a1cc78170eb7233941d6",
+      "before": "33c35236538a9c024c4836f1ca3397396dae93a8",
+      "commits": [
+        {
+          "sha": "1b2d19dc876b0c283ab2a1cc78170eb7233941d6",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Add support for storage_account",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/1b2d19dc876b0c283ab2a1cc78170eb7233941d6"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T08:03:02Z"
+  },
+  {
+    "id": "54665655592",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26792670044,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "33c35236538a9c024c4836f1ca3397396dae93a8",
+      "before": "f4372b5939d39d42b11193bdd21cc211ec9f94a6",
+      "commits": [
+        {
+          "sha": "33c35236538a9c024c4836f1ca3397396dae93a8",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/33c35236538a9c024c4836f1ca3397396dae93a8"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T07:19:43Z"
+  },
+  {
+    "id": "54665444631",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26792538276,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "f4372b5939d39d42b11193bdd21cc211ec9f94a6",
+      "before": "f586759df16a0f6f28da8f8b61b964b6360bba08",
+      "commits": [
+        {
+          "sha": "f4372b5939d39d42b11193bdd21cc211ec9f94a6",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/f4372b5939d39d42b11193bdd21cc211ec9f94a6"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T07:02:52Z"
+  },
+  {
+    "id": "54665352541",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "ref": "feature/caf-compliant",
+      "ref_type": "branch",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-09-14T06:55:49Z"
+  },
+  {
+    "id": "54665352066",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26792476968,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "f586759df16a0f6f28da8f8b61b964b6360bba08",
+      "before": "abb29b8822283955ad6e6a7d7da6fb956816c933",
+      "commits": [
+        {
+          "sha": "f586759df16a0f6f28da8f8b61b964b6360bba08",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "atrakic"
+          },
+          "message": "CAF naming compliance (#4)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/f586759df16a0f6f28da8f8b61b964b6360bba08"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T06:55:47Z"
+  },
+  {
+    "id": "54665351895",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "action": "closed",
+      "number": 4,
+      "pull_request": {
+        "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4",
+        "id": 2826373442,
+        "node_id": "PR_kwDOPs8bXc6odwlC",
+        "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/4",
+        "diff_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/4.diff",
+        "patch_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/4.patch",
+        "issue_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/4",
+        "number": 4,
+        "state": "closed",
+        "locked": false,
+        "title": "CAF compliance",
+        "user": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "body": null,
+        "created_at": "2025-09-14T06:24:14Z",
+        "updated_at": "2025-09-14T06:55:45Z",
+        "closed_at": "2025-09-14T06:55:45Z",
+        "merged_at": "2025-09-14T06:55:45Z",
+        "merge_commit_sha": "f586759df16a0f6f28da8f8b61b964b6360bba08",
+        "assignee": null,
+        "assignees": [],
+        "requested_reviewers": [],
+        "requested_teams": [],
+        "labels": [],
+        "milestone": null,
+        "draft": false,
+        "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4/commits",
+        "review_comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4/comments",
+        "review_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/comments{/number}",
+        "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/4/comments",
+        "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/ab4ee4f8c9193ed5ead3338629b61fbbfd9a6599",
+        "head": {
+          "label": "atrakic:feature/caf-compliant",
+          "ref": "feature/caf-compliant",
+          "sha": "ab4ee4f8c9193ed5ead3338629b61fbbfd9a6599",
+          "user": {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 1053760349,
+            "node_id": "R_kgDOPs8bXQ",
+            "name": "azure-linux-web-app-terraform",
+            "full_name": "atrakic/azure-linux-web-app-terraform",
+            "private": false,
+            "owner": {
+              "login": "atrakic",
+              "id": 15816139,
+              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/atrakic",
+              "html_url": "https://github.com/atrakic",
+              "followers_url": "https://api.github.com/users/atrakic/followers",
+              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+              "organizations_url": "https://api.github.com/users/atrakic/orgs",
+              "repos_url": "https://api.github.com/users/atrakic/repos",
+              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/atrakic/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "description": "Deploy full stack containerized project to Azure Cloud using Terraform. Uses (ACR + Linux WebApp)",
+            "fork": false,
+            "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform",
+            "forks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/forks",
+            "keys_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/teams",
+            "hooks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/hooks",
+            "issue_events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/events",
+            "assignees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/tags",
+            "blobs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/languages",
+            "stargazers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/stargazers",
+            "contributors_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contributors",
+            "subscribers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscribers",
+            "subscription_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscription",
+            "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/merges",
+            "archive_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/downloads",
+            "issues_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/labels{/name}",
+            "releases_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/deployments",
+            "created_at": "2025-09-09T22:29:32Z",
+            "updated_at": "2025-09-14T06:04:33Z",
+            "pushed_at": "2025-09-14T06:54:59Z",
+            "git_url": "git://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "ssh_url": "git@github.com:atrakic/azure-linux-web-app-terraform.git",
+            "clone_url": "https://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "svn_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "homepage": "",
+            "size": 109,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "HCL",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 0,
+            "license": {
+              "key": "mit",
+              "name": "MIT License",
+              "spdx_id": "MIT",
+              "url": "https://api.github.com/licenses/mit",
+              "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [
+              "azure",
+              "iac-terraform"
+            ],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "main"
+          }
+        },
+        "base": {
+          "label": "atrakic:main",
+          "ref": "main",
+          "sha": "abb29b8822283955ad6e6a7d7da6fb956816c933",
+          "user": {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 1053760349,
+            "node_id": "R_kgDOPs8bXQ",
+            "name": "azure-linux-web-app-terraform",
+            "full_name": "atrakic/azure-linux-web-app-terraform",
+            "private": false,
+            "owner": {
+              "login": "atrakic",
+              "id": 15816139,
+              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/atrakic",
+              "html_url": "https://github.com/atrakic",
+              "followers_url": "https://api.github.com/users/atrakic/followers",
+              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+              "organizations_url": "https://api.github.com/users/atrakic/orgs",
+              "repos_url": "https://api.github.com/users/atrakic/repos",
+              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/atrakic/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "description": "Deploy full stack containerized project to Azure Cloud using Terraform. Uses (ACR + Linux WebApp)",
+            "fork": false,
+            "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform",
+            "forks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/forks",
+            "keys_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/teams",
+            "hooks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/hooks",
+            "issue_events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/events",
+            "assignees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/tags",
+            "blobs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/languages",
+            "stargazers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/stargazers",
+            "contributors_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contributors",
+            "subscribers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscribers",
+            "subscription_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscription",
+            "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/merges",
+            "archive_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/downloads",
+            "issues_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/labels{/name}",
+            "releases_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/deployments",
+            "created_at": "2025-09-09T22:29:32Z",
+            "updated_at": "2025-09-14T06:04:33Z",
+            "pushed_at": "2025-09-14T06:54:59Z",
+            "git_url": "git://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "ssh_url": "git@github.com:atrakic/azure-linux-web-app-terraform.git",
+            "clone_url": "https://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "svn_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "homepage": "",
+            "size": 109,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "HCL",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 0,
+            "license": {
+              "key": "mit",
+              "name": "MIT License",
+              "spdx_id": "MIT",
+              "url": "https://api.github.com/licenses/mit",
+              "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [
+              "azure",
+              "iac-terraform"
+            ],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "main"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4"
+          },
+          "html": {
+            "href": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/4"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/4"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/4/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/comments{/number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/ab4ee4f8c9193ed5ead3338629b61fbbfd9a6599"
+          }
+        },
+        "author_association": "OWNER",
+        "auto_merge": null,
+        "active_lock_reason": null,
+        "merged": true,
+        "mergeable": null,
+        "rebaseable": null,
+        "mergeable_state": "unknown",
+        "merged_by": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "comments": 0,
+        "review_comments": 0,
+        "maintainer_can_modify": false,
+        "commits": 3,
+        "additions": 14,
+        "deletions": 14,
+        "changed_files": 2
+      }
+    },
+    "public": true,
+    "created_at": "2025-09-14T06:55:46Z"
+  },
+  {
+    "id": "54665343301",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26792471460,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/caf-compliant",
+      "head": "ab4ee4f8c9193ed5ead3338629b61fbbfd9a6599",
+      "before": "d8e7d9779f7afbd5817977037326788c94212213",
+      "commits": [
+        {
+          "sha": "ab4ee4f8c9193ed5ead3338629b61fbbfd9a6599",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/ab4ee4f8c9193ed5ead3338629b61fbbfd9a6599"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T06:55:00Z"
+  },
+  {
+    "id": "54665292156",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26792440086,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/caf-compliant",
+      "head": "d8e7d9779f7afbd5817977037326788c94212213",
+      "before": "3c5b7ac7d2ecb106a6bd48682339f9170c2b5054",
+      "commits": [
+        {
+          "sha": "d8e7d9779f7afbd5817977037326788c94212213",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/d8e7d9779f7afbd5817977037326788c94212213"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T06:50:30Z"
+  },
+  {
+    "id": "54664989533",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 4,
+      "pull_request": {
+        "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4",
+        "id": 2826373442,
+        "node_id": "PR_kwDOPs8bXc6odwlC",
+        "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/4",
+        "diff_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/4.diff",
+        "patch_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/4.patch",
+        "issue_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/4",
+        "number": 4,
+        "state": "open",
+        "locked": false,
+        "title": "Add CAF compliance",
+        "user": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "body": null,
+        "created_at": "2025-09-14T06:24:14Z",
+        "updated_at": "2025-09-14T06:24:14Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "assignees": [],
+        "requested_reviewers": [],
+        "requested_teams": [],
+        "labels": [],
+        "milestone": null,
+        "draft": false,
+        "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4/commits",
+        "review_comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4/comments",
+        "review_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/comments{/number}",
+        "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/4/comments",
+        "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/3c5b7ac7d2ecb106a6bd48682339f9170c2b5054",
+        "head": {
+          "label": "atrakic:feature/caf-compliant",
+          "ref": "feature/caf-compliant",
+          "sha": "3c5b7ac7d2ecb106a6bd48682339f9170c2b5054",
+          "user": {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 1053760349,
+            "node_id": "R_kgDOPs8bXQ",
+            "name": "azure-linux-web-app-terraform",
+            "full_name": "atrakic/azure-linux-web-app-terraform",
+            "private": false,
+            "owner": {
+              "login": "atrakic",
+              "id": 15816139,
+              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/atrakic",
+              "html_url": "https://github.com/atrakic",
+              "followers_url": "https://api.github.com/users/atrakic/followers",
+              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+              "organizations_url": "https://api.github.com/users/atrakic/orgs",
+              "repos_url": "https://api.github.com/users/atrakic/repos",
+              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/atrakic/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "description": "Deploy full stack containerized project to Azure Cloud using Terraform. Uses (ACR + Linux WebApp)",
+            "fork": false,
+            "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform",
+            "forks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/forks",
+            "keys_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/teams",
+            "hooks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/hooks",
+            "issue_events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/events",
+            "assignees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/tags",
+            "blobs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/languages",
+            "stargazers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/stargazers",
+            "contributors_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contributors",
+            "subscribers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscribers",
+            "subscription_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscription",
+            "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/merges",
+            "archive_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/downloads",
+            "issues_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/labels{/name}",
+            "releases_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/deployments",
+            "created_at": "2025-09-09T22:29:32Z",
+            "updated_at": "2025-09-14T06:04:33Z",
+            "pushed_at": "2025-09-14T06:23:27Z",
+            "git_url": "git://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "ssh_url": "git@github.com:atrakic/azure-linux-web-app-terraform.git",
+            "clone_url": "https://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "svn_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "homepage": "",
+            "size": 141,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "HCL",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 1,
+            "license": {
+              "key": "mit",
+              "name": "MIT License",
+              "spdx_id": "MIT",
+              "url": "https://api.github.com/licenses/mit",
+              "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [
+              "azure",
+              "iac-terraform"
+            ],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "main"
+          }
+        },
+        "base": {
+          "label": "atrakic:main",
+          "ref": "main",
+          "sha": "abb29b8822283955ad6e6a7d7da6fb956816c933",
+          "user": {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 1053760349,
+            "node_id": "R_kgDOPs8bXQ",
+            "name": "azure-linux-web-app-terraform",
+            "full_name": "atrakic/azure-linux-web-app-terraform",
+            "private": false,
+            "owner": {
+              "login": "atrakic",
+              "id": 15816139,
+              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/atrakic",
+              "html_url": "https://github.com/atrakic",
+              "followers_url": "https://api.github.com/users/atrakic/followers",
+              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+              "organizations_url": "https://api.github.com/users/atrakic/orgs",
+              "repos_url": "https://api.github.com/users/atrakic/repos",
+              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/atrakic/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "description": "Deploy full stack containerized project to Azure Cloud using Terraform. Uses (ACR + Linux WebApp)",
+            "fork": false,
+            "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform",
+            "forks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/forks",
+            "keys_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/teams",
+            "hooks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/hooks",
+            "issue_events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/events",
+            "assignees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/tags",
+            "blobs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/languages",
+            "stargazers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/stargazers",
+            "contributors_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contributors",
+            "subscribers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscribers",
+            "subscription_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscription",
+            "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/merges",
+            "archive_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/downloads",
+            "issues_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/labels{/name}",
+            "releases_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/deployments",
+            "created_at": "2025-09-09T22:29:32Z",
+            "updated_at": "2025-09-14T06:04:33Z",
+            "pushed_at": "2025-09-14T06:23:27Z",
+            "git_url": "git://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "ssh_url": "git@github.com:atrakic/azure-linux-web-app-terraform.git",
+            "clone_url": "https://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "svn_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "homepage": "",
+            "size": 141,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "HCL",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 1,
+            "license": {
+              "key": "mit",
+              "name": "MIT License",
+              "spdx_id": "MIT",
+              "url": "https://api.github.com/licenses/mit",
+              "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [
+              "azure",
+              "iac-terraform"
+            ],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "main"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4"
+          },
+          "html": {
+            "href": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/4"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/4"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/4/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/comments{/number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/3c5b7ac7d2ecb106a6bd48682339f9170c2b5054"
+          }
+        },
+        "author_association": "OWNER",
+        "auto_merge": null,
+        "active_lock_reason": null,
+        "merged": false,
+        "mergeable": null,
+        "rebaseable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "maintainer_can_modify": false,
+        "commits": 1,
+        "additions": 13,
+        "deletions": 2,
+        "changed_files": 1
+      }
+    },
+    "public": true,
+    "created_at": "2025-09-14T06:24:15Z"
+  },
+  {
+    "id": "54664981007",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "ref": "feature/caf-compliant",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "Deploy full stack containerized project to Azure Cloud using Terraform. Uses (ACR + Linux WebApp)",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-09-14T06:23:27Z"
+  },
+  {
+    "id": "54664760254",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "ref": "feature/tf-ci",
+      "ref_type": "branch",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-09-14T06:04:34Z"
+  },
+  {
+    "id": "54664759778",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26792097053,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "abb29b8822283955ad6e6a7d7da6fb956816c933",
+      "before": "5f95b22c40c7fc36cc8d04f7d023d4e1f592f391",
+      "commits": [
+        {
+          "sha": "abb29b8822283955ad6e6a7d7da6fb956816c933",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "atrakic"
+          },
+          "message": "Terraform CI (#3)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/abb29b8822283955ad6e6a7d7da6fb956816c933"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T06:04:31Z"
+  },
+  {
+    "id": "54664759672",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "action": "closed",
+      "number": 3,
+      "pull_request": {
+        "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/3",
+        "id": 2826362015,
+        "node_id": "PR_kwDOPs8bXc6odtyf",
+        "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/3",
+        "diff_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/3.diff",
+        "patch_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/3.patch",
+        "issue_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/3",
+        "number": 3,
+        "state": "closed",
+        "locked": false,
+        "title": "Terraform CI",
+        "user": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "body": null,
+        "created_at": "2025-09-14T06:03:39Z",
+        "updated_at": "2025-09-14T06:04:30Z",
+        "closed_at": "2025-09-14T06:04:30Z",
+        "merged_at": "2025-09-14T06:04:30Z",
+        "merge_commit_sha": "abb29b8822283955ad6e6a7d7da6fb956816c933",
+        "assignee": null,
+        "assignees": [],
+        "requested_reviewers": [],
+        "requested_teams": [],
+        "labels": [],
+        "milestone": null,
+        "draft": false,
+        "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/3/commits",
+        "review_comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/3/comments",
+        "review_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/comments{/number}",
+        "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/3/comments",
+        "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/2969a1ca5fae972de6a891aa45c4162170bc6c8c",
+        "head": {
+          "label": "atrakic:feature/tf-ci",
+          "ref": "feature/tf-ci",
+          "sha": "2969a1ca5fae972de6a891aa45c4162170bc6c8c",
+          "user": {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 1053760349,
+            "node_id": "R_kgDOPs8bXQ",
+            "name": "azure-linux-web-app-terraform",
+            "full_name": "atrakic/azure-linux-web-app-terraform",
+            "private": false,
+            "owner": {
+              "login": "atrakic",
+              "id": 15816139,
+              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/atrakic",
+              "html_url": "https://github.com/atrakic",
+              "followers_url": "https://api.github.com/users/atrakic/followers",
+              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+              "organizations_url": "https://api.github.com/users/atrakic/orgs",
+              "repos_url": "https://api.github.com/users/atrakic/repos",
+              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/atrakic/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "description": "Deploy full stack containerized project to Azure Cloud using Terraform. Uses (ACR + Linux WebApp)",
+            "fork": false,
+            "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform",
+            "forks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/forks",
+            "keys_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/teams",
+            "hooks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/hooks",
+            "issue_events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/events",
+            "assignees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/tags",
+            "blobs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/languages",
+            "stargazers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/stargazers",
+            "contributors_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contributors",
+            "subscribers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscribers",
+            "subscription_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscription",
+            "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/merges",
+            "archive_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/downloads",
+            "issues_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/labels{/name}",
+            "releases_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/deployments",
+            "created_at": "2025-09-09T22:29:32Z",
+            "updated_at": "2025-09-12T22:08:46Z",
+            "pushed_at": "2025-09-14T06:02:44Z",
+            "git_url": "git://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "ssh_url": "git@github.com:atrakic/azure-linux-web-app-terraform.git",
+            "clone_url": "https://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "svn_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "homepage": "",
+            "size": 141,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "HCL",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 0,
+            "license": {
+              "key": "mit",
+              "name": "MIT License",
+              "spdx_id": "MIT",
+              "url": "https://api.github.com/licenses/mit",
+              "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [
+              "azure",
+              "iac-terraform"
+            ],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "main"
+          }
+        },
+        "base": {
+          "label": "atrakic:main",
+          "ref": "main",
+          "sha": "5f95b22c40c7fc36cc8d04f7d023d4e1f592f391",
+          "user": {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 1053760349,
+            "node_id": "R_kgDOPs8bXQ",
+            "name": "azure-linux-web-app-terraform",
+            "full_name": "atrakic/azure-linux-web-app-terraform",
+            "private": false,
+            "owner": {
+              "login": "atrakic",
+              "id": 15816139,
+              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/atrakic",
+              "html_url": "https://github.com/atrakic",
+              "followers_url": "https://api.github.com/users/atrakic/followers",
+              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+              "organizations_url": "https://api.github.com/users/atrakic/orgs",
+              "repos_url": "https://api.github.com/users/atrakic/repos",
+              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/atrakic/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "description": "Deploy full stack containerized project to Azure Cloud using Terraform. Uses (ACR + Linux WebApp)",
+            "fork": false,
+            "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform",
+            "forks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/forks",
+            "keys_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/teams",
+            "hooks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/hooks",
+            "issue_events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/events",
+            "assignees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/tags",
+            "blobs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/languages",
+            "stargazers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/stargazers",
+            "contributors_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contributors",
+            "subscribers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscribers",
+            "subscription_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscription",
+            "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/merges",
+            "archive_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/downloads",
+            "issues_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/labels{/name}",
+            "releases_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/deployments",
+            "created_at": "2025-09-09T22:29:32Z",
+            "updated_at": "2025-09-12T22:08:46Z",
+            "pushed_at": "2025-09-14T06:02:44Z",
+            "git_url": "git://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "ssh_url": "git@github.com:atrakic/azure-linux-web-app-terraform.git",
+            "clone_url": "https://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "svn_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "homepage": "",
+            "size": 141,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "HCL",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 0,
+            "license": {
+              "key": "mit",
+              "name": "MIT License",
+              "spdx_id": "MIT",
+              "url": "https://api.github.com/licenses/mit",
+              "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [
+              "azure",
+              "iac-terraform"
+            ],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "main"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/3"
+          },
+          "html": {
+            "href": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/3"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/3"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/3/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/3/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/comments{/number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/3/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/2969a1ca5fae972de6a891aa45c4162170bc6c8c"
+          }
+        },
+        "author_association": "OWNER",
+        "auto_merge": null,
+        "active_lock_reason": null,
+        "merged": true,
+        "mergeable": null,
+        "rebaseable": null,
+        "mergeable_state": "unknown",
+        "merged_by": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "comments": 0,
+        "review_comments": 0,
+        "maintainer_can_modify": false,
+        "commits": 30,
+        "additions": 48,
+        "deletions": 36,
+        "changed_files": 4
+      }
+    },
+    "public": true,
+    "created_at": "2025-09-14T06:04:31Z"
+  },
+  {
+    "id": "54664749543",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 3,
+      "pull_request": {
+        "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/3",
+        "id": 2826362015,
+        "node_id": "PR_kwDOPs8bXc6odtyf",
+        "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/3",
+        "diff_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/3.diff",
+        "patch_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/3.patch",
+        "issue_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/3",
+        "number": 3,
+        "state": "open",
+        "locked": false,
+        "title": "Terraform CI",
+        "user": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "body": null,
+        "created_at": "2025-09-14T06:03:39Z",
+        "updated_at": "2025-09-14T06:03:39Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "assignees": [],
+        "requested_reviewers": [],
+        "requested_teams": [],
+        "labels": [],
+        "milestone": null,
+        "draft": false,
+        "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/3/commits",
+        "review_comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/3/comments",
+        "review_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/comments{/number}",
+        "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/3/comments",
+        "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/2969a1ca5fae972de6a891aa45c4162170bc6c8c",
+        "head": {
+          "label": "atrakic:feature/tf-ci",
+          "ref": "feature/tf-ci",
+          "sha": "2969a1ca5fae972de6a891aa45c4162170bc6c8c",
+          "user": {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 1053760349,
+            "node_id": "R_kgDOPs8bXQ",
+            "name": "azure-linux-web-app-terraform",
+            "full_name": "atrakic/azure-linux-web-app-terraform",
+            "private": false,
+            "owner": {
+              "login": "atrakic",
+              "id": 15816139,
+              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/atrakic",
+              "html_url": "https://github.com/atrakic",
+              "followers_url": "https://api.github.com/users/atrakic/followers",
+              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+              "organizations_url": "https://api.github.com/users/atrakic/orgs",
+              "repos_url": "https://api.github.com/users/atrakic/repos",
+              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/atrakic/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "description": "Deploy full stack containerized project to Azure Cloud using Terraform. Uses (ACR + Linux WebApp)",
+            "fork": false,
+            "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform",
+            "forks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/forks",
+            "keys_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/teams",
+            "hooks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/hooks",
+            "issue_events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/events",
+            "assignees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/tags",
+            "blobs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/languages",
+            "stargazers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/stargazers",
+            "contributors_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contributors",
+            "subscribers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscribers",
+            "subscription_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscription",
+            "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/merges",
+            "archive_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/downloads",
+            "issues_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/labels{/name}",
+            "releases_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/deployments",
+            "created_at": "2025-09-09T22:29:32Z",
+            "updated_at": "2025-09-12T22:08:46Z",
+            "pushed_at": "2025-09-14T06:02:44Z",
+            "git_url": "git://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "ssh_url": "git@github.com:atrakic/azure-linux-web-app-terraform.git",
+            "clone_url": "https://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "svn_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "homepage": "",
+            "size": 141,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "HCL",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 1,
+            "license": {
+              "key": "mit",
+              "name": "MIT License",
+              "spdx_id": "MIT",
+              "url": "https://api.github.com/licenses/mit",
+              "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [
+              "azure",
+              "iac-terraform"
+            ],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "main"
+          }
+        },
+        "base": {
+          "label": "atrakic:main",
+          "ref": "main",
+          "sha": "5f95b22c40c7fc36cc8d04f7d023d4e1f592f391",
+          "user": {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 1053760349,
+            "node_id": "R_kgDOPs8bXQ",
+            "name": "azure-linux-web-app-terraform",
+            "full_name": "atrakic/azure-linux-web-app-terraform",
+            "private": false,
+            "owner": {
+              "login": "atrakic",
+              "id": 15816139,
+              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/atrakic",
+              "html_url": "https://github.com/atrakic",
+              "followers_url": "https://api.github.com/users/atrakic/followers",
+              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+              "organizations_url": "https://api.github.com/users/atrakic/orgs",
+              "repos_url": "https://api.github.com/users/atrakic/repos",
+              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/atrakic/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "description": "Deploy full stack containerized project to Azure Cloud using Terraform. Uses (ACR + Linux WebApp)",
+            "fork": false,
+            "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform",
+            "forks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/forks",
+            "keys_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/teams",
+            "hooks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/hooks",
+            "issue_events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/events",
+            "assignees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/tags",
+            "blobs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/languages",
+            "stargazers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/stargazers",
+            "contributors_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contributors",
+            "subscribers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscribers",
+            "subscription_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscription",
+            "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/merges",
+            "archive_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/downloads",
+            "issues_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/labels{/name}",
+            "releases_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/deployments",
+            "created_at": "2025-09-09T22:29:32Z",
+            "updated_at": "2025-09-12T22:08:46Z",
+            "pushed_at": "2025-09-14T06:02:44Z",
+            "git_url": "git://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "ssh_url": "git@github.com:atrakic/azure-linux-web-app-terraform.git",
+            "clone_url": "https://github.com/atrakic/azure-linux-web-app-terraform.git",
+            "svn_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
+            "homepage": "",
+            "size": 141,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "HCL",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 1,
+            "license": {
+              "key": "mit",
+              "name": "MIT License",
+              "spdx_id": "MIT",
+              "url": "https://api.github.com/licenses/mit",
+              "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [
+              "azure",
+              "iac-terraform"
+            ],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "main"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/3"
+          },
+          "html": {
+            "href": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/3"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/3"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/3/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/3/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/comments{/number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/3/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/2969a1ca5fae972de6a891aa45c4162170bc6c8c"
+          }
+        },
+        "author_association": "OWNER",
+        "auto_merge": null,
+        "active_lock_reason": null,
+        "merged": false,
+        "mergeable": null,
+        "rebaseable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "maintainer_can_modify": false,
+        "commits": 30,
+        "additions": 48,
+        "deletions": 36,
+        "changed_files": 4
+      }
+    },
+    "public": true,
+    "created_at": "2025-09-14T06:03:40Z"
+  },
+  {
+    "id": "54664738192",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26792083872,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/tf-ci",
+      "head": "2969a1ca5fae972de6a891aa45c4162170bc6c8c",
+      "before": "f8c4657e2f8516d045754142891887b2a2b3883e",
+      "commits": [
+        {
+          "sha": "2969a1ca5fae972de6a891aa45c4162170bc6c8c",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/2969a1ca5fae972de6a891aa45c4162170bc6c8c"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T06:02:45Z"
+  },
+  {
+    "id": "54664624376",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26792009754,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/tf-ci",
+      "head": "f8c4657e2f8516d045754142891887b2a2b3883e",
+      "before": "5bc6d57f5893e38e225fcbfe4f1776906a461775",
+      "commits": [
+        {
+          "sha": "f8c4657e2f8516d045754142891887b2a2b3883e",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/f8c4657e2f8516d045754142891887b2a2b3883e"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T05:52:37Z"
+  },
+  {
+    "id": "54664590907",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26791989544,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/tf-ci",
+      "head": "5bc6d57f5893e38e225fcbfe4f1776906a461775",
+      "before": "f354b6ae8083b7a259b4ddd35f72291344681cf0",
+      "commits": [
+        {
+          "sha": "5bc6d57f5893e38e225fcbfe4f1776906a461775",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/5bc6d57f5893e38e225fcbfe4f1776906a461775"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T05:49:29Z"
+  },
+  {
+    "id": "54664539599",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26791956707,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/tf-ci",
+      "head": "f354b6ae8083b7a259b4ddd35f72291344681cf0",
+      "before": "e9e60da8903bf152250afd652be23b8d1911cc1d",
+      "commits": [
+        {
+          "sha": "f354b6ae8083b7a259b4ddd35f72291344681cf0",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/f354b6ae8083b7a259b4ddd35f72291344681cf0"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T05:44:15Z"
+  },
+  {
+    "id": "54664495891",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26791928794,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/tf-ci",
+      "head": "e9e60da8903bf152250afd652be23b8d1911cc1d",
+      "before": "c1ca197ba32170d89ef944ea71a5b8055c9eb6ba",
+      "commits": [
+        {
+          "sha": "e9e60da8903bf152250afd652be23b8d1911cc1d",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/e9e60da8903bf152250afd652be23b8d1911cc1d"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T05:40:04Z"
+  },
+  {
+    "id": "54664480331",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26791918902,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/tf-ci",
+      "head": "c1ca197ba32170d89ef944ea71a5b8055c9eb6ba",
+      "before": "bca5b4f24f211475a50a2229a8bfc70dbcf0a317",
+      "commits": [
+        {
+          "sha": "c1ca197ba32170d89ef944ea71a5b8055c9eb6ba",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/c1ca197ba32170d89ef944ea71a5b8055c9eb6ba"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T05:38:34Z"
+  },
+  {
+    "id": "54664462214",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26791906852,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/tf-ci",
+      "head": "bca5b4f24f211475a50a2229a8bfc70dbcf0a317",
+      "before": "d6e051dab5ca8d972fe1bb9ac01f6c03c44c1a47",
+      "commits": [
+        {
+          "sha": "bca5b4f24f211475a50a2229a8bfc70dbcf0a317",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/bca5b4f24f211475a50a2229a8bfc70dbcf0a317"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T05:36:46Z"
+  },
+  {
+    "id": "54664399584",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26791867589,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/feature/tf-ci",
+      "head": "d6e051dab5ca8d972fe1bb9ac01f6c03c44c1a47",
+      "before": "a7690ef625c04be7b4273631627ecbde006c2f52",
+      "commits": [
+        {
+          "sha": "d699dbb2e0e968512868bca326c35655bf5a5ab0",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/d699dbb2e0e968512868bca326c35655bf5a5ab0"
+        },
+        {
+          "sha": "d6e051dab5ca8d972fe1bb9ac01f6c03c44c1a47",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/d6e051dab5ca8d972fe1bb9ac01f6c03c44c1a47"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T05:30:59Z"
+  },
+  {
+    "id": "54664371586",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26791848280,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/tf-ci",
+      "head": "a7690ef625c04be7b4273631627ecbde006c2f52",
+      "before": "6595dab12ea0da6285487e4517067c17d6bc2916",
+      "commits": [
+        {
+          "sha": "a7690ef625c04be7b4273631627ecbde006c2f52",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/a7690ef625c04be7b4273631627ecbde006c2f52"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T05:28:46Z"
+  },
+  {
+    "id": "54664345197",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26791829800,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/tf-ci",
+      "head": "6595dab12ea0da6285487e4517067c17d6bc2916",
+      "before": "60e1f4839a8d3094d0df2f546cde2377ee70f577",
+      "commits": [
+        {
+          "sha": "6595dab12ea0da6285487e4517067c17d6bc2916",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/6595dab12ea0da6285487e4517067c17d6bc2916"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T05:26:27Z"
+  },
+  {
+    "id": "54664312127",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26791807544,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/tf-ci",
+      "head": "60e1f4839a8d3094d0df2f546cde2377ee70f577",
+      "before": "1849112c312683e0ec66285cc1739e983372c272",
+      "commits": [
+        {
+          "sha": "60e1f4839a8d3094d0df2f546cde2377ee70f577",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/60e1f4839a8d3094d0df2f546cde2377ee70f577"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T05:24:16Z"
+  },
+  {
+    "id": "54664286728",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 26791789894,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/tf-ci",
+      "head": "1849112c312683e0ec66285cc1739e983372c272",
+      "before": "a8674bc765d28adc8c278010347b97392ecf546b",
+      "commits": [
+        {
+          "sha": "1849112c312683e0ec66285cc1739e983372c272",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/1849112c312683e0ec66285cc1739e983372c272"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-14T05:22:18Z"
+  }
+]

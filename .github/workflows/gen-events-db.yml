@@ -1,0 +1,38 @@
+name: Aggregate Events
+
+on:
+  push:
+    paths:
+      - 'events.json'
+  #schedule:
+  #  - cron: '*/30 * * * *'  # Run every 30 minutes
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Get full history
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: |
+          pip install sqlite-utils
+          
+      - name: Aggregate events
+        run: |
+          sqlite-utils insert events.db events \
+            events.json --alter --pk=id --replace
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add events.db
+          git commit -m "Update events database" || exit 0
+          git push

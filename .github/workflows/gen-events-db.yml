@@ -4,8 +4,8 @@ on:
   push:
     paths:
       - 'events.json'
-  #schedule:
-  #  - cron: '*/30 * * * *'  # Run every 30 minutes
+  schedule:
+    - cron: '0 8 * * *'  # every-day-8am
 
 jobs:
   aggregate:

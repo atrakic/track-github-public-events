@@ -1,5 +1,1189 @@
 [
   {
+    "id": "54904712190",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 745478743,
+      "name": "atrakic/MudBlazor.App",
+      "url": "https://api.github.com/repos/atrakic/MudBlazor.App"
+    },
+    "payload": {
+      "repository_id": 745478743,
+      "push_id": 26909575241,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "b5c15e01f48429d312ca60ff68b9a35176cbcc78",
+      "before": "66be8c8e53727da120a90b53730dddd9e42d8543",
+      "commits": [
+        {
+          "sha": "b5c15e01f48429d312ca60ff68b9a35176cbcc78",
+          "author": {
+            "email": "49699333+dependabot[bot]@users.noreply.github.com",
+            "name": "dependabot[bot]"
+          },
+          "message": "chore(deps): bump xunit from 2.9.0 to 2.9.2 (#65)\n\nBumps [xunit](https://github.com/xunit/xunit) from 2.9.0 to 2.9.2.\n- [Commits](https://github.com/xunit/xunit/compare/v2-2.9.0...v2-2.9.2)\n\n---\nupdated-dependencies:\n- dependency-name: xunit\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/MudBlazor.App/commits/b5c15e01f48429d312ca60ff68b9a35176cbcc78"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-18T21:43:55Z"
+  },
+  {
+    "id": "54904711839",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 745478743,
+      "name": "atrakic/MudBlazor.App",
+      "url": "https://api.github.com/repos/atrakic/MudBlazor.App"
+    },
+    "payload": {
+      "action": "closed",
+      "number": 65,
+      "pull_request": {
+        "url": "https://api.github.com/repos/atrakic/MudBlazor.App/pulls/65",
+        "id": 2099858638,
+        "node_id": "PR_kwDOLG8aV859KUzO",
+        "html_url": "https://github.com/atrakic/MudBlazor.App/pull/65",
+        "diff_url": "https://github.com/atrakic/MudBlazor.App/pull/65.diff",
+        "patch_url": "https://github.com/atrakic/MudBlazor.App/pull/65.patch",
+        "issue_url": "https://api.github.com/repos/atrakic/MudBlazor.App/issues/65",
+        "number": 65,
+        "state": "closed",
+        "locked": false,
+        "title": "chore(deps): bump xunit from 2.9.0 to 2.9.2",
+        "user": {
+          "login": "dependabot[bot]",
+          "id": 49699333,
+          "node_id": "MDM6Qm90NDk2OTkzMzM=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+          "html_url": "https://github.com/apps/dependabot",
+          "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "body": "Bumps [xunit](https://github.com/xunit/xunit) from 2.9.0 to 2.9.2.\n<details>\n<summary>Commits</summary>\n<ul>\n<li><a href=\"https://github.com/xunit/xunit/commit/82543a6df6f5f13b5b70f8a9f9ccb41cd676084f\"><code>82543a6</code></a> v2.9.2</li>\n<li><a href=\"https://github.com/xunit/xunit/commit/0f8f1563876f2cbbb9af27e0bb14b824372fd4a8\"><code>0f8f156</code></a> <a href=\"https://redirect.github.com/xunit/xunit/issues/3031\">#3031</a>: Changes to TheoryData break tests with arrays of objects</li>\n<li><a href=\"https://github.com/xunit/xunit/commit/502f6d10bf015ac570f8f1ca378882a9526fe0bc\"><code>502f6d1</code></a> Bump up to v2.9.2-pre</li>\n<li><a href=\"https://github.com/xunit/xunit/commit/bb7c3e4e7435b20d627b3babdf2c5681e4ad7b22\"><code>bb7c3e4</code></a> v2.9.1</li>\n<li><a href=\"https://github.com/xunit/xunit/commit/5d70d25462492a6ee67664da468b99a624550e01\"><code>5d70d25</code></a> <a href=\"https://redirect.github.com/xunit/xunit/issues/3028\">#3028</a>: Support IGrouping&lt;TKey,TValue&gt; in Assert.Equivalent (v2)</li>\n<li><a href=\"https://github.com/xunit/xunit/commit/ed6e05b57ef61441dbe85475001083321a2c84b6\"><code>ed6e05b</code></a> Add support for IGrouping&lt;,&gt; in ArgumentFormatter, assuming it's safe to re-e...</li>\n<li><a href=\"https://github.com/xunit/xunit/commit/d97c7f863d8caa88813f940786b97b7c98ae4f52\"><code>d97c7f8</code></a> Restore TestInvoker&lt;T&gt;.GetTaskFromResult (forwards to AsyncUtility.TryConvert...</li>\n<li><a href=\"https://github.com/xunit/xunit/commit/416ed8182d9b6a4a712563e6d7519a7c8281588e\"><code>416ed81</code></a> <a href=\"https://redirect.github.com/xunit/xunit/issues/3021\">#3021</a>: Add overload of Assert.Equal to resolve compiler ambiguity</li>\n<li><a href=\"https://github.com/xunit/xunit/commit/6b86235b1b2fa3bda92be6dde1cca389d72f1278\"><code>6b86235</code></a> Add Assert.Equivalent support for evaluating Lazy&lt;T&gt;</li>\n<li><a href=\"https://github.com/xunit/xunit/commit/aadff058f0bd74e1ce12f69d7c021902167966b1\"><code>aadff05</code></a> Updated build table in README</li>\n<li>Additional commits viewable in <a href=\"https://github.com/xunit/xunit/compare/v2-2.9.0...v2-2.9.2\">compare view</a></li>\n</ul>\n</details>\n<br />\n\n\n[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=xunit&package-manager=nuget&previous-version=2.9.0&new-version=2.9.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)\n\nDependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.\n\n[//]: # (dependabot-automerge-start)\n[//]: # (dependabot-automerge-end)\n\n---\n\n<details>\n<summary>Dependabot commands and options</summary>\n<br />\n\nYou can trigger Dependabot actions by commenting on this PR:\n- `@dependabot rebase` will rebase this PR\n- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it\n- `@dependabot merge` will merge this PR after your CI passes on it\n- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it\n- `@dependabot cancel merge` will cancel a previously requested merge and block automerging\n- `@dependabot reopen` will reopen this PR if it is closed\n- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually\n- `@dependabot show <dependency name> ignore conditions` will show all of the ignore conditions of the specified dependency\n- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)\n- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)\n- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)\n\n\n</details>",
+        "created_at": "2024-09-30T19:18:47Z",
+        "updated_at": "2025-09-18T21:43:53Z",
+        "closed_at": "2025-09-18T21:43:53Z",
+        "merged_at": "2025-09-18T21:43:53Z",
+        "merge_commit_sha": "b5c15e01f48429d312ca60ff68b9a35176cbcc78",
+        "assignee": null,
+        "assignees": [],
+        "requested_reviewers": [],
+        "requested_teams": [],
+        "labels": [
+          {
+            "id": 6960981136,
+            "node_id": "LA_kwDOLG8aV88AAAABnugkkA",
+            "url": "https://api.github.com/repos/atrakic/MudBlazor.App/labels/dependencies",
+            "name": "dependencies",
+            "color": "0366d6",
+            "default": false,
+            "description": "Pull requests that update a dependency file"
+          },
+          {
+            "id": 6960982665,
+            "node_id": "LA_kwDOLG8aV88AAAABnugqiQ",
+            "url": "https://api.github.com/repos/atrakic/MudBlazor.App/labels/.NET",
+            "name": ".NET",
+            "color": "7121c6",
+            "default": false,
+            "description": "Pull requests that update .net code"
+          }
+        ],
+        "milestone": null,
+        "draft": false,
+        "commits_url": "https://api.github.com/repos/atrakic/MudBlazor.App/pulls/65/commits",
+        "review_comments_url": "https://api.github.com/repos/atrakic/MudBlazor.App/pulls/65/comments",
+        "review_comment_url": "https://api.github.com/repos/atrakic/MudBlazor.App/pulls/comments{/number}",
+        "comments_url": "https://api.github.com/repos/atrakic/MudBlazor.App/issues/65/comments",
+        "statuses_url": "https://api.github.com/repos/atrakic/MudBlazor.App/statuses/f6bfd6969f8bac95080aac16e4a04c4da746ace9",
+        "head": {
+          "label": "atrakic:dependabot/nuget/xunit-2.9.2",
+          "ref": "dependabot/nuget/xunit-2.9.2",
+          "sha": "f6bfd6969f8bac95080aac16e4a04c4da746ace9",
+          "user": {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 745478743,
+            "node_id": "R_kgDOLG8aVw",
+            "name": "MudBlazor.App",
+            "full_name": "atrakic/MudBlazor.App",
+            "private": false,
+            "owner": {
+              "login": "atrakic",
+              "id": 15816139,
+              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/atrakic",
+              "html_url": "https://github.com/atrakic",
+              "followers_url": "https://api.github.com/users/atrakic/followers",
+              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+              "organizations_url": "https://api.github.com/users/atrakic/orgs",
+              "repos_url": "https://api.github.com/users/atrakic/repos",
+              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/atrakic/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/atrakic/MudBlazor.App",
+            "description": "A full-stack .Net Blazor app, includes custom docker-compose deployment workflow on Azure Ubuntu VM.",
+            "fork": false,
+            "url": "https://api.github.com/repos/atrakic/MudBlazor.App",
+            "forks_url": "https://api.github.com/repos/atrakic/MudBlazor.App/forks",
+            "keys_url": "https://api.github.com/repos/atrakic/MudBlazor.App/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/atrakic/MudBlazor.App/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/atrakic/MudBlazor.App/teams",
+            "hooks_url": "https://api.github.com/repos/atrakic/MudBlazor.App/hooks",
+            "issue_events_url": "https://api.github.com/repos/atrakic/MudBlazor.App/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/atrakic/MudBlazor.App/events",
+            "assignees_url": "https://api.github.com/repos/atrakic/MudBlazor.App/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/atrakic/MudBlazor.App/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/atrakic/MudBlazor.App/tags",
+            "blobs_url": "https://api.github.com/repos/atrakic/MudBlazor.App/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/atrakic/MudBlazor.App/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/atrakic/MudBlazor.App/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/atrakic/MudBlazor.App/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/atrakic/MudBlazor.App/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/atrakic/MudBlazor.App/languages",
+            "stargazers_url": "https://api.github.com/repos/atrakic/MudBlazor.App/stargazers",
+            "contributors_url": "https://api.github.com/repos/atrakic/MudBlazor.App/contributors",
+            "subscribers_url": "https://api.github.com/repos/atrakic/MudBlazor.App/subscribers",
+            "subscription_url": "https://api.github.com/repos/atrakic/MudBlazor.App/subscription",
+            "commits_url": "https://api.github.com/repos/atrakic/MudBlazor.App/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/atrakic/MudBlazor.App/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/atrakic/MudBlazor.App/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/atrakic/MudBlazor.App/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/atrakic/MudBlazor.App/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/atrakic/MudBlazor.App/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/atrakic/MudBlazor.App/merges",
+            "archive_url": "https://api.github.com/repos/atrakic/MudBlazor.App/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/atrakic/MudBlazor.App/downloads",
+            "issues_url": "https://api.github.com/repos/atrakic/MudBlazor.App/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/atrakic/MudBlazor.App/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/atrakic/MudBlazor.App/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/atrakic/MudBlazor.App/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/atrakic/MudBlazor.App/labels{/name}",
+            "releases_url": "https://api.github.com/repos/atrakic/MudBlazor.App/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/atrakic/MudBlazor.App/deployments",
+            "created_at": "2024-01-19T12:26:56Z",
+            "updated_at": "2024-09-27T08:33:07Z",
+            "pushed_at": "2024-12-16T18:39:58Z",
+            "git_url": "git://github.com/atrakic/MudBlazor.App.git",
+            "ssh_url": "git@github.com:atrakic/MudBlazor.App.git",
+            "clone_url": "https://github.com/atrakic/MudBlazor.App.git",
+            "svn_url": "https://github.com/atrakic/MudBlazor.App",
+            "homepage": "",
+            "size": 239,
+            "stargazers_count": 1,
+            "watchers_count": 1,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 14,
+            "license": {
+              "key": "mit",
+              "name": "MIT License",
+              "spdx_id": "MIT",
+              "url": "https://api.github.com/licenses/mit",
+              "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 14,
+            "watchers": 1,
+            "default_branch": "main"
+          }
+        },
+        "base": {
+          "label": "atrakic:main",
+          "ref": "main",
+          "sha": "66be8c8e53727da120a90b53730dddd9e42d8543",
+          "user": {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 745478743,
+            "node_id": "R_kgDOLG8aVw",
+            "name": "MudBlazor.App",
+            "full_name": "atrakic/MudBlazor.App",
+            "private": false,
+            "owner": {
+              "login": "atrakic",
+              "id": 15816139,
+              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/atrakic",
+              "html_url": "https://github.com/atrakic",
+              "followers_url": "https://api.github.com/users/atrakic/followers",
+              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+              "organizations_url": "https://api.github.com/users/atrakic/orgs",
+              "repos_url": "https://api.github.com/users/atrakic/repos",
+              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/atrakic/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/atrakic/MudBlazor.App",
+            "description": "A full-stack .Net Blazor app, includes custom docker-compose deployment workflow on Azure Ubuntu VM.",
+            "fork": false,
+            "url": "https://api.github.com/repos/atrakic/MudBlazor.App",
+            "forks_url": "https://api.github.com/repos/atrakic/MudBlazor.App/forks",
+            "keys_url": "https://api.github.com/repos/atrakic/MudBlazor.App/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/atrakic/MudBlazor.App/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/atrakic/MudBlazor.App/teams",
+            "hooks_url": "https://api.github.com/repos/atrakic/MudBlazor.App/hooks",
+            "issue_events_url": "https://api.github.com/repos/atrakic/MudBlazor.App/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/atrakic/MudBlazor.App/events",
+            "assignees_url": "https://api.github.com/repos/atrakic/MudBlazor.App/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/atrakic/MudBlazor.App/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/atrakic/MudBlazor.App/tags",
+            "blobs_url": "https://api.github.com/repos/atrakic/MudBlazor.App/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/atrakic/MudBlazor.App/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/atrakic/MudBlazor.App/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/atrakic/MudBlazor.App/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/atrakic/MudBlazor.App/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/atrakic/MudBlazor.App/languages",
+            "stargazers_url": "https://api.github.com/repos/atrakic/MudBlazor.App/stargazers",
+            "contributors_url": "https://api.github.com/repos/atrakic/MudBlazor.App/contributors",
+            "subscribers_url": "https://api.github.com/repos/atrakic/MudBlazor.App/subscribers",
+            "subscription_url": "https://api.github.com/repos/atrakic/MudBlazor.App/subscription",
+            "commits_url": "https://api.github.com/repos/atrakic/MudBlazor.App/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/atrakic/MudBlazor.App/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/atrakic/MudBlazor.App/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/atrakic/MudBlazor.App/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/atrakic/MudBlazor.App/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/atrakic/MudBlazor.App/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/atrakic/MudBlazor.App/merges",
+            "archive_url": "https://api.github.com/repos/atrakic/MudBlazor.App/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/atrakic/MudBlazor.App/downloads",
+            "issues_url": "https://api.github.com/repos/atrakic/MudBlazor.App/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/atrakic/MudBlazor.App/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/atrakic/MudBlazor.App/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/atrakic/MudBlazor.App/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/atrakic/MudBlazor.App/labels{/name}",
+            "releases_url": "https://api.github.com/repos/atrakic/MudBlazor.App/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/atrakic/MudBlazor.App/deployments",
+            "created_at": "2024-01-19T12:26:56Z",
+            "updated_at": "2024-09-27T08:33:07Z",
+            "pushed_at": "2024-12-16T18:39:58Z",
+            "git_url": "git://github.com/atrakic/MudBlazor.App.git",
+            "ssh_url": "git@github.com:atrakic/MudBlazor.App.git",
+            "clone_url": "https://github.com/atrakic/MudBlazor.App.git",
+            "svn_url": "https://github.com/atrakic/MudBlazor.App",
+            "homepage": "",
+            "size": 239,
+            "stargazers_count": 1,
+            "watchers_count": 1,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 14,
+            "license": {
+              "key": "mit",
+              "name": "MIT License",
+              "spdx_id": "MIT",
+              "url": "https://api.github.com/licenses/mit",
+              "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 14,
+            "watchers": 1,
+            "default_branch": "main"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/atrakic/MudBlazor.App/pulls/65"
+          },
+          "html": {
+            "href": "https://github.com/atrakic/MudBlazor.App/pull/65"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/atrakic/MudBlazor.App/issues/65"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/atrakic/MudBlazor.App/issues/65/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/atrakic/MudBlazor.App/pulls/65/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/atrakic/MudBlazor.App/pulls/comments{/number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/atrakic/MudBlazor.App/pulls/65/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/atrakic/MudBlazor.App/statuses/f6bfd6969f8bac95080aac16e4a04c4da746ace9"
+          }
+        },
+        "author_association": "CONTRIBUTOR",
+        "auto_merge": null,
+        "active_lock_reason": null,
+        "merged": true,
+        "mergeable": null,
+        "rebaseable": null,
+        "mergeable_state": "unknown",
+        "merged_by": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "comments": 0,
+        "review_comments": 0,
+        "maintainer_can_modify": false,
+        "commits": 1,
+        "additions": 1,
+        "deletions": 1,
+        "changed_files": 1
+      }
+    },
+    "public": true,
+    "created_at": "2025-09-18T21:43:54Z"
+  },
+  {
+    "id": "54904093401",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 766258544,
+      "name": "atrakic/azure-functions-dotnet",
+      "url": "https://api.github.com/repos/atrakic/azure-functions-dotnet"
+    },
+    "payload": {
+      "ref": "dependabot/nuget/src/api/Microsoft.ApplicationInsights.WorkerService-2.23.0",
+      "ref_type": "branch",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-09-18T21:23:26Z"
+  },
+  {
+    "id": "54904091034",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 766258544,
+      "name": "atrakic/azure-functions-dotnet",
+      "url": "https://api.github.com/repos/atrakic/azure-functions-dotnet"
+    },
+    "payload": {
+      "repository_id": 766258544,
+      "push_id": 26909270093,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "79b29ac8c7cf3d5452efb2e6560c92ed03087a51",
+      "before": "6cbfd538339ef6d2cd009286babe6dbe96727978",
+      "commits": [
+        {
+          "sha": "79b29ac8c7cf3d5452efb2e6560c92ed03087a51",
+          "author": {
+            "email": "49699333+dependabot[bot]@users.noreply.github.com",
+            "name": "dependabot[bot]"
+          },
+          "message": "Bump Microsoft.ApplicationInsights.WorkerService from 2.22.0 to 2.23.0 (#3)\n\n---\nupdated-dependencies:\n- dependency-name: Microsoft.ApplicationInsights.WorkerService\n  dependency-version: 2.23.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/commits/79b29ac8c7cf3d5452efb2e6560c92ed03087a51"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-18T21:23:21Z"
+  },
+  {
+    "id": "54904090753",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 766258544,
+      "name": "atrakic/azure-functions-dotnet",
+      "url": "https://api.github.com/repos/atrakic/azure-functions-dotnet"
+    },
+    "payload": {
+      "action": "closed",
+      "number": 3,
+      "pull_request": {
+        "url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/pulls/3",
+        "id": 2841685709,
+        "node_id": "PR_kwDOLawtcM6pYK7N",
+        "html_url": "https://github.com/atrakic/azure-functions-dotnet/pull/3",
+        "diff_url": "https://github.com/atrakic/azure-functions-dotnet/pull/3.diff",
+        "patch_url": "https://github.com/atrakic/azure-functions-dotnet/pull/3.patch",
+        "issue_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/issues/3",
+        "number": 3,
+        "state": "closed",
+        "locked": false,
+        "title": "Bump Microsoft.ApplicationInsights.WorkerService from 2.22.0 to 2.23.0",
+        "user": {
+          "login": "dependabot[bot]",
+          "id": 49699333,
+          "node_id": "MDM6Qm90NDk2OTkzMzM=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+          "html_url": "https://github.com/apps/dependabot",
+          "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "body": "Updated [Microsoft.ApplicationInsights.WorkerService](https://github.com/Microsoft/ApplicationInsights-dotnet) from 2.22.0 to 2.23.0.\n\n<details>\n<summary>Release notes</summary>\n\n_Sourced from [Microsoft.ApplicationInsights.WorkerService's releases](https://github.com/Microsoft/ApplicationInsights-dotnet/releases)._\n\n## 2.23.0\n\n- no changes since beta.\n\n\n\n## 2.23.0-beta1\n\n- [Populate required field Message with \"n/a\" if it is empty](https://github.com/microsoft/ApplicationInsights-dotnet/issues/1066)\n- [Fix ITelemetryModule singleton registration to support presence of keyed services](https://github.com/microsoft/ApplicationInsights-dotnet/pull/2908)\n\nCommits viewable in [compare view](https://github.com/Microsoft/ApplicationInsights-dotnet/compare/2.22.0...2.23.0).\n</details>\n\n[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=Microsoft.ApplicationInsights.WorkerService&package-manager=nuget&previous-version=2.22.0&new-version=2.23.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)\n\nDependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.\n\n[//]: # (dependabot-automerge-start)\n[//]: # (dependabot-automerge-end)\n\n---\n\n<details>\n<summary>Dependabot commands and options</summary>\n<br />\n\nYou can trigger Dependabot actions by commenting on this PR:\n- `@dependabot rebase` will rebase this PR\n- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it\n- `@dependabot merge` will merge this PR after your CI passes on it\n- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it\n- `@dependabot cancel merge` will cancel a previously requested merge and block automerging\n- `@dependabot reopen` will reopen this PR if it is closed\n- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually\n- `@dependabot show <dependency name> ignore conditions` will show all of the ignore conditions of the specified dependency\n- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)\n- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)\n- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)\n\n\n</details>",
+        "created_at": "2025-09-18T20:55:31Z",
+        "updated_at": "2025-09-18T21:23:20Z",
+        "closed_at": "2025-09-18T21:23:20Z",
+        "merged_at": "2025-09-18T21:23:20Z",
+        "merge_commit_sha": "79b29ac8c7cf3d5452efb2e6560c92ed03087a51",
+        "assignee": null,
+        "assignees": [],
+        "requested_reviewers": [],
+        "requested_teams": [],
+        "labels": [
+          {
+            "id": 9309921547,
+            "node_id": "LA_kwDOLawtcM8AAAACKuohCw",
+            "url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/labels/dependencies",
+            "name": "dependencies",
+            "color": "0366d6",
+            "default": false,
+            "description": "Pull requests that update a dependency file"
+          },
+          {
+            "id": 9309921549,
+            "node_id": "LA_kwDOLawtcM8AAAACKuohDQ",
+            "url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/labels/.NET",
+            "name": ".NET",
+            "color": "7121c6",
+            "default": false,
+            "description": "Pull requests that update .NET code"
+          }
+        ],
+        "milestone": null,
+        "draft": false,
+        "commits_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/pulls/3/commits",
+        "review_comments_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/pulls/3/comments",
+        "review_comment_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/pulls/comments{/number}",
+        "comments_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/issues/3/comments",
+        "statuses_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/statuses/f893d8ef092c36eaf3479d0c2a4723dd963b8365",
+        "head": {
+          "label": "atrakic:dependabot/nuget/src/api/Microsoft.ApplicationInsights.WorkerService-2.23.0",
+          "ref": "dependabot/nuget/src/api/Microsoft.ApplicationInsights.WorkerService-2.23.0",
+          "sha": "f893d8ef092c36eaf3479d0c2a4723dd963b8365",
+          "user": {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 766258544,
+            "node_id": "R_kgDOLawtcA",
+            "name": "azure-functions-dotnet",
+            "full_name": "atrakic/azure-functions-dotnet",
+            "private": false,
+            "owner": {
+              "login": "atrakic",
+              "id": 15816139,
+              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/atrakic",
+              "html_url": "https://github.com/atrakic",
+              "followers_url": "https://api.github.com/users/atrakic/followers",
+              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+              "organizations_url": "https://api.github.com/users/atrakic/orgs",
+              "repos_url": "https://api.github.com/users/atrakic/repos",
+              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/atrakic/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/atrakic/azure-functions-dotnet",
+            "description": "Deploy and run azure function with C#",
+            "fork": false,
+            "url": "https://api.github.com/repos/atrakic/azure-functions-dotnet",
+            "forks_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/forks",
+            "keys_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/teams",
+            "hooks_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/hooks",
+            "issue_events_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/events",
+            "assignees_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/tags",
+            "blobs_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/languages",
+            "stargazers_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/stargazers",
+            "contributors_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/contributors",
+            "subscribers_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/subscribers",
+            "subscription_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/subscription",
+            "commits_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/merges",
+            "archive_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/downloads",
+            "issues_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/labels{/name}",
+            "releases_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/deployments",
+            "created_at": "2024-03-02T19:08:42Z",
+            "updated_at": "2025-09-18T21:21:04Z",
+            "pushed_at": "2025-09-18T21:21:00Z",
+            "git_url": "git://github.com/atrakic/azure-functions-dotnet.git",
+            "ssh_url": "git@github.com:atrakic/azure-functions-dotnet.git",
+            "clone_url": "https://github.com/atrakic/azure-functions-dotnet.git",
+            "svn_url": "https://github.com/atrakic/azure-functions-dotnet",
+            "homepage": null,
+            "size": 34,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 6,
+            "license": null,
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 6,
+            "watchers": 0,
+            "default_branch": "main"
+          }
+        },
+        "base": {
+          "label": "atrakic:main",
+          "ref": "main",
+          "sha": "1b1604022c813dfc3ec10fe62cc88f9ea78ff51f",
+          "user": {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 766258544,
+            "node_id": "R_kgDOLawtcA",
+            "name": "azure-functions-dotnet",
+            "full_name": "atrakic/azure-functions-dotnet",
+            "private": false,
+            "owner": {
+              "login": "atrakic",
+              "id": 15816139,
+              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/atrakic",
+              "html_url": "https://github.com/atrakic",
+              "followers_url": "https://api.github.com/users/atrakic/followers",
+              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+              "organizations_url": "https://api.github.com/users/atrakic/orgs",
+              "repos_url": "https://api.github.com/users/atrakic/repos",
+              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/atrakic/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/atrakic/azure-functions-dotnet",
+            "description": "Deploy and run azure function with C#",
+            "fork": false,
+            "url": "https://api.github.com/repos/atrakic/azure-functions-dotnet",
+            "forks_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/forks",
+            "keys_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/teams",
+            "hooks_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/hooks",
+            "issue_events_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/events",
+            "assignees_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/tags",
+            "blobs_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/languages",
+            "stargazers_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/stargazers",
+            "contributors_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/contributors",
+            "subscribers_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/subscribers",
+            "subscription_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/subscription",
+            "commits_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/merges",
+            "archive_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/downloads",
+            "issues_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/labels{/name}",
+            "releases_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/deployments",
+            "created_at": "2024-03-02T19:08:42Z",
+            "updated_at": "2025-09-18T21:21:04Z",
+            "pushed_at": "2025-09-18T21:21:00Z",
+            "git_url": "git://github.com/atrakic/azure-functions-dotnet.git",
+            "ssh_url": "git@github.com:atrakic/azure-functions-dotnet.git",
+            "clone_url": "https://github.com/atrakic/azure-functions-dotnet.git",
+            "svn_url": "https://github.com/atrakic/azure-functions-dotnet",
+            "homepage": null,
+            "size": 34,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 6,
+            "license": null,
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 6,
+            "watchers": 0,
+            "default_branch": "main"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/atrakic/azure-functions-dotnet/pulls/3"
+          },
+          "html": {
+            "href": "https://github.com/atrakic/azure-functions-dotnet/pull/3"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/atrakic/azure-functions-dotnet/issues/3"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/atrakic/azure-functions-dotnet/issues/3/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/atrakic/azure-functions-dotnet/pulls/3/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/atrakic/azure-functions-dotnet/pulls/comments{/number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/atrakic/azure-functions-dotnet/pulls/3/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/atrakic/azure-functions-dotnet/statuses/f893d8ef092c36eaf3479d0c2a4723dd963b8365"
+          }
+        },
+        "author_association": "NONE",
+        "auto_merge": null,
+        "active_lock_reason": null,
+        "merged": true,
+        "mergeable": null,
+        "rebaseable": null,
+        "mergeable_state": "unknown",
+        "merged_by": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "comments": 0,
+        "review_comments": 0,
+        "maintainer_can_modify": false,
+        "commits": 1,
+        "additions": 1,
+        "deletions": 1,
+        "changed_files": 1
+      }
+    },
+    "public": true,
+    "created_at": "2025-09-18T21:23:21Z"
+  },
+  {
+    "id": "54904017152",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 766258544,
+      "name": "atrakic/azure-functions-dotnet",
+      "url": "https://api.github.com/repos/atrakic/azure-functions-dotnet"
+    },
+    "payload": {
+      "repository_id": 766258544,
+      "push_id": 26909234264,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "6cbfd538339ef6d2cd009286babe6dbe96727978",
+      "before": "1b1604022c813dfc3ec10fe62cc88f9ea78ff51f",
+      "commits": [
+        {
+          "sha": "6cbfd538339ef6d2cd009286babe6dbe96727978",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/commits/6cbfd538339ef6d2cd009286babe6dbe96727978"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-18T21:21:01Z"
+  },
+  {
+    "id": "54903070927",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 766258544,
+      "name": "atrakic/azure-functions-dotnet",
+      "url": "https://api.github.com/repos/atrakic/azure-functions-dotnet"
+    },
+    "payload": {
+      "repository_id": 766258544,
+      "push_id": 26908769584,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "1b1604022c813dfc3ec10fe62cc88f9ea78ff51f",
+      "before": "fd0b6630a30bc959b03254a89db9018243cd385a",
+      "commits": [
+        {
+          "sha": "1b1604022c813dfc3ec10fe62cc88f9ea78ff51f",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Add dependabot.yml",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-functions-dotnet/commits/1b1604022c813dfc3ec10fe62cc88f9ea78ff51f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-18T20:53:40Z"
+  },
+  {
+    "id": "54826975186",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1058283437,
+      "name": "atrakic/track-github-public-events",
+      "url": "https://api.github.com/repos/atrakic/track-github-public-events"
+    },
+    "payload": {
+      "repository_id": 1058283437,
+      "push_id": 26872310323,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "b87817421cae569e7c49268fdf182c5931176f2a",
+      "before": "9a7f23de652b661548935661ba326a72dfa9f191",
+      "commits": [
+        {
+          "sha": "b87817421cae569e7c49268fdf182c5931176f2a",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "[ci-skip]: Update branch triggers",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/track-github-public-events/commits/b87817421cae569e7c49268fdf182c5931176f2a"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-17T13:49:45Z"
+  },
+  {
+    "id": "54816769054",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1058091919,
+      "name": "atrakic/private-website",
+      "url": "https://api.github.com/repos/atrakic/private-website"
+    },
+    "payload": {
+      "repository_id": 1058091919,
+      "push_id": 26867457479,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/public",
+      "head": "c3999f8dad819db217352aa4485bb6c065584cbe",
+      "before": "cfbfc1dc938fd6ddf0677113e69a06aca4bd9849",
+      "commits": [
+        {
+          "sha": "c3999f8dad819db217352aa4485bb6c065584cbe",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Trigger deployment",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/private-website/commits/c3999f8dad819db217352aa4485bb6c065584cbe"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-17T10:34:07Z"
+  },
+  {
+    "id": "54816535425",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1058091919,
+      "name": "atrakic/private-website",
+      "url": "https://api.github.com/repos/atrakic/private-website"
+    },
+    "payload": {
+      "repository_id": 1058091919,
+      "push_id": 26867345231,
+      "size": 2,
+      "distinct_size": 1,
+      "ref": "refs/heads/public",
+      "head": "cfbfc1dc938fd6ddf0677113e69a06aca4bd9849",
+      "before": "4e1885c353fd99650e02e93de26f7bb98b7ca820",
+      "commits": [
+        {
+          "sha": "6c7f1185cf9c106c7f0f41a6986117fadf7b5489",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "[ci-skip]: Update branch triggers",
+          "distinct": false,
+          "url": "https://api.github.com/repos/atrakic/private-website/commits/6c7f1185cf9c106c7f0f41a6986117fadf7b5489"
+        },
+        {
+          "sha": "cfbfc1dc938fd6ddf0677113e69a06aca4bd9849",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Merge branch 'main' into public",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/private-website/commits/cfbfc1dc938fd6ddf0677113e69a06aca4bd9849"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-17T10:29:38Z"
+  },
+  {
+    "id": "54816481577",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1058091919,
+      "name": "atrakic/private-website",
+      "url": "https://api.github.com/repos/atrakic/private-website"
+    },
+    "payload": {
+      "repository_id": 1058091919,
+      "push_id": 26867318775,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "6c7f1185cf9c106c7f0f41a6986117fadf7b5489",
+      "before": "003ff52184a062757e706aa970c4dec623dc4f84",
+      "commits": [
+        {
+          "sha": "6c7f1185cf9c106c7f0f41a6986117fadf7b5489",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "[ci-skip]: Update branch triggers",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/private-website/commits/6c7f1185cf9c106c7f0f41a6986117fadf7b5489"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-09-17T10:28:35Z"
+  },
+  {
     "id": "54781380316",
     "type": "PushEvent",
     "actor": {
@@ -731,797 +1915,5 @@
     },
     "public": true,
     "created_at": "2025-09-16T13:52:59Z"
-  },
-  {
-    "id": "54671724902",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-linux-web-app-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 26796504505,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "40b531e95951a4f9a57df80472579809c04b89b7",
-      "before": "8979fff42437b6eb1fe044956498a0e4716ab99f",
-      "commits": [
-        {
-          "sha": "40b531e95951a4f9a57df80472579809c04b89b7",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "Admir Trakic"
-          },
-          "message": "Use CAF naming strategy",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/40b531e95951a4f9a57df80472579809c04b89b7"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-14T14:11:40Z"
-  },
-  {
-    "id": "54670703668",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-linux-web-app-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 26795859765,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "8979fff42437b6eb1fe044956498a0e4716ab99f",
-      "before": "85650a8e2296954b87cf4b05f2baee7e0198e2a6",
-      "commits": [
-        {
-          "sha": "8979fff42437b6eb1fe044956498a0e4716ab99f",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "Admir Trakic"
-          },
-          "message": "Allow configuration for app_settings",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/8979fff42437b6eb1fe044956498a0e4716ab99f"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-14T13:08:48Z"
-  },
-  {
-    "id": "54666898414",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-linux-web-app-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 26793433780,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "85650a8e2296954b87cf4b05f2baee7e0198e2a6",
-      "before": "8a174d4f393ae2809ce77bdf8338739c3b285072",
-      "commits": [
-        {
-          "sha": "85650a8e2296954b87cf4b05f2baee7e0198e2a6",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "Admir Trakic"
-          },
-          "message": "Update",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/85650a8e2296954b87cf4b05f2baee7e0198e2a6"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-14T08:53:16Z"
-  },
-  {
-    "id": "54666795242",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-linux-web-app-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 26793370077,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "8a174d4f393ae2809ce77bdf8338739c3b285072",
-      "before": "1b2d19dc876b0c283ab2a1cc78170eb7233941d6",
-      "commits": [
-        {
-          "sha": "8a174d4f393ae2809ce77bdf8338739c3b285072",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "Admir Trakic"
-          },
-          "message": "Add support for auth_settings",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/8a174d4f393ae2809ce77bdf8338739c3b285072"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-14T08:45:24Z"
-  },
-  {
-    "id": "54666201204",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-linux-web-app-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 26793017388,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "1b2d19dc876b0c283ab2a1cc78170eb7233941d6",
-      "before": "33c35236538a9c024c4836f1ca3397396dae93a8",
-      "commits": [
-        {
-          "sha": "1b2d19dc876b0c283ab2a1cc78170eb7233941d6",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "Admir Trakic"
-          },
-          "message": "Add support for storage_account",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/1b2d19dc876b0c283ab2a1cc78170eb7233941d6"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-14T08:03:02Z"
-  },
-  {
-    "id": "54665655592",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-linux-web-app-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 26792670044,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "33c35236538a9c024c4836f1ca3397396dae93a8",
-      "before": "f4372b5939d39d42b11193bdd21cc211ec9f94a6",
-      "commits": [
-        {
-          "sha": "33c35236538a9c024c4836f1ca3397396dae93a8",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "Admir Trakic"
-          },
-          "message": "Update",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/33c35236538a9c024c4836f1ca3397396dae93a8"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-14T07:19:43Z"
-  },
-  {
-    "id": "54665444631",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-linux-web-app-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 26792538276,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "f4372b5939d39d42b11193bdd21cc211ec9f94a6",
-      "before": "f586759df16a0f6f28da8f8b61b964b6360bba08",
-      "commits": [
-        {
-          "sha": "f4372b5939d39d42b11193bdd21cc211ec9f94a6",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "Admir Trakic"
-          },
-          "message": "Update",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/f4372b5939d39d42b11193bdd21cc211ec9f94a6"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-14T07:02:52Z"
-  },
-  {
-    "id": "54665352541",
-    "type": "DeleteEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-linux-web-app-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
-    },
-    "payload": {
-      "ref": "feature/caf-compliant",
-      "ref_type": "branch",
-      "pusher_type": "user"
-    },
-    "public": true,
-    "created_at": "2025-09-14T06:55:49Z"
-  },
-  {
-    "id": "54665352066",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-linux-web-app-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 26792476968,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "f586759df16a0f6f28da8f8b61b964b6360bba08",
-      "before": "abb29b8822283955ad6e6a7d7da6fb956816c933",
-      "commits": [
-        {
-          "sha": "f586759df16a0f6f28da8f8b61b964b6360bba08",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "atrakic"
-          },
-          "message": "CAF naming compliance (#4)",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/f586759df16a0f6f28da8f8b61b964b6360bba08"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-14T06:55:47Z"
-  },
-  {
-    "id": "54665351895",
-    "type": "PullRequestEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-linux-web-app-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
-    },
-    "payload": {
-      "action": "closed",
-      "number": 4,
-      "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4",
-        "id": 2826373442,
-        "node_id": "PR_kwDOPs8bXc6odwlC",
-        "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/4",
-        "diff_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/4.diff",
-        "patch_url": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/4.patch",
-        "issue_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/4",
-        "number": 4,
-        "state": "closed",
-        "locked": false,
-        "title": "CAF compliance",
-        "user": {
-          "login": "atrakic",
-          "id": 15816139,
-          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/atrakic",
-          "html_url": "https://github.com/atrakic",
-          "followers_url": "https://api.github.com/users/atrakic/followers",
-          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-          "organizations_url": "https://api.github.com/users/atrakic/orgs",
-          "repos_url": "https://api.github.com/users/atrakic/repos",
-          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/atrakic/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "body": null,
-        "created_at": "2025-09-14T06:24:14Z",
-        "updated_at": "2025-09-14T06:55:45Z",
-        "closed_at": "2025-09-14T06:55:45Z",
-        "merged_at": "2025-09-14T06:55:45Z",
-        "merge_commit_sha": "f586759df16a0f6f28da8f8b61b964b6360bba08",
-        "assignee": null,
-        "assignees": [],
-        "requested_reviewers": [],
-        "requested_teams": [],
-        "labels": [],
-        "milestone": null,
-        "draft": false,
-        "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4/commits",
-        "review_comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4/comments",
-        "review_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/comments{/number}",
-        "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/4/comments",
-        "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/ab4ee4f8c9193ed5ead3338629b61fbbfd9a6599",
-        "head": {
-          "label": "atrakic:feature/caf-compliant",
-          "ref": "feature/caf-compliant",
-          "sha": "ab4ee4f8c9193ed5ead3338629b61fbbfd9a6599",
-          "user": {
-            "login": "atrakic",
-            "id": 15816139,
-            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/atrakic",
-            "html_url": "https://github.com/atrakic",
-            "followers_url": "https://api.github.com/users/atrakic/followers",
-            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-            "organizations_url": "https://api.github.com/users/atrakic/orgs",
-            "repos_url": "https://api.github.com/users/atrakic/repos",
-            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/atrakic/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "repo": {
-            "id": 1053760349,
-            "node_id": "R_kgDOPs8bXQ",
-            "name": "azure-linux-web-app-terraform",
-            "full_name": "atrakic/azure-linux-web-app-terraform",
-            "private": false,
-            "owner": {
-              "login": "atrakic",
-              "id": 15816139,
-              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/atrakic",
-              "html_url": "https://github.com/atrakic",
-              "followers_url": "https://api.github.com/users/atrakic/followers",
-              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-              "organizations_url": "https://api.github.com/users/atrakic/orgs",
-              "repos_url": "https://api.github.com/users/atrakic/repos",
-              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/atrakic/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
-            "description": "Deploy full stack containerized project to Azure Cloud using Terraform. Uses (ACR + Linux WebApp)",
-            "fork": false,
-            "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform",
-            "forks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/forks",
-            "keys_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/keys{/key_id}",
-            "collaborators_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/collaborators{/collaborator}",
-            "teams_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/teams",
-            "hooks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/hooks",
-            "issue_events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/events{/number}",
-            "events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/events",
-            "assignees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/assignees{/user}",
-            "branches_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/branches{/branch}",
-            "tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/tags",
-            "blobs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/blobs{/sha}",
-            "git_tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/tags{/sha}",
-            "git_refs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/refs{/sha}",
-            "trees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/trees{/sha}",
-            "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/{sha}",
-            "languages_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/languages",
-            "stargazers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/stargazers",
-            "contributors_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contributors",
-            "subscribers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscribers",
-            "subscription_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscription",
-            "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits{/sha}",
-            "git_commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/commits{/sha}",
-            "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/comments{/number}",
-            "issue_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/comments{/number}",
-            "contents_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contents/{+path}",
-            "compare_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/compare/{base}...{head}",
-            "merges_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/merges",
-            "archive_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/{archive_format}{/ref}",
-            "downloads_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/downloads",
-            "issues_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues{/number}",
-            "pulls_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls{/number}",
-            "milestones_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/milestones{/number}",
-            "notifications_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/notifications{?since,all,participating}",
-            "labels_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/labels{/name}",
-            "releases_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/releases{/id}",
-            "deployments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/deployments",
-            "created_at": "2025-09-09T22:29:32Z",
-            "updated_at": "2025-09-14T06:04:33Z",
-            "pushed_at": "2025-09-14T06:54:59Z",
-            "git_url": "git://github.com/atrakic/azure-linux-web-app-terraform.git",
-            "ssh_url": "git@github.com:atrakic/azure-linux-web-app-terraform.git",
-            "clone_url": "https://github.com/atrakic/azure-linux-web-app-terraform.git",
-            "svn_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
-            "homepage": "",
-            "size": 109,
-            "stargazers_count": 0,
-            "watchers_count": 0,
-            "language": "HCL",
-            "has_issues": true,
-            "has_projects": true,
-            "has_downloads": true,
-            "has_wiki": true,
-            "has_pages": false,
-            "has_discussions": false,
-            "forks_count": 0,
-            "mirror_url": null,
-            "archived": false,
-            "disabled": false,
-            "open_issues_count": 0,
-            "license": {
-              "key": "mit",
-              "name": "MIT License",
-              "spdx_id": "MIT",
-              "url": "https://api.github.com/licenses/mit",
-              "node_id": "MDc6TGljZW5zZTEz"
-            },
-            "allow_forking": true,
-            "is_template": false,
-            "web_commit_signoff_required": false,
-            "topics": [
-              "azure",
-              "iac-terraform"
-            ],
-            "visibility": "public",
-            "forks": 0,
-            "open_issues": 0,
-            "watchers": 0,
-            "default_branch": "main"
-          }
-        },
-        "base": {
-          "label": "atrakic:main",
-          "ref": "main",
-          "sha": "abb29b8822283955ad6e6a7d7da6fb956816c933",
-          "user": {
-            "login": "atrakic",
-            "id": 15816139,
-            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/atrakic",
-            "html_url": "https://github.com/atrakic",
-            "followers_url": "https://api.github.com/users/atrakic/followers",
-            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-            "organizations_url": "https://api.github.com/users/atrakic/orgs",
-            "repos_url": "https://api.github.com/users/atrakic/repos",
-            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/atrakic/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "repo": {
-            "id": 1053760349,
-            "node_id": "R_kgDOPs8bXQ",
-            "name": "azure-linux-web-app-terraform",
-            "full_name": "atrakic/azure-linux-web-app-terraform",
-            "private": false,
-            "owner": {
-              "login": "atrakic",
-              "id": 15816139,
-              "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-              "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/atrakic",
-              "html_url": "https://github.com/atrakic",
-              "followers_url": "https://api.github.com/users/atrakic/followers",
-              "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-              "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-              "organizations_url": "https://api.github.com/users/atrakic/orgs",
-              "repos_url": "https://api.github.com/users/atrakic/repos",
-              "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/atrakic/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
-            "description": "Deploy full stack containerized project to Azure Cloud using Terraform. Uses (ACR + Linux WebApp)",
-            "fork": false,
-            "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform",
-            "forks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/forks",
-            "keys_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/keys{/key_id}",
-            "collaborators_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/collaborators{/collaborator}",
-            "teams_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/teams",
-            "hooks_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/hooks",
-            "issue_events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/events{/number}",
-            "events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/events",
-            "assignees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/assignees{/user}",
-            "branches_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/branches{/branch}",
-            "tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/tags",
-            "blobs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/blobs{/sha}",
-            "git_tags_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/tags{/sha}",
-            "git_refs_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/refs{/sha}",
-            "trees_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/trees{/sha}",
-            "statuses_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/{sha}",
-            "languages_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/languages",
-            "stargazers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/stargazers",
-            "contributors_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contributors",
-            "subscribers_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscribers",
-            "subscription_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/subscription",
-            "commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits{/sha}",
-            "git_commits_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/git/commits{/sha}",
-            "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/comments{/number}",
-            "issue_comment_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/comments{/number}",
-            "contents_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/contents/{+path}",
-            "compare_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/compare/{base}...{head}",
-            "merges_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/merges",
-            "archive_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/{archive_format}{/ref}",
-            "downloads_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/downloads",
-            "issues_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues{/number}",
-            "pulls_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls{/number}",
-            "milestones_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/milestones{/number}",
-            "notifications_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/notifications{?since,all,participating}",
-            "labels_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/labels{/name}",
-            "releases_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/releases{/id}",
-            "deployments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/deployments",
-            "created_at": "2025-09-09T22:29:32Z",
-            "updated_at": "2025-09-14T06:04:33Z",
-            "pushed_at": "2025-09-14T06:54:59Z",
-            "git_url": "git://github.com/atrakic/azure-linux-web-app-terraform.git",
-            "ssh_url": "git@github.com:atrakic/azure-linux-web-app-terraform.git",
-            "clone_url": "https://github.com/atrakic/azure-linux-web-app-terraform.git",
-            "svn_url": "https://github.com/atrakic/azure-linux-web-app-terraform",
-            "homepage": "",
-            "size": 109,
-            "stargazers_count": 0,
-            "watchers_count": 0,
-            "language": "HCL",
-            "has_issues": true,
-            "has_projects": true,
-            "has_downloads": true,
-            "has_wiki": true,
-            "has_pages": false,
-            "has_discussions": false,
-            "forks_count": 0,
-            "mirror_url": null,
-            "archived": false,
-            "disabled": false,
-            "open_issues_count": 0,
-            "license": {
-              "key": "mit",
-              "name": "MIT License",
-              "spdx_id": "MIT",
-              "url": "https://api.github.com/licenses/mit",
-              "node_id": "MDc6TGljZW5zZTEz"
-            },
-            "allow_forking": true,
-            "is_template": false,
-            "web_commit_signoff_required": false,
-            "topics": [
-              "azure",
-              "iac-terraform"
-            ],
-            "visibility": "public",
-            "forks": 0,
-            "open_issues": 0,
-            "watchers": 0,
-            "default_branch": "main"
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4"
-          },
-          "html": {
-            "href": "https://github.com/atrakic/azure-linux-web-app-terraform/pull/4"
-          },
-          "issue": {
-            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/4"
-          },
-          "comments": {
-            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/4/comments"
-          },
-          "review_comments": {
-            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4/comments"
-          },
-          "review_comment": {
-            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/comments{/number}"
-          },
-          "commits": {
-            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/pulls/4/commits"
-          },
-          "statuses": {
-            "href": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/statuses/ab4ee4f8c9193ed5ead3338629b61fbbfd9a6599"
-          }
-        },
-        "author_association": "OWNER",
-        "auto_merge": null,
-        "active_lock_reason": null,
-        "merged": true,
-        "mergeable": null,
-        "rebaseable": null,
-        "mergeable_state": "unknown",
-        "merged_by": {
-          "login": "atrakic",
-          "id": 15816139,
-          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/atrakic",
-          "html_url": "https://github.com/atrakic",
-          "followers_url": "https://api.github.com/users/atrakic/followers",
-          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-          "organizations_url": "https://api.github.com/users/atrakic/orgs",
-          "repos_url": "https://api.github.com/users/atrakic/repos",
-          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/atrakic/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "comments": 0,
-        "review_comments": 0,
-        "maintainer_can_modify": false,
-        "commits": 3,
-        "additions": 14,
-        "deletions": 14,
-        "changed_files": 2
-      }
-    },
-    "public": true,
-    "created_at": "2025-09-14T06:55:46Z"
-  },
-  {
-    "id": "54665343301",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-linux-web-app-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 26792471460,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/feature/caf-compliant",
-      "head": "ab4ee4f8c9193ed5ead3338629b61fbbfd9a6599",
-      "before": "d8e7d9779f7afbd5817977037326788c94212213",
-      "commits": [
-        {
-          "sha": "ab4ee4f8c9193ed5ead3338629b61fbbfd9a6599",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "Admir Trakic"
-          },
-          "message": "Update",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/ab4ee4f8c9193ed5ead3338629b61fbbfd9a6599"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-14T06:55:00Z"
   }
 ]

@@ -1,5 +1,745 @@
 [
   {
+    "id": "55592844480",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1069388655,
+      "name": "atrakic/invoiceAPI",
+      "url": "https://api.github.com/repos/atrakic/invoiceAPI"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/atrakic/invoiceAPI/issues/1",
+        "repository_url": "https://api.github.com/repos/atrakic/invoiceAPI",
+        "labels_url": "https://api.github.com/repos/atrakic/invoiceAPI/issues/1/labels{/name}",
+        "comments_url": "https://api.github.com/repos/atrakic/invoiceAPI/issues/1/comments",
+        "events_url": "https://api.github.com/repos/atrakic/invoiceAPI/issues/1/events",
+        "html_url": "https://github.com/atrakic/invoiceAPI/issues/1",
+        "id": 3482755241,
+        "node_id": "I_kwDOP72Tb87PlqCp",
+        "number": 1,
+        "title": "Error : Message has reached MaxDequeueCount of 5.",
+        "user": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "assignees": [],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2025-10-03T22:35:21Z",
+        "updated_at": "2025-10-03T22:35:21Z",
+        "closed_at": null,
+        "author_association": "OWNER",
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "total_blocked_by": 0,
+          "blocking": 0,
+          "total_blocking": 0
+        },
+        "body": "ref: https://github.com/atrakic/invoiceAPI/blob/f1ad6fccc72c437e666768066cb675b47de35b9b/host.json#L14\n\n\nSee: \n- https://github.com/Azure/azure-sdk-for-net/issues/21449\n- https://stackoverflow.com/questions/71439701/error-message-has-reached-maxdequeuecount-of-5-moving-message-to-queue-webjo",
+        "reactions": {
+          "url": "https://api.github.com/repos/atrakic/invoiceAPI/issues/1/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/atrakic/invoiceAPI/issues/1/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+      }
+    },
+    "public": true,
+    "created_at": "2025-10-03T22:35:23Z"
+  },
+  {
+    "id": "55592777285",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1069388655,
+      "name": "atrakic/invoiceAPI",
+      "url": "https://api.github.com/repos/atrakic/invoiceAPI"
+    },
+    "payload": {
+      "repository_id": 1069388655,
+      "push_id": 27256111115,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "f1ad6fccc72c437e666768066cb675b47de35b9b",
+      "before": "979ab9147b10234e20e6bd8c4d6a92e15612d955",
+      "commits": [
+        {
+          "sha": "f1ad6fccc72c437e666768066cb675b47de35b9b",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/invoiceAPI/commits/f1ad6fccc72c437e666768066cb675b47de35b9b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-10-03T22:32:13Z"
+  },
+  {
+    "id": "55591633962",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1069388655,
+      "name": "atrakic/invoiceAPI",
+      "url": "https://api.github.com/repos/atrakic/invoiceAPI"
+    },
+    "payload": {
+      "repository_id": 1069388655,
+      "push_id": 27255516450,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "979ab9147b10234e20e6bd8c4d6a92e15612d955",
+      "before": "36bb267d088801c96e31512818390b8fdbb7c067",
+      "commits": [
+        {
+          "sha": "979ab9147b10234e20e6bd8c4d6a92e15612d955",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/invoiceAPI/commits/979ab9147b10234e20e6bd8c4d6a92e15612d955"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-10-03T21:47:13Z"
+  },
+  {
+    "id": "55591623920",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1069388655,
+      "name": "atrakic/invoiceAPI",
+      "url": "https://api.github.com/repos/atrakic/invoiceAPI"
+    },
+    "payload": {
+      "repository_id": 1069388655,
+      "push_id": 27255511177,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "36bb267d088801c96e31512818390b8fdbb7c067",
+      "before": "3771e5fce3fab96abf52358380386221dc84ad3a",
+      "commits": [
+        {
+          "sha": "36bb267d088801c96e31512818390b8fdbb7c067",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/invoiceAPI/commits/36bb267d088801c96e31512818390b8fdbb7c067"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-10-03T21:46:48Z"
+  },
+  {
+    "id": "55590973679",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1069388655,
+      "name": "atrakic/invoiceAPI",
+      "url": "https://api.github.com/repos/atrakic/invoiceAPI"
+    },
+    "payload": {
+      "repository_id": 1069388655,
+      "push_id": 27255187553,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "3771e5fce3fab96abf52358380386221dc84ad3a",
+      "before": "7f44625e80ae8c678e3babda4306daa6a8c49633",
+      "commits": [
+        {
+          "sha": "3771e5fce3fab96abf52358380386221dc84ad3a",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "atrakic"
+          },
+          "message": "Delete .github/workflows/dotnet-ci.yaml",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/invoiceAPI/commits/3771e5fce3fab96abf52358380386221dc84ad3a"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-10-03T21:22:43Z"
+  },
+  {
+    "id": "55590931073",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1069388655,
+      "name": "atrakic/invoiceAPI",
+      "url": "https://api.github.com/repos/atrakic/invoiceAPI"
+    },
+    "payload": {
+      "repository_id": 1069388655,
+      "push_id": 27255166903,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "7f44625e80ae8c678e3babda4306daa6a8c49633",
+      "before": "9c2e1edfd4f34e4788ac6aacc131e6c7dbad163a",
+      "commits": [
+        {
+          "sha": "7f44625e80ae8c678e3babda4306daa6a8c49633",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "atrakic"
+          },
+          "message": "Add GitHub Actions workflow for .NET project\n\nThis workflow automates the build and test process for a .NET project on push and pull request events.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/invoiceAPI/commits/7f44625e80ae8c678e3babda4306daa6a8c49633"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-10-03T21:21:15Z"
+  },
+  {
+    "id": "55590908611",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1069388655,
+      "name": "atrakic/invoiceAPI",
+      "url": "https://api.github.com/repos/atrakic/invoiceAPI"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "An invoice management API using Azure Functions",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-10-03T21:20:31Z"
+  },
+  {
+    "id": "55590867808",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1069388655,
+      "name": "atrakic/invoiceAPI",
+      "url": "https://api.github.com/repos/atrakic/invoiceAPI"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": "An invoice management API using Azure Functions",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-10-03T21:19:09Z"
+  },
+  {
+    "id": "55581948777",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1043131569,
+      "name": "repomirrorhq/ai-sdk-python",
+      "url": "https://api.github.com/repos/repomirrorhq/ai-sdk-python"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-10-03T17:10:26Z",
+    "org": {
+      "id": 228234411,
+      "login": "repomirrorhq",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/repomirrorhq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228234411?"
+    }
+  },
+  {
+    "id": "55564769907",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 891727122,
+      "name": "microsoft/AzDevOpsDemoGenerator",
+      "url": "https://api.github.com/repos/microsoft/AzDevOpsDemoGenerator"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-10-03T10:36:39Z",
+    "org": {
+      "id": 6154722,
+      "login": "microsoft",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?"
+    }
+  },
+  {
+    "id": "55564709271",
+    "type": "ForkEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 177216275,
+      "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+      "url": "https://api.github.com/repos/MicrosoftDocs/mslearn-tailspin-spacegame-web"
+    },
+    "payload": {
+      "forkee": {
+        "id": 1069057023,
+        "node_id": "R_kgDOP7iD_w",
+        "name": "mslearn-tailspin-spacegame-web",
+        "full_name": "atrakic/mslearn-tailspin-spacegame-web",
+        "private": false,
+        "owner": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "html_url": "https://github.com/atrakic/mslearn-tailspin-spacegame-web",
+        "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+        "fork": true,
+        "url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web",
+        "forks_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/forks",
+        "keys_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/teams",
+        "hooks_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/hooks",
+        "issue_events_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/events",
+        "assignees_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/tags",
+        "blobs_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/languages",
+        "stargazers_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/stargazers",
+        "contributors_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/contributors",
+        "subscribers_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/subscribers",
+        "subscription_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/subscription",
+        "commits_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/merges",
+        "archive_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/downloads",
+        "issues_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/labels{/name}",
+        "releases_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/atrakic/mslearn-tailspin-spacegame-web/deployments",
+        "created_at": "2025-10-03T10:35:02Z",
+        "updated_at": "2025-10-03T10:35:02Z",
+        "pushed_at": "2025-05-22T15:13:37Z",
+        "git_url": "git://github.com/atrakic/mslearn-tailspin-spacegame-web.git",
+        "ssh_url": "git@github.com:atrakic/mslearn-tailspin-spacegame-web.git",
+        "clone_url": "https://github.com/atrakic/mslearn-tailspin-spacegame-web.git",
+        "svn_url": "https://github.com/atrakic/mslearn-tailspin-spacegame-web",
+        "homepage": "https://aka.ms/devops-build",
+        "size": 926,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "has_issues": false,
+        "has_projects": true,
+        "has_downloads": true,
+        "has_wiki": true,
+        "has_pages": false,
+        "has_discussions": false,
+        "forks_count": 0,
+        "mirror_url": null,
+        "archived": false,
+        "disabled": false,
+        "open_issues_count": 0,
+        "license": {
+          "key": "cc-by-4.0",
+          "name": "Creative Commons Attribution 4.0 International",
+          "spdx_id": "CC-BY-4.0",
+          "url": "https://api.github.com/licenses/cc-by-4.0",
+          "node_id": "MDc6TGljZW5zZTI1"
+        },
+        "allow_forking": true,
+        "is_template": false,
+        "web_commit_signoff_required": false,
+        "topics": [],
+        "visibility": "public",
+        "forks": 0,
+        "open_issues": 0,
+        "watchers": 0,
+        "default_branch": "main",
+        "public": true
+      }
+    },
+    "public": true,
+    "created_at": "2025-10-03T10:35:04Z",
+    "org": {
+      "id": 22479449,
+      "login": "MicrosoftDocs",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/MicrosoftDocs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22479449?"
+    }
+  },
+  {
+    "id": "55484466263",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "ref": "feature/full-stack",
+      "ref_type": "branch",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-10-01T19:11:23Z"
+  },
+  {
+    "id": "55484298413",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/7",
+        "repository_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform",
+        "labels_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/7/labels{/name}",
+        "comments_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/7/comments",
+        "events_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/7/events",
+        "html_url": "https://github.com/atrakic/azure-linux-web-app-terraform/issues/7",
+        "id": 3474771772,
+        "node_id": "I_kwDOPs8bXc7PHM88",
+        "number": 7,
+        "title": "✨ Set up Copilot instructions",
+        "user": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [],
+        "state": "open",
+        "locked": false,
+        "assignee": {
+          "login": "Copilot",
+          "id": 198982749,
+          "node_id": "BOT_kgDOC9w8XQ",
+          "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Copilot",
+          "html_url": "https://github.com/apps/copilot-swe-agent",
+          "followers_url": "https://api.github.com/users/Copilot/followers",
+          "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+          "organizations_url": "https://api.github.com/users/Copilot/orgs",
+          "repos_url": "https://api.github.com/users/Copilot/repos",
+          "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Copilot/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "assignees": [
+          {
+            "login": "Copilot",
+            "id": 198982749,
+            "node_id": "BOT_kgDOC9w8XQ",
+            "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Copilot",
+            "html_url": "https://github.com/apps/copilot-swe-agent",
+            "followers_url": "https://api.github.com/users/Copilot/followers",
+            "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+            "organizations_url": "https://api.github.com/users/Copilot/orgs",
+            "repos_url": "https://api.github.com/users/Copilot/repos",
+            "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Copilot/received_events",
+            "type": "Bot",
+            "user_view_type": "public",
+            "site_admin": false
+          }
+        ],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2025-10-01T19:07:29Z",
+        "updated_at": "2025-10-01T19:07:29Z",
+        "closed_at": null,
+        "author_association": "OWNER",
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "total_blocked_by": 0,
+          "blocking": 0,
+          "total_blocking": 0
+        },
+        "body": "Configure instructions for this repository as documented in [Best practices for Copilot coding agent in your repository](https://gh.io/copilot-coding-agent-tips).\n\n<Onboard this repo>",
+        "reactions": {
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/7/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/issues/7/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+      }
+    },
+    "public": true,
+    "created_at": "2025-10-01T19:07:32Z"
+  },
+  {
+    "id": "55483725779",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1053760349,
+      "name": "atrakic/azure-linux-web-app-terraform",
+      "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform"
+    },
+    "payload": {
+      "repository_id": 1053760349,
+      "push_id": 27202848264,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "c68a319eff9c9bee57251a0a7e6850d18da1bfbb",
+      "before": "7fbca867dc35996dfde2a383969b0506e7aa8b70",
+      "commits": [
+        {
+          "sha": "c68a319eff9c9bee57251a0a7e6850d18da1bfbb",
+          "author": {
+            "email": "atrakic@users.noreply.github.com",
+            "name": "Admir Trakic"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/atrakic/azure-linux-web-app-terraform/commits/c68a319eff9c9bee57251a0a7e6850d18da1bfbb"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-10-01T18:54:31Z"
+  },
+  {
     "id": "55165974483",
     "type": "WatchEvent",
     "actor": {
@@ -1371,449 +2111,5 @@
     },
     "public": true,
     "created_at": "2025-09-16T17:09:30Z"
-  },
-  {
-    "id": "54780112529",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1058091919,
-      "name": "atrakic/private-website",
-      "url": "https://api.github.com/repos/atrakic/private-website"
-    },
-    "payload": {
-      "repository_id": 1058091919,
-      "push_id": 26849619249,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "fd38dc9d00c8ada15bdc24a22133811299bf972f",
-      "before": "6f339c33e8eff26aa006c87d7399547dec4bd4cb",
-      "commits": [
-        {
-          "sha": "fd38dc9d00c8ada15bdc24a22133811299bf972f",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "Admir Trakic"
-          },
-          "message": "Try to build with secrets",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/private-website/commits/fd38dc9d00c8ada15bdc24a22133811299bf972f"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-16T17:01:57Z"
-  },
-  {
-    "id": "54780021816",
-    "type": "CreateEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1058091919,
-      "name": "atrakic/private-website",
-      "url": "https://api.github.com/repos/atrakic/private-website"
-    },
-    "payload": {
-      "ref": "plain",
-      "ref_type": "branch",
-      "master_branch": "main",
-      "description": null,
-      "pusher_type": "user"
-    },
-    "public": true,
-    "created_at": "2025-09-16T17:00:01Z"
-  },
-  {
-    "id": "54779977580",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1058091919,
-      "name": "atrakic/private-website",
-      "url": "https://api.github.com/repos/atrakic/private-website"
-    },
-    "payload": {
-      "repository_id": 1058091919,
-      "push_id": 26849551731,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "6f339c33e8eff26aa006c87d7399547dec4bd4cb",
-      "before": "962f73a341c1f04dc2f8297100a9317090132f34",
-      "commits": [
-        {
-          "sha": "6f339c33e8eff26aa006c87d7399547dec4bd4cb",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "Admir Trakic"
-          },
-          "message": "Prepare for to use plain branch",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/private-website/commits/6f339c33e8eff26aa006c87d7399547dec4bd4cb"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-16T16:58:59Z"
-  },
-  {
-    "id": "54778424536",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1058091919,
-      "name": "atrakic/private-website",
-      "url": "https://api.github.com/repos/atrakic/private-website"
-    },
-    "payload": {
-      "repository_id": 1058091919,
-      "push_id": 26848811956,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "962f73a341c1f04dc2f8297100a9317090132f34",
-      "before": "5134c18ec8bc15ed6a3631114d391bc4cc19f6e3",
-      "commits": [
-        {
-          "sha": "962f73a341c1f04dc2f8297100a9317090132f34",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "Admir Trakic"
-          },
-          "message": "Fix",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/private-website/commits/962f73a341c1f04dc2f8297100a9317090132f34"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-16T16:23:58Z"
-  },
-  {
-    "id": "54778254818",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1058091919,
-      "name": "atrakic/private-website",
-      "url": "https://api.github.com/repos/atrakic/private-website"
-    },
-    "payload": {
-      "repository_id": 1058091919,
-      "push_id": 26848734742,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "5134c18ec8bc15ed6a3631114d391bc4cc19f6e3",
-      "before": "fbdb4e2a729f527277e03745f57f2eb4b8f862b8",
-      "commits": [
-        {
-          "sha": "5134c18ec8bc15ed6a3631114d391bc4cc19f6e3",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "Admir Trakic"
-          },
-          "message": "Update",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/private-website/commits/5134c18ec8bc15ed6a3631114d391bc4cc19f6e3"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-16T16:20:24Z"
-  },
-  {
-    "id": "54777189143",
-    "type": "CreateEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1058091919,
-      "name": "atrakic/private-website",
-      "url": "https://api.github.com/repos/atrakic/private-website"
-    },
-    "payload": {
-      "ref": "main",
-      "ref_type": "branch",
-      "master_branch": "main",
-      "description": null,
-      "pusher_type": "user"
-    },
-    "public": true,
-    "created_at": "2025-09-16T15:58:38Z"
-  },
-  {
-    "id": "54777187674",
-    "type": "CreateEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1058091919,
-      "name": "atrakic/private-website",
-      "url": "https://api.github.com/repos/atrakic/private-website"
-    },
-    "payload": {
-      "ref": null,
-      "ref_type": "repository",
-      "master_branch": "main",
-      "description": null,
-      "pusher_type": "user"
-    },
-    "public": true,
-    "created_at": "2025-09-16T15:58:36Z"
-  },
-  {
-    "id": "54777080560",
-    "type": "CreateEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1058090558,
-      "name": "atrakic/website",
-      "url": "https://api.github.com/repos/atrakic/website"
-    },
-    "payload": {
-      "ref": "main",
-      "ref_type": "branch",
-      "master_branch": "main",
-      "description": null,
-      "pusher_type": "user"
-    },
-    "public": true,
-    "created_at": "2025-09-16T15:56:29Z"
-  },
-  {
-    "id": "54777078776",
-    "type": "CreateEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1058090558,
-      "name": "atrakic/website",
-      "url": "https://api.github.com/repos/atrakic/website"
-    },
-    "payload": {
-      "ref": null,
-      "ref_type": "repository",
-      "master_branch": "main",
-      "description": null,
-      "pusher_type": "user"
-    },
-    "public": true,
-    "created_at": "2025-09-16T15:56:27Z"
-  },
-  {
-    "id": "54774804117",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1058056717,
-      "name": "atrakic/my-private-website",
-      "url": "https://api.github.com/repos/atrakic/my-private-website"
-    },
-    "payload": {
-      "repository_id": 1058056717,
-      "push_id": 26847133510,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "3a943e6b943baf722caf1323680da19fc0b6776f",
-      "before": "ffe91ca2e88f44d34fc01b15587539c3327cbc42",
-      "commits": [
-        {
-          "sha": "3a943e6b943baf722caf1323680da19fc0b6776f",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "atrakic"
-          },
-          "message": "Update encrypt_without_assets._yml",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/my-private-website/commits/3a943e6b943baf722caf1323680da19fc0b6776f"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-16T15:12:56Z"
-  },
-  {
-    "id": "54774791775",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1058056717,
-      "name": "atrakic/my-private-website",
-      "url": "https://api.github.com/repos/atrakic/my-private-website"
-    },
-    "payload": {
-      "repository_id": 1058056717,
-      "push_id": 26847127892,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/main",
-      "head": "ffe91ca2e88f44d34fc01b15587539c3327cbc42",
-      "before": "28b47426e8440b0e83c1a6445cb33caf6b7823f4",
-      "commits": [
-        {
-          "sha": "ffe91ca2e88f44d34fc01b15587539c3327cbc42",
-          "author": {
-            "email": "atrakic@users.noreply.github.com",
-            "name": "atrakic"
-          },
-          "message": "Update encrypt_with_assets.yml",
-          "distinct": true,
-          "url": "https://api.github.com/repos/atrakic/my-private-website/commits/ffe91ca2e88f44d34fc01b15587539c3327cbc42"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-09-16T15:12:43Z"
-  },
-  {
-    "id": "54774337019",
-    "type": "CreateEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1058056717,
-      "name": "atrakic/my-private-website",
-      "url": "https://api.github.com/repos/atrakic/my-private-website"
-    },
-    "payload": {
-      "ref": "main",
-      "ref_type": "branch",
-      "master_branch": "main",
-      "description": null,
-      "pusher_type": "user"
-    },
-    "public": true,
-    "created_at": "2025-09-16T15:04:47Z"
-  },
-  {
-    "id": "54774333931",
-    "type": "CreateEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1058056717,
-      "name": "atrakic/my-private-website",
-      "url": "https://api.github.com/repos/atrakic/my-private-website"
-    },
-    "payload": {
-      "ref": null,
-      "ref_type": "repository",
-      "master_branch": "main",
-      "description": null,
-      "pusher_type": "user"
-    },
-    "public": true,
-    "created_at": "2025-09-16T15:04:44Z"
-  },
-  {
-    "id": "54770133517",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1054045281,
-      "name": "BogdanTheGeek/semihost-ip",
-      "url": "https://api.github.com/repos/BogdanTheGeek/semihost-ip"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2025-09-16T13:53:09Z"
   }
 ]

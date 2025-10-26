@@ -1,5 +1,31 @@
 [
   {
+    "id": "5398333016",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 570491553,
+      "name": "atrakic/gin-sqlite",
+      "url": "https://api.github.com/repos/atrakic/gin-sqlite"
+    },
+    "payload": {
+      "repository_id": 570491553,
+      "push_id": 27688415709,
+      "ref": "refs/heads/main",
+      "head": "1e7ce5f138393d3335d75c021445097dfd225373",
+      "before": "a8c2a129ca87752c83f544a103b06223e5340b00"
+    },
+    "public": true,
+    "created_at": "2025-10-22T22:12:25Z"
+  },
+  {
     "id": "5202908909",
     "type": "PushEvent",
     "actor": {
@@ -858,113 +884,5 @@
     },
     "public": true,
     "created_at": "2025-10-12T17:53:31Z"
-  },
-  {
-    "id": "3992258844",
-    "type": "PullRequestReviewCommentEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 570491553,
-      "name": "atrakic/gin-sqlite",
-      "url": "https://api.github.com/repos/atrakic/gin-sqlite"
-    },
-    "payload": {
-      "action": "created",
-      "comment": {
-        "url": "https://api.github.com/repos/atrakic/gin-sqlite/pulls/comments/2424663135",
-        "pull_request_review_id": 3329236196,
-        "id": 2424663135,
-        "node_id": "PRRC_kwDOIgECoc6QhWxf",
-        "diff_hunk": "@@ -39,6 +58,17 @@ func GetPersonByID(c *gin.Context) {\n \tc.JSON(http.StatusOK, gin.H{\"data\": person})\n }\n \n+// AddPerson creates a new person\n+// @Summary Create a new person\n+// @Description Create a new person with the provided information\n+// @Tags persons\n+// @Accept json\n+// @Produce json\n+// @Param person body database.Person true \"Person to create\"",
-        "path": "internal/api/api.go",
-        "commit_id": "94dde022994f3304913a0efd819db9e14a8199df",
-        "original_commit_id": "19948ad65d279e0b7ab22302c9bbd53e098ceb23",
-        "user": {
-          "login": "atrakic",
-          "id": 15816139,
-          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/atrakic",
-          "html_url": "https://github.com/atrakic",
-          "followers_url": "https://api.github.com/users/atrakic/followers",
-          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-          "organizations_url": "https://api.github.com/users/atrakic/orgs",
-          "repos_url": "https://api.github.com/users/atrakic/repos",
-          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/atrakic/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "body": "\n```suggestion\n// @Param person body database.Person true \"Person to create\"\n```",
-        "created_at": "2025-10-12T17:36:54Z",
-        "updated_at": "2025-10-12T17:36:54Z",
-        "html_url": "https://github.com/atrakic/gin-sqlite/pull/34#discussion_r2424663135",
-        "pull_request_url": "https://api.github.com/repos/atrakic/gin-sqlite/pulls/34",
-        "_links": {
-          "self": {
-            "href": "https://api.github.com/repos/atrakic/gin-sqlite/pulls/comments/2424663135"
-          },
-          "html": {
-            "href": "https://github.com/atrakic/gin-sqlite/pull/34#discussion_r2424663135"
-          },
-          "pull_request": {
-            "href": "https://api.github.com/repos/atrakic/gin-sqlite/pulls/34"
-          }
-        },
-        "reactions": {
-          "url": "https://api.github.com/repos/atrakic/gin-sqlite/pulls/comments/2424663135/reactions",
-          "total_count": 0,
-          "+1": 0,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 0
-        },
-        "in_reply_to_id": 2424644599,
-        "original_position": 43,
-        "position": 1,
-        "subject_type": "line"
-      },
-      "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/gin-sqlite/pulls/34",
-        "id": 2908050247,
-        "number": 34,
-        "head": {
-          "ref": "feature/swagger",
-          "sha": "4ce8878decf339cdf35e9d5291ec1686fb01b2e4",
-          "repo": {
-            "id": 570491553,
-            "url": "https://api.github.com/repos/atrakic/gin-sqlite",
-            "name": "gin-sqlite"
-          }
-        },
-        "base": {
-          "ref": "main",
-          "sha": "405bfb33519dde4c9bcd7b25ee2655055089d5d7",
-          "repo": {
-            "id": 570491553,
-            "url": "https://api.github.com/repos/atrakic/gin-sqlite",
-            "name": "gin-sqlite"
-          }
-        }
-      }
-    },
-    "public": true,
-    "created_at": "2025-10-12T17:36:54Z"
   }
 ]

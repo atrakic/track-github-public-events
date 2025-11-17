@@ -7,6 +7,9 @@ on:
   schedule:
     - cron: '0 8 * * *'  # every-day-8am
 
+permissions:
+  contents: write
+
 jobs:
   aggregate:
     runs-on: ubuntu-latest

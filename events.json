@@ -1,5 +1,150 @@
 [
   {
+    "id": "6851265397",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1080215976,
+      "name": "AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-",
+      "url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1",
+        "repository_url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-",
+        "labels_url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1/labels{/name}",
+        "comments_url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1/comments",
+        "events_url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1/events",
+        "html_url": "https://github.com/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1",
+        "id": 3986197175,
+        "node_id": "I_kwDOQGLJqM7tmIq3",
+        "number": 1,
+        "title": "Workarround for erro: \"Caused by: Failed to determine Android API level...\"",
+        "user": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [],
+        "state": "open",
+        "locked": false,
+        "assignees": [],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2026-02-24T22:52:29Z",
+        "updated_at": "2026-02-24T22:52:29Z",
+        "closed_at": null,
+        "assignee": null,
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "total_blocked_by": 0,
+          "blocking": 0,
+          "total_blocking": 0
+        },
+        "body": "I had to add following just before installing the notebook package (step 7):\n\n```\nexport ANDROID_API_LEVEL=$(getprop ro.build.version.sdk)\n```\n",
+        "reactions": {
+          "url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null,
+        "pinned_comment": null
+      }
+    },
+    "public": true,
+    "created_at": "2026-02-24T22:52:30Z"
+  },
+  {
+    "id": "6851082563",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1080215976,
+      "name": "AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-",
+      "url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-02-24T22:42:54Z"
+  },
+  {
+    "id": "6848323092",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 174202140,
+      "name": "nix-community/nix-on-droid",
+      "url": "https://api.github.com/repos/nix-community/nix-on-droid"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-02-24T20:45:32Z",
+    "org": {
+      "id": 33221035,
+      "login": "nix-community",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/nix-community",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33221035?"
+    }
+  },
+  {
     "id": "6761844454",
     "type": "WatchEvent",
     "actor": {
@@ -692,8 +837,8 @@
     },
     "repo": {
       "id": 642917329,
-      "name": "vercel/openchat",
-      "url": "https://api.github.com/repos/vercel/openchat"
+      "name": "vercel/chatbot",
+      "url": "https://api.github.com/repos/vercel/chatbot"
     },
     "payload": {
       "action": "started"

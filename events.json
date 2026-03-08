@@ -1,6 +1,6 @@
 [
   {
-    "id": "6851265397",
+    "id": "7173978169",
     "type": "IssuesEvent",
     "actor": {
       "id": 15816139,
@@ -11,23 +11,23 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1080215976,
-      "name": "AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-",
-      "url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
       "action": "opened",
       "issue": {
-        "url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1",
-        "repository_url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-",
-        "labels_url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1/labels{/name}",
-        "comments_url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1/comments",
-        "events_url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1/events",
-        "html_url": "https://github.com/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1",
-        "id": 3986197175,
-        "node_id": "I_kwDOQGLJqM7tmIq3",
-        "number": 1,
-        "title": "Workarround for erro: \"Caused by: Failed to determine Android API level...\"",
+        "url": "https://api.github.com/repos/atrakic/nix-home/issues/5",
+        "repository_url": "https://api.github.com/repos/atrakic/nix-home",
+        "labels_url": "https://api.github.com/repos/atrakic/nix-home/issues/5/labels{/name}",
+        "comments_url": "https://api.github.com/repos/atrakic/nix-home/issues/5/comments",
+        "events_url": "https://api.github.com/repos/atrakic/nix-home/issues/5/events",
+        "html_url": "https://github.com/atrakic/nix-home/issues/5",
+        "id": 4038246015,
+        "node_id": "I_kwDORguZM87wsr5_",
+        "number": 5,
+        "title": "Fix broken ci",
         "user": {
           "login": "atrakic",
           "id": 15816139,
@@ -52,13 +52,76 @@
         "labels": [],
         "state": "open",
         "locked": false,
-        "assignees": [],
+        "assignees": [
+          {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          {
+            "login": "Copilot",
+            "id": 198982749,
+            "node_id": "BOT_kgDOC9w8XQ",
+            "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Copilot",
+            "html_url": "https://github.com/apps/copilot-swe-agent",
+            "followers_url": "https://api.github.com/users/Copilot/followers",
+            "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+            "organizations_url": "https://api.github.com/users/Copilot/orgs",
+            "repos_url": "https://api.github.com/users/Copilot/repos",
+            "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Copilot/received_events",
+            "type": "Bot",
+            "user_view_type": "public",
+            "site_admin": false
+          }
+        ],
         "milestone": null,
         "comments": 0,
-        "created_at": "2026-02-24T22:52:29Z",
-        "updated_at": "2026-02-24T22:52:29Z",
+        "created_at": "2026-03-07T11:11:32Z",
+        "updated_at": "2026-03-07T11:11:32Z",
         "closed_at": null,
-        "assignee": null,
+        "assignee": {
+          "login": "Copilot",
+          "id": 198982749,
+          "node_id": "BOT_kgDOC9w8XQ",
+          "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Copilot",
+          "html_url": "https://github.com/apps/copilot-swe-agent",
+          "followers_url": "https://api.github.com/users/Copilot/followers",
+          "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+          "organizations_url": "https://api.github.com/users/Copilot/orgs",
+          "repos_url": "https://api.github.com/users/Copilot/repos",
+          "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Copilot/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        },
         "active_lock_reason": null,
         "sub_issues_summary": {
           "total": 0,
@@ -71,10 +134,10 @@
           "blocking": 0,
           "total_blocking": 0
         },
-        "body": "I had to add following just before installing the notebook package (step 7):\n\n```\nexport ANDROID_API_LEVEL=$(getprop ro.build.version.sdk)\n```\n",
+        "body": "https://github.com/atrakic/nix-home/actions/runs/22797911735/job/66135210375",
         "reactions": {
-          "url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1/reactions",
-          "total_count": 0,
+          "url": "https://api.github.com/repos/atrakic/nix-home/issues/5/reactions",
+          "total_count": 1,
           "+1": 0,
           "-1": 0,
           "laugh": 0,
@@ -82,20 +145,20 @@
           "confused": 0,
           "heart": 0,
           "rocket": 0,
-          "eyes": 0
+          "eyes": 1
         },
-        "timeline_url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-/issues/1/timeline",
+        "timeline_url": "https://api.github.com/repos/atrakic/nix-home/issues/5/timeline",
         "performed_via_github_app": null,
         "state_reason": null,
         "pinned_comment": null
       }
     },
     "public": true,
-    "created_at": "2026-02-24T22:52:30Z"
+    "created_at": "2026-03-07T11:11:34Z"
   },
   {
-    "id": "6851082563",
-    "type": "WatchEvent",
+    "id": "7173978041",
+    "type": "IssuesEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -105,641 +168,928 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1080215976,
-      "name": "AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-",
-      "url": "https://api.github.com/repos/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-02-24T22:42:54Z"
-  },
-  {
-    "id": "6848323092",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 174202140,
-      "name": "nix-community/nix-on-droid",
-      "url": "https://api.github.com/repos/nix-community/nix-on-droid"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-02-24T20:45:32Z",
-    "org": {
-      "id": 33221035,
-      "login": "nix-community",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/nix-community",
-      "avatar_url": "https://avatars.githubusercontent.com/u/33221035?"
-    }
-  },
-  {
-    "id": "6761844454",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 71483874,
-      "name": "wasmerio/Python-Scripts",
-      "url": "https://api.github.com/repos/wasmerio/Python-Scripts"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-02-21T07:04:56Z",
-    "org": {
-      "id": 44205449,
-      "login": "wasmerio",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/wasmerio",
-      "avatar_url": "https://avatars.githubusercontent.com/u/44205449?"
-    }
-  },
-  {
-    "id": "6641228175",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 741436589,
-      "name": "Health-RI/SeMPyRO",
-      "url": "https://api.github.com/repos/Health-RI/SeMPyRO"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-02-17T11:36:17Z",
-    "org": {
-      "id": 80106593,
-      "login": "Health-RI",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/Health-RI",
-      "avatar_url": "https://avatars.githubusercontent.com/u/80106593?"
-    }
-  },
-  {
-    "id": "6625165713",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1004278810,
-      "name": "FAIRDataTeam/compose",
-      "url": "https://api.github.com/repos/FAIRDataTeam/compose"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-02-16T21:09:01Z",
-    "org": {
-      "id": 10460991,
-      "login": "FAIRDataTeam",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/FAIRDataTeam",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10460991?"
-    }
-  },
-  {
-    "id": "6590388330",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 427474970,
-      "name": "pellepelster/solidblocks",
-      "url": "https://api.github.com/repos/pellepelster/solidblocks"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-02-15T07:32:46Z"
-  },
-  {
-    "id": "6573052549",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 34407651,
-      "name": "Azure/azure-quickstart-templates",
-      "url": "https://api.github.com/repos/Azure/azure-quickstart-templates"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-02-13T22:27:46Z",
-    "org": {
-      "id": 6844498,
-      "login": "Azure",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/Azure",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6844498?"
-    }
-  },
-  {
-    "id": "6572955169",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 21273155,
-      "name": "robotframework/robotframework",
-      "url": "https://api.github.com/repos/robotframework/robotframework"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-02-13T22:23:08Z",
-    "org": {
-      "id": 574284,
-      "login": "robotframework",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/robotframework",
-      "avatar_url": "https://avatars.githubusercontent.com/u/574284?"
-    }
-  },
-  {
-    "id": "6572734304",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1008228111,
-      "name": "Health-RI/metadata-automation",
-      "url": "https://api.github.com/repos/Health-RI/metadata-automation"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-02-13T22:12:36Z",
-    "org": {
-      "id": 80106593,
-      "login": "Health-RI",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/Health-RI",
-      "avatar_url": "https://avatars.githubusercontent.com/u/80106593?"
-    }
-  },
-  {
-    "id": "6572502290",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1086708227,
-      "name": "OrusMind/Orus-Builder-FullStack",
-      "url": "https://api.github.com/repos/OrusMind/Orus-Builder-FullStack"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-02-13T22:02:54Z"
-  },
-  {
-    "id": "6570099047",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 858193641,
-      "name": "PaddleHQ/paddle-nextjs-starter-kit",
-      "url": "https://api.github.com/repos/PaddleHQ/paddle-nextjs-starter-kit"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-02-13T20:28:04Z",
-    "org": {
-      "id": 6573820,
-      "login": "PaddleHQ",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/PaddleHQ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6573820?"
-    }
-  },
-  {
-    "id": "8219880762",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 957442462,
-      "name": "atrakic/chat-with-my-database",
-      "url": "https://api.github.com/repos/atrakic/chat-with-my-database"
-    },
-    "payload": {
-      "repository_id": 957442462,
-      "push_id": 30514828056,
-      "ref": "refs/heads/main",
-      "head": "d06eb165349ddd41d980006c7cbfbeee7f4b7c6d",
-      "before": "1f0f59bbf55ff0d2ac76a11bd3306beffffab83a"
-    },
-    "public": true,
-    "created_at": "2026-02-07T05:37:16Z"
-  },
-  {
-    "id": "8219591020",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 957442462,
-      "name": "atrakic/chat-with-my-database",
-      "url": "https://api.github.com/repos/atrakic/chat-with-my-database"
-    },
-    "payload": {
-      "repository_id": 957442462,
-      "push_id": 30514539084,
-      "ref": "refs/heads/main",
-      "head": "1f0f59bbf55ff0d2ac76a11bd3306beffffab83a",
-      "before": "1c16bfa6dae7ba1e4e5336444384a7e8b29bd063"
-    },
-    "public": true,
-    "created_at": "2026-02-07T05:13:28Z"
-  },
-  {
-    "id": "8219084149",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 957442462,
-      "name": "atrakic/chat-with-my-database",
-      "url": "https://api.github.com/repos/atrakic/chat-with-my-database"
-    },
-    "payload": {
-      "repository_id": 957442462,
-      "push_id": 30514031977,
-      "ref": "refs/heads/main",
-      "head": "1c16bfa6dae7ba1e4e5336444384a7e8b29bd063",
-      "before": "b0ce9f8f21096497fe0802a9b0d890ededb5ed6c"
-    },
-    "public": true,
-    "created_at": "2026-02-07T04:32:48Z"
-  },
-  {
-    "id": "8218833076",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 957442462,
-      "name": "atrakic/chat-with-my-database",
-      "url": "https://api.github.com/repos/atrakic/chat-with-my-database"
-    },
-    "payload": {
-      "repository_id": 957442462,
-      "push_id": 30513780643,
-      "ref": "refs/heads/main",
-      "head": "b0ce9f8f21096497fe0802a9b0d890ededb5ed6c",
-      "before": "25fa041b0a3d43e2fbfb87c9ba4136e02921a488"
-    },
-    "public": true,
-    "created_at": "2026-02-07T04:11:15Z"
-  },
-  {
-    "id": "8218704564",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 957442462,
-      "name": "atrakic/chat-with-my-database",
-      "url": "https://api.github.com/repos/atrakic/chat-with-my-database"
-    },
-    "payload": {
-      "repository_id": 957442462,
-      "push_id": 30513651502,
-      "ref": "refs/heads/main",
-      "head": "25fa041b0a3d43e2fbfb87c9ba4136e02921a488",
-      "before": "e155ae187e981539044881e0fb5a97600789eef1"
-    },
-    "public": true,
-    "created_at": "2026-02-07T04:01:07Z"
-  },
-  {
-    "id": "8218628400",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 957442462,
-      "name": "atrakic/chat-with-my-database",
-      "url": "https://api.github.com/repos/atrakic/chat-with-my-database"
-    },
-    "payload": {
-      "repository_id": 957442462,
-      "push_id": 30513574935,
-      "ref": "refs/heads/main",
-      "head": "e155ae187e981539044881e0fb5a97600789eef1",
-      "before": "de7912d88a307f99c082f06207dd5b1fd2a86d75"
-    },
-    "public": true,
-    "created_at": "2026-02-07T03:55:04Z"
-  },
-  {
-    "id": "8217867466",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 957442462,
-      "name": "atrakic/chat-with-my-database",
-      "url": "https://api.github.com/repos/atrakic/chat-with-my-database"
-    },
-    "payload": {
-      "repository_id": 957442462,
-      "push_id": 30512810569,
-      "ref": "refs/heads/main",
-      "head": "de7912d88a307f99c082f06207dd5b1fd2a86d75",
-      "before": "56c81e67c0e0d33478edbacd70dcac14dd183020"
-    },
-    "public": true,
-    "created_at": "2026-02-07T02:55:18Z"
-  },
-  {
-    "id": "8207572772",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 957442462,
-      "name": "atrakic/chat-with-my-database",
-      "url": "https://api.github.com/repos/atrakic/chat-with-my-database"
-    },
-    "payload": {
-      "repository_id": 957442462,
-      "push_id": 30502491208,
-      "ref": "refs/heads/main",
-      "head": "56c81e67c0e0d33478edbacd70dcac14dd183020",
-      "before": "ec76ce9f6d09734d945ac0aa2280cabc95fedd8b"
-    },
-    "public": true,
-    "created_at": "2026-02-06T17:57:24Z"
-  },
-  {
-    "id": "6378343379",
-    "type": "ForkEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 858193641,
-      "name": "PaddleHQ/paddle-nextjs-starter-kit",
-      "url": "https://api.github.com/repos/PaddleHQ/paddle-nextjs-starter-kit"
-    },
-    "payload": {
-      "action": "forked",
-      "forkee": {
-        "id": 1151600920,
-        "node_id": "R_kgDORKQJGA",
-        "name": "paddle-nextjs-starter-kit",
-        "full_name": "8cloud8/paddle-nextjs-starter-kit",
-        "private": false,
-        "owner": {
-          "login": "8cloud8",
-          "id": 48455440,
-          "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ4NDU1NDQw",
-          "avatar_url": "https://avatars.githubusercontent.com/u/48455440?v=4",
+      "action": "assigned",
+      "issue": {
+        "url": "https://api.github.com/repos/atrakic/nix-home/issues/5",
+        "repository_url": "https://api.github.com/repos/atrakic/nix-home",
+        "labels_url": "https://api.github.com/repos/atrakic/nix-home/issues/5/labels{/name}",
+        "comments_url": "https://api.github.com/repos/atrakic/nix-home/issues/5/comments",
+        "events_url": "https://api.github.com/repos/atrakic/nix-home/issues/5/events",
+        "html_url": "https://github.com/atrakic/nix-home/issues/5",
+        "id": 4038246015,
+        "node_id": "I_kwDORguZM87wsr5_",
+        "number": 5,
+        "title": "Fix broken ci",
+        "user": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
           "gravatar_id": "",
-          "url": "https://api.github.com/users/8cloud8",
-          "html_url": "https://github.com/8cloud8",
-          "followers_url": "https://api.github.com/users/8cloud8/followers",
-          "following_url": "https://api.github.com/users/8cloud8/following{/other_user}",
-          "gists_url": "https://api.github.com/users/8cloud8/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/8cloud8/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/8cloud8/subscriptions",
-          "organizations_url": "https://api.github.com/users/8cloud8/orgs",
-          "repos_url": "https://api.github.com/users/8cloud8/repos",
-          "events_url": "https://api.github.com/users/8cloud8/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/8cloud8/received_events",
-          "type": "Organization",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
           "user_view_type": "public",
           "site_admin": false
         },
-        "html_url": "https://github.com/8cloud8/paddle-nextjs-starter-kit",
-        "description": "A complete starter kit that you can use to build and deploy a Next.js SaaS app powered by Paddle Billing.",
-        "fork": true,
-        "url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit",
-        "forks_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/forks",
-        "keys_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/keys{/key_id}",
-        "collaborators_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/collaborators{/collaborator}",
-        "teams_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/teams",
-        "hooks_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/hooks",
-        "issue_events_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/issues/events{/number}",
-        "events_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/events",
-        "assignees_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/assignees{/user}",
-        "branches_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/branches{/branch}",
-        "tags_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/tags",
-        "blobs_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/git/blobs{/sha}",
-        "git_tags_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/git/tags{/sha}",
-        "git_refs_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/git/refs{/sha}",
-        "trees_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/git/trees{/sha}",
-        "statuses_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/statuses/{sha}",
-        "languages_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/languages",
-        "stargazers_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/stargazers",
-        "contributors_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/contributors",
-        "subscribers_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/subscribers",
-        "subscription_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/subscription",
-        "commits_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/commits{/sha}",
-        "git_commits_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/git/commits{/sha}",
-        "comments_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/comments{/number}",
-        "issue_comment_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/issues/comments{/number}",
-        "contents_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/compare/{base}...{head}",
-        "merges_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/merges",
-        "archive_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/{archive_format}{/ref}",
-        "downloads_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/downloads",
-        "issues_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/issues{/number}",
-        "pulls_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/pulls{/number}",
-        "milestones_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/milestones{/number}",
-        "notifications_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/notifications{?since,all,participating}",
-        "labels_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/labels{/name}",
-        "releases_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/releases{/id}",
-        "deployments_url": "https://api.github.com/repos/8cloud8/paddle-nextjs-starter-kit/deployments",
-        "created_at": "2026-02-06T17:06:31Z",
-        "updated_at": "2026-02-06T17:06:31Z",
-        "pushed_at": "2026-02-02T08:27:54Z",
-        "git_url": "git://github.com/8cloud8/paddle-nextjs-starter-kit.git",
-        "ssh_url": "git@github.com:8cloud8/paddle-nextjs-starter-kit.git",
-        "clone_url": "https://github.com/8cloud8/paddle-nextjs-starter-kit.git",
-        "svn_url": "https://github.com/8cloud8/paddle-nextjs-starter-kit",
-        "homepage": "https://paddle-billing.vercel.app",
-        "size": 5090,
-        "stargazers_count": 0,
-        "watchers_count": 0,
-        "language": null,
-        "has_issues": false,
-        "has_projects": true,
-        "has_downloads": true,
-        "has_wiki": false,
-        "has_pages": false,
-        "has_discussions": false,
-        "forks_count": 0,
-        "mirror_url": null,
-        "archived": false,
-        "disabled": false,
-        "open_issues_count": 0,
-        "license": {
-          "key": "apache-2.0",
-          "name": "Apache License 2.0",
-          "spdx_id": "Apache-2.0",
-          "url": "https://api.github.com/licenses/apache-2.0",
-          "node_id": "MDc6TGljZW5zZTI="
+        "labels": [],
+        "state": "open",
+        "locked": false,
+        "assignees": [
+          {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          {
+            "login": "Copilot",
+            "id": 198982749,
+            "node_id": "BOT_kgDOC9w8XQ",
+            "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Copilot",
+            "html_url": "https://github.com/apps/copilot-swe-agent",
+            "followers_url": "https://api.github.com/users/Copilot/followers",
+            "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+            "organizations_url": "https://api.github.com/users/Copilot/orgs",
+            "repos_url": "https://api.github.com/users/Copilot/repos",
+            "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Copilot/received_events",
+            "type": "Bot",
+            "user_view_type": "public",
+            "site_admin": false
+          }
+        ],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2026-03-07T11:11:32Z",
+        "updated_at": "2026-03-07T11:11:32Z",
+        "closed_at": null,
+        "assignee": {
+          "login": "Copilot",
+          "id": 198982749,
+          "node_id": "BOT_kgDOC9w8XQ",
+          "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Copilot",
+          "html_url": "https://github.com/apps/copilot-swe-agent",
+          "followers_url": "https://api.github.com/users/Copilot/followers",
+          "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+          "organizations_url": "https://api.github.com/users/Copilot/orgs",
+          "repos_url": "https://api.github.com/users/Copilot/repos",
+          "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Copilot/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
         },
-        "allow_forking": true,
-        "is_template": false,
-        "web_commit_signoff_required": false,
-        "has_pull_requests": true,
-        "pull_request_creation_policy": "all",
-        "topics": [],
-        "visibility": "public",
-        "forks": 0,
-        "open_issues": 0,
-        "watchers": 0,
-        "default_branch": "main"
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "total_blocked_by": 0,
+          "blocking": 0,
+          "total_blocking": 0
+        },
+        "body": "https://github.com/atrakic/nix-home/actions/runs/22797911735/job/66135210375",
+        "reactions": {
+          "url": "https://api.github.com/repos/atrakic/nix-home/issues/5/reactions",
+          "total_count": 1,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 1
+        },
+        "timeline_url": "https://api.github.com/repos/atrakic/nix-home/issues/5/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null,
+        "pinned_comment": null
+      },
+      "assignee": {
+        "login": "Copilot",
+        "id": 198982749,
+        "node_id": "BOT_kgDOC9w8XQ",
+        "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Copilot",
+        "html_url": "https://github.com/apps/copilot-swe-agent",
+        "followers_url": "https://api.github.com/users/Copilot/followers",
+        "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+        "organizations_url": "https://api.github.com/users/Copilot/orgs",
+        "repos_url": "https://api.github.com/users/Copilot/repos",
+        "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Copilot/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "assignees": [
+        {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        {
+          "login": "Copilot",
+          "id": 198982749,
+          "node_id": "BOT_kgDOC9w8XQ",
+          "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Copilot",
+          "html_url": "https://github.com/apps/copilot-swe-agent",
+          "followers_url": "https://api.github.com/users/Copilot/followers",
+          "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+          "organizations_url": "https://api.github.com/users/Copilot/orgs",
+          "repos_url": "https://api.github.com/users/Copilot/repos",
+          "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Copilot/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2026-03-07T11:11:33Z"
+  },
+  {
+    "id": "7173978040",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "action": "assigned",
+      "issue": {
+        "url": "https://api.github.com/repos/atrakic/nix-home/issues/5",
+        "repository_url": "https://api.github.com/repos/atrakic/nix-home",
+        "labels_url": "https://api.github.com/repos/atrakic/nix-home/issues/5/labels{/name}",
+        "comments_url": "https://api.github.com/repos/atrakic/nix-home/issues/5/comments",
+        "events_url": "https://api.github.com/repos/atrakic/nix-home/issues/5/events",
+        "html_url": "https://github.com/atrakic/nix-home/issues/5",
+        "id": 4038246015,
+        "node_id": "I_kwDORguZM87wsr5_",
+        "number": 5,
+        "title": "Fix broken ci",
+        "user": {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [],
+        "state": "open",
+        "locked": false,
+        "assignees": [
+          {
+            "login": "atrakic",
+            "id": 15816139,
+            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/atrakic",
+            "html_url": "https://github.com/atrakic",
+            "followers_url": "https://api.github.com/users/atrakic/followers",
+            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+            "organizations_url": "https://api.github.com/users/atrakic/orgs",
+            "repos_url": "https://api.github.com/users/atrakic/repos",
+            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/atrakic/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          {
+            "login": "Copilot",
+            "id": 198982749,
+            "node_id": "BOT_kgDOC9w8XQ",
+            "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Copilot",
+            "html_url": "https://github.com/apps/copilot-swe-agent",
+            "followers_url": "https://api.github.com/users/Copilot/followers",
+            "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+            "organizations_url": "https://api.github.com/users/Copilot/orgs",
+            "repos_url": "https://api.github.com/users/Copilot/repos",
+            "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Copilot/received_events",
+            "type": "Bot",
+            "user_view_type": "public",
+            "site_admin": false
+          }
+        ],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2026-03-07T11:11:32Z",
+        "updated_at": "2026-03-07T11:11:32Z",
+        "closed_at": null,
+        "assignee": {
+          "login": "Copilot",
+          "id": 198982749,
+          "node_id": "BOT_kgDOC9w8XQ",
+          "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Copilot",
+          "html_url": "https://github.com/apps/copilot-swe-agent",
+          "followers_url": "https://api.github.com/users/Copilot/followers",
+          "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+          "organizations_url": "https://api.github.com/users/Copilot/orgs",
+          "repos_url": "https://api.github.com/users/Copilot/repos",
+          "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Copilot/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "total_blocked_by": 0,
+          "blocking": 0,
+          "total_blocking": 0
+        },
+        "body": "https://github.com/atrakic/nix-home/actions/runs/22797911735/job/66135210375",
+        "reactions": {
+          "url": "https://api.github.com/repos/atrakic/nix-home/issues/5/reactions",
+          "total_count": 1,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 1
+        },
+        "timeline_url": "https://api.github.com/repos/atrakic/nix-home/issues/5/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null,
+        "pinned_comment": null
+      },
+      "assignee": {
+        "login": "Copilot",
+        "id": 198982749,
+        "node_id": "BOT_kgDOC9w8XQ",
+        "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Copilot",
+        "html_url": "https://github.com/apps/copilot-swe-agent",
+        "followers_url": "https://api.github.com/users/Copilot/followers",
+        "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+        "organizations_url": "https://api.github.com/users/Copilot/orgs",
+        "repos_url": "https://api.github.com/users/Copilot/repos",
+        "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Copilot/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "assignees": [
+        {
+          "login": "atrakic",
+          "id": 15816139,
+          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/atrakic",
+          "html_url": "https://github.com/atrakic",
+          "followers_url": "https://api.github.com/users/atrakic/followers",
+          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
+          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
+          "organizations_url": "https://api.github.com/users/atrakic/orgs",
+          "repos_url": "https://api.github.com/users/atrakic/repos",
+          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/atrakic/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        {
+          "login": "Copilot",
+          "id": 198982749,
+          "node_id": "BOT_kgDOC9w8XQ",
+          "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Copilot",
+          "html_url": "https://github.com/apps/copilot-swe-agent",
+          "followers_url": "https://api.github.com/users/Copilot/followers",
+          "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+          "organizations_url": "https://api.github.com/users/Copilot/orgs",
+          "repos_url": "https://api.github.com/users/Copilot/repos",
+          "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Copilot/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2026-03-07T11:11:33Z"
+  },
+  {
+    "id": "9137800983",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 31431512791,
+      "ref": "refs/heads/main",
+      "head": "a8e2bc38271b6c0af69996a1fe5711f8b7d6c57e",
+      "before": "435a0d756e1568ba6e9c7a966e80a7a6cbe22d14"
+    },
+    "public": true,
+    "created_at": "2026-03-07T11:07:57Z"
+  },
+  {
+    "id": "9137793919",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "ref": "dependabot/github_actions/DeterminateSystems/magic-nix-cache-action-13",
+      "ref_type": "branch",
+      "full_ref": "refs/heads/dependabot/github_actions/DeterminateSystems/magic-nix-cache-action-13",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2026-03-07T11:07:27Z"
+  },
+  {
+    "id": "9137792858",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 31431504668,
+      "ref": "refs/heads/main",
+      "head": "435a0d756e1568ba6e9c7a966e80a7a6cbe22d14",
+      "before": "fdf7c56d08ea027c036c26e4b7ec1e1517fd382d"
+    },
+    "public": true,
+    "created_at": "2026-03-07T11:07:22Z"
+  },
+  {
+    "id": "9137790080",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 31431501904,
+      "ref": "refs/heads/main",
+      "head": "fdf7c56d08ea027c036c26e4b7ec1e1517fd382d",
+      "before": "43919d34b21a791dc5f32f1e32916a92ccf43dae"
+    },
+    "public": true,
+    "created_at": "2026-03-07T11:07:10Z"
+  },
+  {
+    "id": "9137767466",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 31431479262,
+      "ref": "refs/heads/main",
+      "head": "43919d34b21a791dc5f32f1e32916a92ccf43dae",
+      "before": "a7bf1ee5b3d7afde6a8dde1ed90ff54de0ff583f"
+    },
+    "public": true,
+    "created_at": "2026-03-07T11:05:32Z"
+  },
+  {
+    "id": "9137703226",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 31431415001,
+      "ref": "refs/heads/main",
+      "head": "a7bf1ee5b3d7afde6a8dde1ed90ff54de0ff583f",
+      "before": "1a2ed43611639aeec5f7954422e5e8dd3a8ca4d5"
+    },
+    "public": true,
+    "created_at": "2026-03-07T11:01:23Z"
+  },
+  {
+    "id": "9137585793",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 31431297382,
+      "ref": "refs/heads/main",
+      "head": "1a2ed43611639aeec5f7954422e5e8dd3a8ca4d5",
+      "before": "ce015f19e178d13cac6c974cefd2d0ffe251bc58"
+    },
+    "public": true,
+    "created_at": "2026-03-07T10:53:49Z"
+  },
+  {
+    "id": "9137537436",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 31431249306,
+      "ref": "refs/heads/main",
+      "head": "ce015f19e178d13cac6c974cefd2d0ffe251bc58",
+      "before": "30b4b8fe1a56ab71b96b06784f3306d757fcaa50"
+    },
+    "public": true,
+    "created_at": "2026-03-07T10:50:21Z"
+  },
+  {
+    "id": "9137446865",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 31431158593,
+      "ref": "refs/heads/main",
+      "head": "30b4b8fe1a56ab71b96b06784f3306d757fcaa50",
+      "before": "ef5d792cb428005071ca40d32379a6cbed77b059"
+    },
+    "public": true,
+    "created_at": "2026-03-07T10:43:58Z"
+  },
+  {
+    "id": "9137359398",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 31431071106,
+      "ref": "refs/heads/main",
+      "head": "ef5d792cb428005071ca40d32379a6cbed77b059",
+      "before": "fa19711bcbf4d73420f9a85b648f2ecc5838e21f"
+    },
+    "public": true,
+    "created_at": "2026-03-07T10:37:51Z"
+  },
+  {
+    "id": "9137277087",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 31430988735,
+      "ref": "refs/heads/main",
+      "head": "fa19711bcbf4d73420f9a85b648f2ecc5838e21f",
+      "before": "305902538aa53ea24ea2fdcc806e41fdd77c89db"
+    },
+    "public": true,
+    "created_at": "2026-03-07T10:32:54Z"
+  },
+  {
+    "id": "9137161288",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 31430872703,
+      "ref": "refs/heads/main",
+      "head": "305902538aa53ea24ea2fdcc806e41fdd77c89db",
+      "before": "c7427cbb3824469e9a897acf69ae17c88eb9f364"
+    },
+    "public": true,
+    "created_at": "2026-03-07T10:25:01Z"
+  },
+  {
+    "id": "9137085838",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "full_ref": "refs/heads/main",
+      "master_branch": "main",
+      "description": "I use this to bootstrap my mac.",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2026-03-07T10:19:47Z"
+  },
+  {
+    "id": "9136315443",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "repository_id": 1170890420,
+      "push_id": 31430025738,
+      "ref": "refs/heads/main",
+      "head": "bf2f27884856bf878c44cd8468b36256d32a6af9",
+      "before": "4010462efb18afea20f68d5ed3b10cadd2b0ae78"
+    },
+    "public": true,
+    "created_at": "2026-03-07T09:26:57Z"
+  },
+  {
+    "id": "7172370930",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 902619224,
+      "name": "motherduckdb/mcp-server-motherduck",
+      "url": "https://api.github.com/repos/motherduckdb/mcp-server-motherduck"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-03-07T08:11:06Z",
+    "org": {
+      "id": 106357348,
+      "login": "motherduckdb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/motherduckdb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106357348?"
+    }
+  },
+  {
+    "id": "7172155961",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1134725578,
+      "name": "matsonj/mviz",
+      "url": "https://api.github.com/repos/matsonj/mviz"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-03-07T08:04:14Z"
+  },
+  {
+    "id": "9078168246",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "repository_id": 1170890420,
+      "push_id": 31371967063,
+      "ref": "refs/heads/main",
+      "head": "4010462efb18afea20f68d5ed3b10cadd2b0ae78",
+      "before": "3ba7e93ee25d7709549e80c5bb4ad64db4b9c546"
+    },
+    "public": true,
+    "created_at": "2026-03-05T17:18:55Z"
+  },
+  {
+    "id": "7122340643",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "action": "merged",
+      "number": 6,
+      "pull_request": {
+        "url": "https://api.github.com/repos/atrakic/eurofxref-analytics/pulls/6",
+        "id": 3359894541,
+        "number": 6,
+        "head": {
+          "ref": "feature/updates",
+          "sha": "4123b9514d637913c999cf88455a3c289fe8853e",
+          "repo": {
+            "id": 1170890420,
+            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
+            "name": "eurofxref-analytics"
+          }
+        },
+        "base": {
+          "ref": "main",
+          "sha": "3ba7e93ee25d7709549e80c5bb4ad64db4b9c546",
+          "repo": {
+            "id": 1170890420,
+            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
+            "name": "eurofxref-analytics"
+          }
+        }
       }
     },
     "public": true,
-    "created_at": "2026-02-06T17:06:31Z",
-    "org": {
-      "id": 6573820,
-      "login": "PaddleHQ",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/PaddleHQ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6573820?"
-    }
+    "created_at": "2026-03-05T17:18:54Z"
   },
   {
-    "id": "6378316761",
-    "type": "WatchEvent",
+    "id": "9078095169",
+    "type": "PushEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -749,26 +1099,23 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 421008345,
-      "name": "vercel/examples",
-      "url": "https://api.github.com/repos/vercel/examples"
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
     },
     "payload": {
-      "action": "started"
+      "repository_id": 1170890420,
+      "push_id": 31371893955,
+      "ref": "refs/heads/feature/updates",
+      "head": "4123b9514d637913c999cf88455a3c289fe8853e",
+      "before": "1b8f0dd5e5165d9fc58981b37cbe8f48720c2628"
     },
     "public": true,
-    "created_at": "2026-02-06T17:05:29Z",
-    "org": {
-      "id": 14985020,
-      "login": "vercel",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/vercel",
-      "avatar_url": "https://avatars.githubusercontent.com/u/14985020?"
-    }
+    "created_at": "2026-03-05T17:16:26Z"
   },
   {
-    "id": "6301782320",
-    "type": "WatchEvent",
+    "id": "7121746210",
+    "type": "PullRequestEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -778,26 +1125,43 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 413918947,
-      "name": "vercel/turborepo",
-      "url": "https://api.github.com/repos/vercel/turborepo"
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
     },
     "payload": {
-      "action": "started"
+      "action": "opened",
+      "number": 6,
+      "pull_request": {
+        "url": "https://api.github.com/repos/atrakic/eurofxref-analytics/pulls/6",
+        "id": 3359894541,
+        "number": 6,
+        "head": {
+          "ref": "feature/updates",
+          "sha": "4123b9514d637913c999cf88455a3c289fe8853e",
+          "repo": {
+            "id": 1170890420,
+            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
+            "name": "eurofxref-analytics"
+          }
+        },
+        "base": {
+          "ref": "main",
+          "sha": "3ba7e93ee25d7709549e80c5bb4ad64db4b9c546",
+          "repo": {
+            "id": 1170890420,
+            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
+            "name": "eurofxref-analytics"
+          }
+        }
+      }
     },
     "public": true,
-    "created_at": "2026-02-04T09:25:13Z",
-    "org": {
-      "id": 14985020,
-      "login": "vercel",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/vercel",
-      "avatar_url": "https://avatars.githubusercontent.com/u/14985020?"
-    }
+    "created_at": "2026-03-05T16:55:58Z"
   },
   {
-    "id": "6171932398",
-    "type": "WatchEvent",
+    "id": "9077376552",
+    "type": "CreateEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -807,26 +1171,24 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 672095858,
-      "name": "langchain-ai/langchain-nextjs-template",
-      "url": "https://api.github.com/repos/langchain-ai/langchain-nextjs-template"
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
     },
     "payload": {
-      "action": "started"
+      "ref": "feature/updates",
+      "ref_type": "branch",
+      "full_ref": "refs/heads/feature/updates",
+      "master_branch": "main",
+      "description": "ETL analytics project with dbt and duckdb.",
+      "pusher_type": "user"
     },
     "public": true,
-    "created_at": "2026-01-29T21:54:03Z",
-    "org": {
-      "id": 126733545,
-      "login": "langchain-ai",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/langchain-ai",
-      "avatar_url": "https://avatars.githubusercontent.com/u/126733545?"
-    }
+    "created_at": "2026-03-05T16:53:26Z"
   },
   {
-    "id": "6171795598",
-    "type": "WatchEvent",
+    "id": "9047170284",
+    "type": "PushEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -836,26 +1198,23 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 642917329,
-      "name": "vercel/chatbot",
-      "url": "https://api.github.com/repos/vercel/chatbot"
+      "id": 1106435107,
+      "name": "atrakic/posthog-foss",
+      "url": "https://api.github.com/repos/atrakic/posthog-foss"
     },
     "payload": {
-      "action": "started"
+      "repository_id": 1106435107,
+      "push_id": 31341046884,
+      "ref": "refs/heads/master",
+      "head": "bef0bcb2201364b8b11ae15f858834457512e7c6",
+      "before": "9fc58d83d5a7ee434ba34b8623f48f610f5e9870"
     },
     "public": true,
-    "created_at": "2026-01-29T21:47:34Z",
-    "org": {
-      "id": 14985020,
-      "login": "vercel",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/vercel",
-      "avatar_url": "https://avatars.githubusercontent.com/u/14985020?"
-    }
+    "created_at": "2026-03-04T23:34:23Z"
   },
   {
-    "id": "6171702676",
-    "type": "WatchEvent",
+    "id": "9047096921",
+    "type": "PushEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -865,26 +1224,23 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 198616978,
-      "name": "huggingface/sentence-transformers",
-      "url": "https://api.github.com/repos/huggingface/sentence-transformers"
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
     },
     "payload": {
-      "action": "started"
+      "repository_id": 1170890420,
+      "push_id": 31340974426,
+      "ref": "refs/heads/main",
+      "head": "3ba7e93ee25d7709549e80c5bb4ad64db4b9c546",
+      "before": "21c563c4a14296315793f659d80f8e9a08b07ddb"
     },
     "public": true,
-    "created_at": "2026-01-29T21:43:36Z",
-    "org": {
-      "id": 25720743,
-      "login": "huggingface",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/huggingface",
-      "avatar_url": "https://avatars.githubusercontent.com/u/25720743?"
-    }
+    "created_at": "2026-03-04T23:30:59Z"
   },
   {
-    "id": "6171468204",
-    "type": "WatchEvent",
+    "id": "9046665759",
+    "type": "PushEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -894,19 +1250,23 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 606913964,
-      "name": "nat/openplayground",
-      "url": "https://api.github.com/repos/nat/openplayground"
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
     },
     "payload": {
-      "action": "started"
+      "repository_id": 1170890420,
+      "push_id": 31340546248,
+      "ref": "refs/heads/main",
+      "head": "21c563c4a14296315793f659d80f8e9a08b07ddb",
+      "before": "1b0c70a777fc29bfd838ef2c84799904cca3ae7c"
     },
     "public": true,
-    "created_at": "2026-01-29T21:33:16Z"
+    "created_at": "2026-03-04T23:11:33Z"
   },
   {
-    "id": "6171174078",
-    "type": "WatchEvent",
+    "id": "9046502352",
+    "type": "PushEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -916,21 +1276,70 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 688617859,
-      "name": "astronomer/ask-astro",
-      "url": "https://api.github.com/repos/astronomer/ask-astro"
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
     },
     "payload": {
-      "action": "started"
+      "repository_id": 1170890420,
+      "push_id": 31340383432,
+      "ref": "refs/heads/main",
+      "head": "1b0c70a777fc29bfd838ef2c84799904cca3ae7c",
+      "before": "54e8949ec0b1cff2b330d553feb4092364006797"
     },
     "public": true,
-    "created_at": "2026-01-29T21:20:30Z",
-    "org": {
-      "id": 12449437,
-      "login": "astronomer",
+    "created_at": "2026-03-04T23:04:36Z"
+  },
+  {
+    "id": "9046353978",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
       "gravatar_id": "",
-      "url": "https://api.github.com/orgs/astronomer",
-      "avatar_url": "https://avatars.githubusercontent.com/u/12449437?"
-    }
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "repository_id": 1170890420,
+      "push_id": 31340235260,
+      "ref": "refs/heads/main",
+      "head": "54e8949ec0b1cff2b330d553feb4092364006797",
+      "before": "5942157655123f7f018b31af12a2f33af2ef37cb"
+    },
+    "public": true,
+    "created_at": "2026-03-04T22:59:21Z"
+  },
+  {
+    "id": "9046015339",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "repository_id": 1170890420,
+      "push_id": 31339896787,
+      "ref": "refs/heads/main",
+      "head": "5942157655123f7f018b31af12a2f33af2ef37cb",
+      "before": "2d5bee70c91331c2ea2500f220edbb106cad1736"
+    },
+    "public": true,
+    "created_at": "2026-03-04T22:45:23Z"
   }
 ]

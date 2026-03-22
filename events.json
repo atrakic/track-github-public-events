@@ -1,6 +1,6 @@
 [
   {
-    "id": "9297786149",
+    "id": "9634187926",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -11,22 +11,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
     },
     "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31591344195,
-      "ref": "refs/heads/feature/mcp",
-      "head": "c6a5d86142e33f44d704ccade6d1e42dfc139884",
-      "before": "179ab75058cd91dd489b466ffcebf5e48ec47398"
+      "repository_id": 1170890420,
+      "push_id": 31927535473,
+      "ref": "refs/heads/main",
+      "head": "8e719c85ff26270fa9d2897699d7941f0e117d98",
+      "before": "9bd61ed4708ec41e7fedbbabec79e81fefe8b627"
     },
     "public": true,
-    "created_at": "2026-03-11T22:44:52Z"
+    "created_at": "2026-03-20T18:28:24Z"
   },
   {
-    "id": "9297631129",
+    "id": "9633655036",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -37,22 +37,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
+      "id": 859791244,
+      "name": "atrakic/azure-sql-deploy-dacpac",
+      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
     },
     "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31591189224,
-      "ref": "refs/heads/feature/mcp",
-      "head": "179ab75058cd91dd489b466ffcebf5e48ec47398",
-      "before": "7f9d0d8c8790dca01868af096affe6fe24f50684"
+      "repository_id": 859791244,
+      "push_id": 31927002835,
+      "ref": "refs/heads/main",
+      "head": "03e2c21bc12616298891162ff04b62776eb98c16",
+      "before": "9cbee132ef8dfc39966dba0bdd953962c034eb12"
     },
     "public": true,
-    "created_at": "2026-03-11T22:38:20Z"
+    "created_at": "2026-03-20T18:10:32Z"
   },
   {
-    "id": "9297589887",
+    "id": "9633595791",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -63,22 +63,308 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
+      "id": 859791244,
+      "name": "atrakic/azure-sql-deploy-dacpac",
+      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
     },
     "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31591148102,
-      "ref": "refs/heads/feature/mcp",
-      "head": "7f9d0d8c8790dca01868af096affe6fe24f50684",
-      "before": "fb772e997edbad1fcf96044cf8605d3bc3bc97cb"
+      "repository_id": 859791244,
+      "push_id": 31926943631,
+      "ref": "refs/heads/main",
+      "head": "9cbee132ef8dfc39966dba0bdd953962c034eb12",
+      "before": "0aab38cd9294510344aeea3575dcd64335c53f95"
     },
     "public": true,
-    "created_at": "2026-03-11T22:36:49Z"
+    "created_at": "2026-03-20T18:08:39Z"
   },
   {
-    "id": "7311243640",
+    "id": "9633312920",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 859791244,
+      "name": "atrakic/azure-sql-deploy-dacpac",
+      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+    },
+    "payload": {
+      "repository_id": 859791244,
+      "push_id": 31926660765,
+      "ref": "refs/heads/main",
+      "head": "0aab38cd9294510344aeea3575dcd64335c53f95",
+      "before": "c512dd71b9f5d4d176548351ba658d2fc3afa6bf"
+    },
+    "public": true,
+    "created_at": "2026-03-20T17:59:50Z"
+  },
+  {
+    "id": "9632900066",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 859791244,
+      "name": "atrakic/azure-sql-deploy-dacpac",
+      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+    },
+    "payload": {
+      "repository_id": 859791244,
+      "push_id": 31926247836,
+      "ref": "refs/heads/main",
+      "head": "c512dd71b9f5d4d176548351ba658d2fc3afa6bf",
+      "before": "e59c6d56cf54d24ad620249fca41bb379ff03a74"
+    },
+    "public": true,
+    "created_at": "2026-03-20T17:46:42Z"
+  },
+  {
+    "id": "9632886670",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 859791244,
+      "name": "atrakic/azure-sql-deploy-dacpac",
+      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+    },
+    "payload": {
+      "repository_id": 859791244,
+      "push_id": 31926234282,
+      "ref": "refs/heads/main",
+      "head": "e59c6d56cf54d24ad620249fca41bb379ff03a74",
+      "before": "686218861a253bc323430f6d3a6937071a665167"
+    },
+    "public": true,
+    "created_at": "2026-03-20T17:46:16Z"
+  },
+  {
+    "id": "9632707543",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 859791244,
+      "name": "atrakic/azure-sql-deploy-dacpac",
+      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+    },
+    "payload": {
+      "repository_id": 859791244,
+      "push_id": 31926055716,
+      "ref": "refs/heads/main",
+      "head": "686218861a253bc323430f6d3a6937071a665167",
+      "before": "bb38a1ab52b2c218dce5b080b8396ec573e98a4f"
+    },
+    "public": true,
+    "created_at": "2026-03-20T17:40:39Z"
+  },
+  {
+    "id": "9612669287",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 859791244,
+      "name": "atrakic/azure-sql-deploy-dacpac",
+      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+    },
+    "payload": {
+      "repository_id": 859791244,
+      "push_id": 31906011430,
+      "ref": "refs/heads/main",
+      "head": "bb38a1ab52b2c218dce5b080b8396ec573e98a4f",
+      "before": "449e0a6c73e2769077d98c39a7e46d19a6e3f069"
+    },
+    "public": true,
+    "created_at": "2026-03-20T07:03:41Z"
+  },
+  {
+    "id": "9612619229",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 859791244,
+      "name": "atrakic/azure-sql-deploy-dacpac",
+      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+    },
+    "payload": {
+      "repository_id": 859791244,
+      "push_id": 31905961310,
+      "ref": "refs/heads/main",
+      "head": "449e0a6c73e2769077d98c39a7e46d19a6e3f069",
+      "before": "7a195394512720efce6a0c2416c094f8f083be51"
+    },
+    "public": true,
+    "created_at": "2026-03-20T07:01:38Z"
+  },
+  {
+    "id": "9601791834",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 859791244,
+      "name": "atrakic/azure-sql-deploy-dacpac",
+      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+    },
+    "payload": {
+      "repository_id": 859791244,
+      "push_id": 31895129909,
+      "ref": "refs/heads/main",
+      "head": "7a195394512720efce6a0c2416c094f8f083be51",
+      "before": "ade642d72fdc82e0c26169b1a9413e0c9954d78c"
+    },
+    "public": true,
+    "created_at": "2026-03-19T22:11:45Z"
+  },
+  {
+    "id": "9601543064",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 859791244,
+      "name": "atrakic/azure-sql-deploy-dacpac",
+      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+    },
+    "payload": {
+      "repository_id": 859791244,
+      "push_id": 31894881441,
+      "ref": "refs/heads/main",
+      "head": "ade642d72fdc82e0c26169b1a9413e0c9954d78c",
+      "before": "21a5ddfdc49341e6a9ffb175fc3f4ffc1ca36e40"
+    },
+    "public": true,
+    "created_at": "2026-03-19T22:02:06Z"
+  },
+  {
+    "id": "9601017819",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 859791244,
+      "name": "atrakic/azure-sql-deploy-dacpac",
+      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+    },
+    "payload": {
+      "repository_id": 859791244,
+      "push_id": 31894356713,
+      "ref": "refs/heads/main",
+      "head": "21a5ddfdc49341e6a9ffb175fc3f4ffc1ca36e40",
+      "before": "739c91081d04e228968b21e392effb89ac10c15c"
+    },
+    "public": true,
+    "created_at": "2026-03-19T21:42:23Z"
+  },
+  {
+    "id": "9600775902",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 859791244,
+      "name": "atrakic/azure-sql-deploy-dacpac",
+      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+    },
+    "payload": {
+      "repository_id": 859791244,
+      "push_id": 31894114688,
+      "ref": "refs/heads/main",
+      "head": "739c91081d04e228968b21e392effb89ac10c15c",
+      "before": "a83167f356aa833ae8b17b6754f653bbf117260b"
+    },
+    "public": true,
+    "created_at": "2026-03-19T21:33:40Z"
+  },
+  {
+    "id": "9577844114",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "repository_id": 1170890420,
+      "push_id": 31871181194,
+      "ref": "refs/heads/main",
+      "head": "9bd61ed4708ec41e7fedbbabec79e81fefe8b627",
+      "before": "438220aea56623eccd4516358b7da96d236a80a6"
+    },
+    "public": true,
+    "created_at": "2026-03-19T10:28:35Z"
+  },
+  {
+    "id": "7554127028",
     "type": "PullRequestEvent",
     "actor": {
       "id": 15816139,
@@ -89,42 +375,218 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
     },
     "payload": {
-      "action": "opened",
-      "number": 19,
+      "action": "merged",
+      "number": 8,
       "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/19",
-        "id": 3386568723,
-        "number": 19,
+        "url": "https://api.github.com/repos/atrakic/eurofxref-analytics/pulls/8",
+        "id": 3419208783,
+        "number": 8,
         "head": {
-          "ref": "feature/mcp",
-          "sha": "c6a5d86142e33f44d704ccade6d1e42dfc139884",
+          "ref": "feature/simplify",
+          "sha": "01f23206ab482e1f17a819ca5ad9969bc476cf6e",
           "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
+            "id": 1170890420,
+            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
+            "name": "eurofxref-analytics"
           }
         },
         "base": {
           "ref": "main",
-          "sha": "4ce50e758437b9886047b76911227c5c38d691bb",
+          "sha": "438220aea56623eccd4516358b7da96d236a80a6",
           "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
+            "id": 1170890420,
+            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
+            "name": "eurofxref-analytics"
           }
         }
       }
     },
     "public": true,
-    "created_at": "2026-03-11T22:32:18Z"
+    "created_at": "2026-03-19T10:28:33Z"
   },
   {
-    "id": "9297463171",
+    "id": "9577739894",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "repository_id": 1170890420,
+      "push_id": 31871076850,
+      "ref": "refs/heads/feature/simplify",
+      "head": "01f23206ab482e1f17a819ca5ad9969bc476cf6e",
+      "before": "10a92cf55dfa4e4f21683656e142db1f5b6f340c"
+    },
+    "public": true,
+    "created_at": "2026-03-19T10:25:22Z"
+  },
+  {
+    "id": "9577354217",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "repository_id": 1170890420,
+      "push_id": 31870691053,
+      "ref": "refs/heads/feature/simplify",
+      "head": "10a92cf55dfa4e4f21683656e142db1f5b6f340c",
+      "before": "74182251b80378acd27bfc0d76c4bc144d66b0e7"
+    },
+    "public": true,
+    "created_at": "2026-03-19T10:13:33Z"
+  },
+  {
+    "id": "9577097627",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "repository_id": 1170890420,
+      "push_id": 31870434501,
+      "ref": "refs/heads/feature/simplify",
+      "head": "74182251b80378acd27bfc0d76c4bc144d66b0e7",
+      "before": "eecc3a7b3f674198e8a90586fc1a8f39b9c4ff3d"
+    },
+    "public": true,
+    "created_at": "2026-03-19T10:05:41Z"
+  },
+  {
+    "id": "9576857652",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "repository_id": 1170890420,
+      "push_id": 31870194470,
+      "ref": "refs/heads/feature/simplify",
+      "head": "eecc3a7b3f674198e8a90586fc1a8f39b9c4ff3d",
+      "before": "384898efe27d9657efdd4ace2cbe0848ef9b00f2"
+    },
+    "public": true,
+    "created_at": "2026-03-19T09:58:48Z"
+  },
+  {
+    "id": "9576758998",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "repository_id": 1170890420,
+      "push_id": 31870095760,
+      "ref": "refs/heads/feature/simplify",
+      "head": "384898efe27d9657efdd4ace2cbe0848ef9b00f2",
+      "before": "497af43d5b5beda9e61692d775611fe0d9820811"
+    },
+    "public": true,
+    "created_at": "2026-03-19T09:55:48Z"
+  },
+  {
+    "id": "7553108570",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 8,
+      "pull_request": {
+        "url": "https://api.github.com/repos/atrakic/eurofxref-analytics/pulls/8",
+        "id": 3419208783,
+        "number": 8,
+        "head": {
+          "ref": "feature/simplify",
+          "sha": "01f23206ab482e1f17a819ca5ad9969bc476cf6e",
+          "repo": {
+            "id": 1170890420,
+            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
+            "name": "eurofxref-analytics"
+          }
+        },
+        "base": {
+          "ref": "main",
+          "sha": "438220aea56623eccd4516358b7da96d236a80a6",
+          "repo": {
+            "id": 1170890420,
+            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
+            "name": "eurofxref-analytics"
+          }
+        }
+      }
+    },
+    "public": true,
+    "created_at": "2026-03-19T09:54:38Z"
+  },
+  {
+    "id": "9576705307",
     "type": "CreateEvent",
     "actor": {
       "id": 15816139,
@@ -135,23 +597,221 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
     },
     "payload": {
-      "ref": "feature/mcp",
+      "ref": "feature/simplify",
       "ref_type": "branch",
-      "full_ref": "refs/heads/feature/mcp",
+      "full_ref": "refs/heads/feature/simplify",
       "master_branch": "main",
-      "description": "Deploy full stack containerized project to Azure Cloud using Terraform. Uses (ACR + Linux WebApp)",
+      "description": "Full stack analytics project with dbt, duckdb and evidence.",
       "pusher_type": "user"
     },
     "public": true,
-    "created_at": "2026-03-11T22:31:54Z"
+    "created_at": "2026-03-19T09:54:14Z"
   },
   {
-    "id": "7308557902",
+    "id": "7552511538",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "action": "merged",
+      "number": 7,
+      "pull_request": {
+        "url": "https://api.github.com/repos/atrakic/eurofxref-analytics/pulls/7",
+        "id": 3419132038,
+        "number": 7,
+        "head": {
+          "ref": "feature/playwritght",
+          "sha": "3505f19c682ce2ba836d4efbc94b5fb6c57af582",
+          "repo": {
+            "id": 1170890420,
+            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
+            "name": "eurofxref-analytics"
+          }
+        },
+        "base": {
+          "ref": "main",
+          "sha": "e89e0c83ee89efac0b945350176181837b3a9237",
+          "repo": {
+            "id": 1170890420,
+            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
+            "name": "eurofxref-analytics"
+          }
+        }
+      }
+    },
+    "public": true,
+    "created_at": "2026-03-19T09:35:42Z"
+  },
+  {
+    "id": "9576102750",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "repository_id": 1170890420,
+      "push_id": 31869439214,
+      "ref": "refs/heads/main",
+      "head": "438220aea56623eccd4516358b7da96d236a80a6",
+      "before": "e89e0c83ee89efac0b945350176181837b3a9237"
+    },
+    "public": true,
+    "created_at": "2026-03-19T09:35:43Z"
+  },
+  {
+    "id": "7552489095",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 7,
+      "pull_request": {
+        "url": "https://api.github.com/repos/atrakic/eurofxref-analytics/pulls/7",
+        "id": 3419132038,
+        "number": 7,
+        "head": {
+          "ref": "feature/playwritght",
+          "sha": "3505f19c682ce2ba836d4efbc94b5fb6c57af582",
+          "repo": {
+            "id": 1170890420,
+            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
+            "name": "eurofxref-analytics"
+          }
+        },
+        "base": {
+          "ref": "main",
+          "sha": "e89e0c83ee89efac0b945350176181837b3a9237",
+          "repo": {
+            "id": 1170890420,
+            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
+            "name": "eurofxref-analytics"
+          }
+        }
+      }
+    },
+    "public": true,
+    "created_at": "2026-03-19T09:35:00Z"
+  },
+  {
+    "id": "9576066679",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "ref": "feature/playwritght",
+      "ref_type": "branch",
+      "full_ref": "refs/heads/feature/playwritght",
+      "master_branch": "main",
+      "description": "Full stack analytics project with dbt, duckdb and evidence.",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2026-03-19T09:34:37Z"
+  },
+  {
+    "id": "9575618473",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "repository_id": 1170890420,
+      "push_id": 31868954509,
+      "ref": "refs/heads/main",
+      "head": "e89e0c83ee89efac0b945350176181837b3a9237",
+      "before": "bf2f27884856bf878c44cd8468b36256d32a6af9"
+    },
+    "public": true,
+    "created_at": "2026-03-19T09:20:46Z"
+  },
+  {
+    "id": "9575558276",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1170890420,
+      "name": "atrakic/eurofxref-analytics",
+      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+    },
+    "payload": {
+      "ref": "feature/add-widgets",
+      "ref_type": "branch",
+      "full_ref": "refs/heads/feature/add-widgets",
+      "master_branch": "main",
+      "description": "Full stack analytics project with dbt, duckdb and evidence.",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2026-03-19T09:18:54Z"
+  },
+  {
+    "id": "7492578837",
     "type": "WatchEvent",
     "actor": {
       "id": 15816139,
@@ -162,26 +822,26 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 895029087,
-      "name": "mark3labs/mcp-go",
-      "url": "https://api.github.com/repos/mark3labs/mcp-go"
+      "id": 172968029,
+      "name": "OHDSI/ETL-LambdaBuilder",
+      "url": "https://api.github.com/repos/OHDSI/ETL-LambdaBuilder"
     },
     "payload": {
       "action": "started"
     },
     "public": true,
-    "created_at": "2026-03-11T20:52:17Z",
+    "created_at": "2026-03-17T19:29:04Z",
     "org": {
-      "id": 17607124,
-      "login": "mark3labs",
+      "id": 6570077,
+      "login": "OHDSI",
       "gravatar_id": "",
-      "url": "https://api.github.com/orgs/mark3labs",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17607124?"
+      "url": "https://api.github.com/orgs/OHDSI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6570077?"
     }
   },
   {
-    "id": "7308018486",
-    "type": "IssueCommentEvent",
+    "id": "7491652382",
+    "type": "ForkEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -191,1176 +851,130 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
+      "id": 1129158220,
+      "name": "MicrosoftLearning/mslearn-sql-developer",
+      "url": "https://api.github.com/repos/MicrosoftLearning/mslearn-sql-developer"
     },
     "payload": {
-      "action": "created",
-      "issue": {
-        "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/18",
-        "repository_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-        "labels_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/18/labels{/name}",
-        "comments_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/18/comments",
-        "events_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/18/events",
-        "html_url": "https://github.com/atrakic/azure-full-stack-terraform/pull/18",
-        "id": 4054058319,
-        "node_id": "PR_kwDOPs8bXc7Jf9vd",
-        "number": 18,
-        "title": "fix: conditionally emit CORS headers only when CORS_ORIGIN is set",
-        "user": {
-          "login": "Copilot",
-          "id": 198982749,
-          "node_id": "BOT_kgDOC9w8XQ",
-          "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+      "action": "forked",
+      "forkee": {
+        "id": 1184615227,
+        "node_id": "R_kgDORpvLOw",
+        "name": "mslearn-sql-developer",
+        "full_name": "8cloud8/mslearn-sql-developer",
+        "private": false,
+        "owner": {
+          "login": "8cloud8",
+          "id": 48455440,
+          "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ4NDU1NDQw",
+          "avatar_url": "https://avatars.githubusercontent.com/u/48455440?v=4",
           "gravatar_id": "",
-          "url": "https://api.github.com/users/Copilot",
-          "html_url": "https://github.com/apps/copilot-swe-agent",
-          "followers_url": "https://api.github.com/users/Copilot/followers",
-          "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
-          "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
-          "organizations_url": "https://api.github.com/users/Copilot/orgs",
-          "repos_url": "https://api.github.com/users/Copilot/repos",
-          "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/Copilot/received_events",
-          "type": "Bot",
+          "url": "https://api.github.com/users/8cloud8",
+          "html_url": "https://github.com/8cloud8",
+          "followers_url": "https://api.github.com/users/8cloud8/followers",
+          "following_url": "https://api.github.com/users/8cloud8/following{/other_user}",
+          "gists_url": "https://api.github.com/users/8cloud8/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/8cloud8/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/8cloud8/subscriptions",
+          "organizations_url": "https://api.github.com/users/8cloud8/orgs",
+          "repos_url": "https://api.github.com/users/8cloud8/repos",
+          "events_url": "https://api.github.com/users/8cloud8/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/8cloud8/received_events",
+          "type": "Organization",
           "user_view_type": "public",
           "site_admin": false
         },
-        "labels": [],
-        "state": "closed",
-        "locked": false,
-        "assignees": [
-          {
-            "login": "atrakic",
-            "id": 15816139,
-            "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-            "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/atrakic",
-            "html_url": "https://github.com/atrakic",
-            "followers_url": "https://api.github.com/users/atrakic/followers",
-            "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-            "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-            "organizations_url": "https://api.github.com/users/atrakic/orgs",
-            "repos_url": "https://api.github.com/users/atrakic/repos",
-            "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/atrakic/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          {
-            "login": "Copilot",
-            "id": 198982749,
-            "node_id": "BOT_kgDOC9w8XQ",
-            "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Copilot",
-            "html_url": "https://github.com/apps/copilot-swe-agent",
-            "followers_url": "https://api.github.com/users/Copilot/followers",
-            "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
-            "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
-            "organizations_url": "https://api.github.com/users/Copilot/orgs",
-            "repos_url": "https://api.github.com/users/Copilot/repos",
-            "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/Copilot/received_events",
-            "type": "Bot",
-            "user_view_type": "public",
-            "site_admin": false
-          }
-        ],
-        "milestone": null,
-        "comments": 1,
-        "created_at": "2026-03-10T20:27:25Z",
-        "updated_at": "2026-03-11T20:33:55Z",
-        "closed_at": "2026-03-11T20:33:54Z",
-        "assignee": null,
-        "active_lock_reason": null,
-        "draft": false,
-        "pull_request": {
-          "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/18",
-          "html_url": "https://github.com/atrakic/azure-full-stack-terraform/pull/18",
-          "diff_url": "https://github.com/atrakic/azure-full-stack-terraform/pull/18.diff",
-          "patch_url": "https://github.com/atrakic/azure-full-stack-terraform/pull/18.patch",
-          "merged_at": null
+        "html_url": "https://github.com/8cloud8/mslearn-sql-developer",
+        "description": "About Repository for lab exercises and instructions for Microsoft DP-800 learning content",
+        "fork": true,
+        "url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer",
+        "forks_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/forks",
+        "keys_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/teams",
+        "hooks_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/hooks",
+        "issue_events_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/events",
+        "assignees_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/tags",
+        "blobs_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/languages",
+        "stargazers_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/stargazers",
+        "contributors_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/contributors",
+        "subscribers_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/subscribers",
+        "subscription_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/subscription",
+        "commits_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/merges",
+        "archive_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/downloads",
+        "issues_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/labels{/name}",
+        "releases_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/deployments",
+        "created_at": "2026-03-17T19:00:38Z",
+        "updated_at": "2026-03-17T19:00:38Z",
+        "pushed_at": "2026-03-11T06:19:36Z",
+        "git_url": "git://github.com/8cloud8/mslearn-sql-developer.git",
+        "ssh_url": "git@github.com:8cloud8/mslearn-sql-developer.git",
+        "clone_url": "https://github.com/8cloud8/mslearn-sql-developer.git",
+        "svn_url": "https://github.com/8cloud8/mslearn-sql-developer",
+        "homepage": "https://microsoftlearning.github.io/mslearn-sql-developer/",
+        "size": 444,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "has_issues": false,
+        "has_projects": true,
+        "has_downloads": true,
+        "has_wiki": false,
+        "has_pages": false,
+        "has_discussions": false,
+        "forks_count": 0,
+        "mirror_url": null,
+        "archived": false,
+        "disabled": false,
+        "open_issues_count": 0,
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
         },
-        "body": "The nginx template was unconditionally emitting `Access-Control-Allow-Origin` with a literal `${CORS_ORIGIN}` value — even when unset — and the README documented behavior that didn't match.\n\n## Changes\n\n- **`src/web/Dockerfile`**: Replace unconditional `add_header` directives with a build-time shell conditional that only writes CORS headers into the nginx config when `CORS_ORIGIN` is non-empty:\n  ```dockerfile\n  $([ -n \"${CORS_ORIGIN}\" ] && printf \\\n    \"        add_header 'Access-Control-Allow-Origin'  '${CORS_ORIGIN}' always;\\n \\\n            add_header 'Access-Control-Allow-Methods' 'GET, POST, OPTIONS' always;\\n \\\n            add_header 'Access-Control-Allow-Headers' '...' always;\")\n  ```\n\n- **`README.md`**: Update the CORS behaviour table to accurately reflect that an empty `CORS_ORIGIN` emits no headers (`_(none)_`), and that a set value emits all three CORS headers (`Access-Control-Allow-Origin` + Methods + Headers).\n\n<!-- START COPILOT CODING AGENT TIPS -->\n---\n\n🔒 GitHub Advanced Security automatically protects Copilot coding agent pull requests. You can protect all pull requests by enabling Advanced Security for your repositories. [Learn more about Advanced Security.](https://gh.io/cca-advanced-security)",
-        "reactions": {
-          "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/18/reactions",
-          "total_count": 0,
-          "+1": 0,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 0
-        },
-        "timeline_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/18/timeline",
-        "performed_via_github_app": null,
-        "state_reason": null
-      },
-      "comment": {
-        "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/comments/4042026885",
-        "html_url": "https://github.com/atrakic/azure-full-stack-terraform/pull/18#issuecomment-4042026885",
-        "issue_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/18",
-        "id": 4042026885,
-        "node_id": "IC_kwDOPs8bXc7w7G-F",
-        "user": {
-          "login": "atrakic",
-          "id": 15816139,
-          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/atrakic",
-          "html_url": "https://github.com/atrakic",
-          "followers_url": "https://api.github.com/users/atrakic/followers",
-          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-          "organizations_url": "https://api.github.com/users/atrakic/orgs",
-          "repos_url": "https://api.github.com/users/atrakic/repos",
-          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/atrakic/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "created_at": "2026-03-11T20:33:55Z",
-        "updated_at": "2026-03-11T20:33:55Z",
-        "body": "> The nginx template was unconditionally emitting `Access-Control-Allow-Origin` with a literal `${CORS_ORIGIN}` value — even when unset — and the README documented behavior that didn't match.\r\n> \r\n> ## Changes\r\n> * **`src/web/Dockerfile`**: Replace unconditional `add_header` directives with a build-time shell conditional that only writes CORS headers into the nginx config when `CORS_ORIGIN` is non-empty:\r\n>   ```dockerfile\r\n>   $([ -n \"${CORS_ORIGIN}\" ] && printf \\\r\n>     \"        add_header 'Access-Control-Allow-Origin'  '${CORS_ORIGIN}' always;\\n \\\r\n>             add_header 'Access-Control-Allow-Methods' 'GET, POST, OPTIONS' always;\\n \\\r\n>             add_header 'Access-Control-Allow-Headers' '...' always;\")\r\n>   ```\r\n> * **`README.md`**: Update the CORS behaviour table to accurately reflect that an empty `CORS_ORIGIN` emits no headers (`_(none)_`), and that a set value emits all three CORS headers (`Access-Control-Allow-Origin` + Methods + Headers).\r\n> \r\n> 🔒 GitHub Advanced Security automatically protects Copilot coding agent pull requests. You can protect all pull requests by enabling Advanced Security for your repositories. [Learn more about Advanced Security.](https://gh.io/cca-advanced-security)\r\n\r\n",
-        "reactions": {
-          "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/comments/4042026885/reactions",
-          "total_count": 0,
-          "+1": 0,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 0
-        },
-        "performed_via_github_app": null
+        "allow_forking": true,
+        "is_template": false,
+        "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
+        "topics": [],
+        "visibility": "public",
+        "forks": 0,
+        "open_issues": 0,
+        "watchers": 0,
+        "default_branch": "main"
       }
     },
     "public": true,
-    "created_at": "2026-03-11T20:33:55Z"
-  },
-  {
-    "id": "7308017875",
-    "type": "PullRequestEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
+    "created_at": "2026-03-17T19:00:38Z",
+    "org": {
+      "id": 10467123,
+      "login": "MicrosoftLearning",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "action": "closed",
-      "number": 18,
-      "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/18",
-        "id": 3380599773,
-        "number": 18,
-        "head": {
-          "ref": "copilot/sub-pr-16-again",
-          "sha": "1a731eaf0026f8192d096da2447cc2d28184a35b",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        },
-        "base": {
-          "ref": "fix/build-fixes",
-          "sha": "8d071d1a59d1c55fb977d907a0b1e5fc87a85a44",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        }
-      }
-    },
-    "public": true,
-    "created_at": "2026-03-10T20:31:28Z"
-  },
-  {
-    "id": "9293394058",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31586950589,
-      "ref": "refs/heads/main",
-      "head": "4ce50e758437b9886047b76911227c5c38d691bb",
-      "before": "dd05bb08f6743887c9dd06fc9538e391b95a5262"
-    },
-    "public": true,
-    "created_at": "2026-03-11T20:11:28Z"
-  },
-  {
-    "id": "7307363155",
-    "type": "PullRequestEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "action": "merged",
-      "number": 16,
-      "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16",
-        "id": 3380286420,
-        "number": 16,
-        "head": {
-          "ref": "fix/build-fixes",
-          "sha": "c3ab6f3bfb36f27ee83d03eb56b850c8e8cc6e55",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        },
-        "base": {
-          "ref": "main",
-          "sha": "dd05bb08f6743887c9dd06fc9538e391b95a5262",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        }
-      }
-    },
-    "public": true,
-    "created_at": "2026-03-11T20:11:27Z"
-  },
-  {
-    "id": "9293229032",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31586785475,
-      "ref": "refs/heads/fix/build-fixes",
-      "head": "c3ab6f3bfb36f27ee83d03eb56b850c8e8cc6e55",
-      "before": "6c45a51f1a9f135b31dcd65394a069b72c85f46a"
-    },
-    "public": true,
-    "created_at": "2026-03-11T20:06:19Z"
-  },
-  {
-    "id": "9293014523",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31586570748,
-      "ref": "refs/heads/fix/build-fixes",
-      "head": "6c45a51f1a9f135b31dcd65394a069b72c85f46a",
-      "before": "b9b171410762b5a75d8eef569912de72ae38909d"
-    },
-    "public": true,
-    "created_at": "2026-03-11T20:00:10Z"
-  },
-  {
-    "id": "9292905042",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31586461023,
-      "ref": "refs/heads/fix/build-fixes",
-      "head": "b9b171410762b5a75d8eef569912de72ae38909d",
-      "before": "e8420514a27bde85e66a6930cebc863e345b38c2"
-    },
-    "public": true,
-    "created_at": "2026-03-11T19:56:48Z"
-  },
-  {
-    "id": "9291814728",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31585369741,
-      "ref": "refs/heads/fix/build-fixes",
-      "head": "e8420514a27bde85e66a6930cebc863e345b38c2",
-      "before": "8d071d1a59d1c55fb977d907a0b1e5fc87a85a44"
-    },
-    "public": true,
-    "created_at": "2026-03-11T19:22:07Z"
-  },
-  {
-    "id": "7267822596",
-    "type": "PullRequestReviewEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "review": {
-        "id": 3925206784,
-        "node_id": "PRR_kwDOPs8bXc7p9ecA",
-        "user": {
-          "login": "atrakic",
-          "id": 15816139,
-          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/atrakic",
-          "html_url": "https://github.com/atrakic",
-          "followers_url": "https://api.github.com/users/atrakic/followers",
-          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-          "organizations_url": "https://api.github.com/users/atrakic/orgs",
-          "repos_url": "https://api.github.com/users/atrakic/repos",
-          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/atrakic/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "body": null,
-        "commit_id": "cb10ce61566995e4d8c3bcb8071827a22372b36a",
-        "submitted_at": "2026-03-10T20:27:20Z",
-        "state": "commented",
-        "html_url": "https://github.com/atrakic/azure-full-stack-terraform/pull/16#pullrequestreview-3925206784",
-        "pull_request_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16",
-        "_links": {
-          "html": {
-            "href": "https://github.com/atrakic/azure-full-stack-terraform/pull/16#pullrequestreview-3925206784"
-          },
-          "pull_request": {
-            "href": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16"
-          }
-        },
-        "updated_at": "2026-03-10T20:27:20Z"
-      },
-      "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16",
-        "id": 3380286420,
-        "number": 16,
-        "head": {
-          "ref": "fix/build-fixes",
-          "sha": "c3ab6f3bfb36f27ee83d03eb56b850c8e8cc6e55",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        },
-        "base": {
-          "ref": "main",
-          "sha": "dd05bb08f6743887c9dd06fc9538e391b95a5262",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        }
-      },
-      "action": "created"
-    },
-    "public": true,
-    "created_at": "2026-03-10T20:27:21Z"
-  },
-  {
-    "id": "7267822135",
-    "type": "PullRequestReviewCommentEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "action": "created",
-      "comment": {
-        "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/comments/2914263183",
-        "pull_request_review_id": 3925206784,
-        "id": 2914263183,
-        "node_id": "PRRC_kwDOPs8bXc6ttCCP",
-        "diff_hunk": "@@ -50,3 +51,38 @@ No resources.\n | <a name=\"output_location\"></a> [location](#output\\_location) | The location of the resource. |\n | <a name=\"output_web\"></a> [web](#output\\_web) | Web frontend hostname and deployment details. |\n <!-- END_TF_DOCS -->\n+\n+## CORS Configuration\n+\n+The web frontend proxies API requests through nginx (`/api` → `API_URI`). Cross-Origin Resource Sharing (CORS) headers are baked into the nginx config at **Docker build time** via the `CORS_ORIGIN` build argument.\n+\n+### Behaviour\n+\n+| `CORS_ORIGIN` value               | `Access-Control-Allow-Origin` emitted | Effect                                                  |\n+| --------------------------------- | ------------------------------------- | ------------------------------------------------------- |\n+| _(empty, default)_                | _(no header)_                         | Most restrictive — browser blocks cross-origin requests |\n+| `https://myapp.azurewebsites.net` | `https://myapp.azurewebsites.net`     | Only that exact origin is allowed                       |\n+",
-        "path": "README.md",
-        "commit_id": "cb10ce61566995e4d8c3bcb8071827a22372b36a",
-        "original_commit_id": "cb10ce61566995e4d8c3bcb8071827a22372b36a",
-        "user": {
-          "login": "atrakic",
-          "id": 15816139,
-          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/atrakic",
-          "html_url": "https://github.com/atrakic",
-          "followers_url": "https://api.github.com/users/atrakic/followers",
-          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-          "organizations_url": "https://api.github.com/users/atrakic/orgs",
-          "repos_url": "https://api.github.com/users/atrakic/repos",
-          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/atrakic/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "body": "@copilot open a new pull request to apply changes based on [this feedback](https://github.com/atrakic/azure-full-stack-terraform/pull/16#discussion_r2913928095)",
-        "created_at": "2026-03-10T20:27:20Z",
-        "updated_at": "2026-03-10T20:27:21Z",
-        "html_url": "https://github.com/atrakic/azure-full-stack-terraform/pull/16#discussion_r2914263183",
-        "pull_request_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16",
-        "_links": {
-          "self": {
-            "href": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/comments/2914263183"
-          },
-          "html": {
-            "href": "https://github.com/atrakic/azure-full-stack-terraform/pull/16#discussion_r2914263183"
-          },
-          "pull_request": {
-            "href": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16"
-          }
-        },
-        "reactions": {
-          "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/comments/2914263183/reactions",
-          "total_count": 1,
-          "+1": 0,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 1
-        },
-        "in_reply_to_id": 2913928095,
-        "original_position": 23,
-        "position": 1,
-        "subject_type": "line"
-      },
-      "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16",
-        "id": 3380286420,
-        "number": 16,
-        "head": {
-          "ref": "fix/build-fixes",
-          "sha": "c3ab6f3bfb36f27ee83d03eb56b850c8e8cc6e55",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        },
-        "base": {
-          "ref": "main",
-          "sha": "dd05bb08f6743887c9dd06fc9538e391b95a5262",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        }
-      }
-    },
-    "public": true,
-    "created_at": "2026-03-10T20:27:20Z"
-  },
-  {
-    "id": "9250903120",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31544523041,
-      "ref": "refs/heads/fix/build-fixes",
-      "head": "8d071d1a59d1c55fb977d907a0b1e5fc87a85a44",
-      "before": "274b0f092c83f39b909683b05217ce0119bfabdf"
-    },
-    "public": true,
-    "created_at": "2026-03-10T20:23:55Z"
-  },
-  {
-    "id": "7267567355",
-    "type": "PullRequestReviewEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "review": {
-        "id": 3925159212,
-        "node_id": "PRR_kwDOPs8bXc7p9S0s",
-        "user": {
-          "login": "atrakic",
-          "id": 15816139,
-          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/atrakic",
-          "html_url": "https://github.com/atrakic",
-          "followers_url": "https://api.github.com/users/atrakic/followers",
-          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-          "organizations_url": "https://api.github.com/users/atrakic/orgs",
-          "repos_url": "https://api.github.com/users/atrakic/repos",
-          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/atrakic/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "body": null,
-        "commit_id": "cb10ce61566995e4d8c3bcb8071827a22372b36a",
-        "submitted_at": "2026-03-10T20:18:51Z",
-        "state": "commented",
-        "html_url": "https://github.com/atrakic/azure-full-stack-terraform/pull/16#pullrequestreview-3925159212",
-        "pull_request_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16",
-        "_links": {
-          "html": {
-            "href": "https://github.com/atrakic/azure-full-stack-terraform/pull/16#pullrequestreview-3925159212"
-          },
-          "pull_request": {
-            "href": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16"
-          }
-        },
-        "updated_at": "2026-03-10T20:18:51Z"
-      },
-      "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16",
-        "id": 3380286420,
-        "number": 16,
-        "head": {
-          "ref": "fix/build-fixes",
-          "sha": "c3ab6f3bfb36f27ee83d03eb56b850c8e8cc6e55",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        },
-        "base": {
-          "ref": "main",
-          "sha": "dd05bb08f6743887c9dd06fc9538e391b95a5262",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        }
-      },
-      "action": "created"
-    },
-    "public": true,
-    "created_at": "2026-03-10T20:18:53Z"
-  },
-  {
-    "id": "7267566355",
-    "type": "PullRequestReviewCommentEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "action": "created",
-      "comment": {
-        "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/comments/2914215358",
-        "pull_request_review_id": 3925159212,
-        "id": 2914215358,
-        "node_id": "PRRC_kwDOPs8bXc6ts2W-",
-        "diff_hunk": "@@ -50,3 +51,38 @@ No resources.\n | <a name=\"output_location\"></a> [location](#output\\_location) | The location of the resource. |\n | <a name=\"output_web\"></a> [web](#output\\_web) | Web frontend hostname and deployment details. |\n <!-- END_TF_DOCS -->\n+\n+## CORS Configuration\n+\n+The web frontend proxies API requests through nginx (`/api` → `API_URI`). Cross-Origin Resource Sharing (CORS) headers are baked into the nginx config at **Docker build time** via the `CORS_ORIGIN` build argument.\n+\n+### Behaviour\n+\n+| `CORS_ORIGIN` value               | `Access-Control-Allow-Origin` emitted | Effect                                                  |\n+| --------------------------------- | ------------------------------------- | ------------------------------------------------------- |\n+| _(empty, default)_                | _(no header)_                         | Most restrictive — browser blocks cross-origin requests |\n+| `https://myapp.azurewebsites.net` | `https://myapp.azurewebsites.net`     | Only that exact origin is allowed                       |\n+",
-        "path": "README.md",
-        "commit_id": "cb10ce61566995e4d8c3bcb8071827a22372b36a",
-        "original_commit_id": "cb10ce61566995e4d8c3bcb8071827a22372b36a",
-        "user": {
-          "login": "atrakic",
-          "id": 15816139,
-          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/atrakic",
-          "html_url": "https://github.com/atrakic",
-          "followers_url": "https://api.github.com/users/atrakic/followers",
-          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-          "organizations_url": "https://api.github.com/users/atrakic/orgs",
-          "repos_url": "https://api.github.com/users/atrakic/repos",
-          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/atrakic/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "body": "@copilot open a new pull request to apply changes based on [this feedback](https://github.com/atrakic/azure-full-stack-terraform/pull/16#discussion_r2913928095)",
-        "created_at": "2026-03-10T20:18:51Z",
-        "updated_at": "2026-03-10T20:18:51Z",
-        "html_url": "https://github.com/atrakic/azure-full-stack-terraform/pull/16#discussion_r2914215358",
-        "pull_request_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16",
-        "_links": {
-          "self": {
-            "href": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/comments/2914215358"
-          },
-          "html": {
-            "href": "https://github.com/atrakic/azure-full-stack-terraform/pull/16#discussion_r2914215358"
-          },
-          "pull_request": {
-            "href": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16"
-          }
-        },
-        "reactions": {
-          "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/comments/2914215358/reactions",
-          "total_count": 1,
-          "+1": 0,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 1
-        },
-        "in_reply_to_id": 2913928095,
-        "original_position": 23,
-        "position": 1,
-        "subject_type": "line"
-      },
-      "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16",
-        "id": 3380286420,
-        "number": 16,
-        "head": {
-          "ref": "fix/build-fixes",
-          "sha": "c3ab6f3bfb36f27ee83d03eb56b850c8e8cc6e55",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        },
-        "base": {
-          "ref": "main",
-          "sha": "dd05bb08f6743887c9dd06fc9538e391b95a5262",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        }
-      }
-    },
-    "public": true,
-    "created_at": "2026-03-10T20:18:51Z"
-  },
-  {
-    "id": "9250576865",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31544196630,
-      "ref": "refs/heads/fix/build-fixes",
-      "head": "274b0f092c83f39b909683b05217ce0119bfabdf",
-      "before": "80cbb01f41806fbdba0d99cfafd0018cf1e01470"
-    },
-    "public": true,
-    "created_at": "2026-03-10T20:13:16Z"
-  },
-  {
-    "id": "9250438628",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31544058500,
-      "ref": "refs/heads/fix/build-fixes",
-      "head": "80cbb01f41806fbdba0d99cfafd0018cf1e01470",
-      "before": "cb10ce61566995e4d8c3bcb8071827a22372b36a"
-    },
-    "public": true,
-    "created_at": "2026-03-10T20:08:45Z"
-  },
-  {
-    "id": "7265602843",
-    "type": "PullRequestEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "action": "opened",
-      "number": 16,
-      "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/pulls/16",
-        "id": 3380286420,
-        "number": 16,
-        "head": {
-          "ref": "fix/build-fixes",
-          "sha": "c3ab6f3bfb36f27ee83d03eb56b850c8e8cc6e55",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        },
-        "base": {
-          "ref": "main",
-          "sha": "dd05bb08f6743887c9dd06fc9538e391b95a5262",
-          "repo": {
-            "id": 1053760349,
-            "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-            "name": "azure-full-stack-terraform"
-          }
-        }
-      }
-    },
-    "public": true,
-    "created_at": "2026-03-10T19:13:01Z"
-  },
-  {
-    "id": "9245932671",
-    "type": "CreateEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "ref": "fix/build-fixes",
-      "ref_type": "branch",
-      "full_ref": "refs/heads/fix/build-fixes",
-      "master_branch": "main",
-      "description": "Deploy full stack containerized project to Azure Cloud using Terraform. Uses (ACR + Linux WebApp)",
-      "pusher_type": "user"
-    },
-    "public": true,
-    "created_at": "2026-03-10T17:49:21Z"
-  },
-  {
-    "id": "7240787455",
-    "type": "IssuesEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "action": "opened",
-      "issue": {
-        "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/15",
-        "repository_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform",
-        "labels_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/15/labels{/name}",
-        "comments_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/15/comments",
-        "events_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/15/events",
-        "html_url": "https://github.com/atrakic/azure-full-stack-terraform/issues/15",
-        "id": 4049808678,
-        "node_id": "I_kwDOPs8bXc7xYy0m",
-        "number": 15,
-        "title": "add option for docker build args on app tf module",
-        "user": {
-          "login": "atrakic",
-          "id": 15816139,
-          "node_id": "MDQ6VXNlcjE1ODE2MTM5",
-          "avatar_url": "https://avatars.githubusercontent.com/u/15816139?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/atrakic",
-          "html_url": "https://github.com/atrakic",
-          "followers_url": "https://api.github.com/users/atrakic/followers",
-          "following_url": "https://api.github.com/users/atrakic/following{/other_user}",
-          "gists_url": "https://api.github.com/users/atrakic/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/atrakic/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/atrakic/subscriptions",
-          "organizations_url": "https://api.github.com/users/atrakic/orgs",
-          "repos_url": "https://api.github.com/users/atrakic/repos",
-          "events_url": "https://api.github.com/users/atrakic/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/atrakic/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "labels": [],
-        "state": "open",
-        "locked": false,
-        "assignees": [],
-        "milestone": null,
-        "comments": 0,
-        "created_at": "2026-03-10T06:53:20Z",
-        "updated_at": "2026-03-10T06:53:20Z",
-        "closed_at": null,
-        "assignee": null,
-        "active_lock_reason": null,
-        "sub_issues_summary": {
-          "total": 0,
-          "completed": 0,
-          "percent_completed": 0
-        },
-        "issue_dependencies_summary": {
-          "blocked_by": 0,
-          "total_blocked_by": 0,
-          "blocking": 0,
-          "total_blocking": 0
-        },
-        "body": null,
-        "reactions": {
-          "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/15/reactions",
-          "total_count": 0,
-          "+1": 0,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 0
-        },
-        "timeline_url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform/issues/15/timeline",
-        "performed_via_github_app": null,
-        "state_reason": null,
-        "pinned_comment": null
-      }
-    },
-    "public": true,
-    "created_at": "2026-03-10T06:53:21Z"
-  },
-  {
-    "id": "9222151050",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31515837798,
-      "ref": "refs/heads/main",
-      "head": "dd05bb08f6743887c9dd06fc9538e391b95a5262",
-      "before": "e870c481c2c1aaa213ba1f2205f4cdcf7d5ee3e0"
-    },
-    "public": true,
-    "created_at": "2026-03-10T06:18:17Z"
-  },
-  {
-    "id": "9221787640",
-    "type": "DeleteEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "ref": "v0.0.2",
-      "ref_type": "tag",
-      "full_ref": "refs/tags/v0.0.2",
-      "pusher_type": "user"
-    },
-    "public": true,
-    "created_at": "2026-03-10T06:02:55Z"
-  },
-  {
-    "id": "9221780369",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31515467386,
-      "ref": "refs/heads/main",
-      "head": "e870c481c2c1aaa213ba1f2205f4cdcf7d5ee3e0",
-      "before": "7606c94fbf5ce23a46a0cb836adc6dda8578d77f"
-    },
-    "public": true,
-    "created_at": "2026-03-10T06:02:37Z"
-  },
-  {
-    "id": "9221689921",
-    "type": "DeleteEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "ref": "v0.0.2",
-      "ref_type": "tag",
-      "full_ref": "refs/tags/v0.0.2",
-      "pusher_type": "user"
-    },
-    "public": true,
-    "created_at": "2026-03-10T05:59:21Z"
-  },
-  {
-    "id": "9221672685",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31515359690,
-      "ref": "refs/heads/main",
-      "head": "7606c94fbf5ce23a46a0cb836adc6dda8578d77f",
-      "before": "80d82a4e98a52c4dfb024022ffeb7f29d911fb06"
-    },
-    "public": true,
-    "created_at": "2026-03-10T05:58:35Z"
-  },
-  {
-    "id": "9221209493",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1053760349,
-      "name": "atrakic/azure-full-stack-terraform",
-      "url": "https://api.github.com/repos/atrakic/azure-full-stack-terraform"
-    },
-    "payload": {
-      "repository_id": 1053760349,
-      "push_id": 31514896168,
-      "ref": "refs/heads/main",
-      "head": "80d82a4e98a52c4dfb024022ffeb7f29d911fb06",
-      "before": "81e1751c65a1997cbab24f35b105f809ad4e65b9"
-    },
-    "public": true,
-    "created_at": "2026-03-10T05:38:15Z"
+      "url": "https://api.github.com/orgs/MicrosoftLearning",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10467123?"
+    }
   }
 ]

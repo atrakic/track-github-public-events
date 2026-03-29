@@ -1,6 +1,6 @@
 [
   {
-    "id": "9634187926",
+    "id": "9928866700",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -11,22 +11,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 1170890420,
-      "push_id": 31927535473,
+      "repository_id": 1175165235,
+      "push_id": 32222209175,
       "ref": "refs/heads/main",
-      "head": "8e719c85ff26270fa9d2897699d7941f0e117d98",
-      "before": "9bd61ed4708ec41e7fedbbabec79e81fefe8b627"
+      "head": "09df4351a28dfb9210e19d1a81ca423b226e1d9d",
+      "before": "8c804361a1b8b35eacaf0a596c441fdf685c17a5"
     },
     "public": true,
-    "created_at": "2026-03-20T18:28:24Z"
+    "created_at": "2026-03-28T16:18:01Z"
   },
   {
-    "id": "9633655036",
+    "id": "9928810708",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -37,22 +37,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 859791244,
-      "name": "atrakic/azure-sql-deploy-dacpac",
-      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 859791244,
-      "push_id": 31927002835,
+      "repository_id": 1175165235,
+      "push_id": 32222153290,
       "ref": "refs/heads/main",
-      "head": "03e2c21bc12616298891162ff04b62776eb98c16",
-      "before": "9cbee132ef8dfc39966dba0bdd953962c034eb12"
+      "head": "8c804361a1b8b35eacaf0a596c441fdf685c17a5",
+      "before": "5e85f21543c0c7264d590f7e12a9d18d1a2d2e37"
     },
     "public": true,
-    "created_at": "2026-03-20T18:10:32Z"
+    "created_at": "2026-03-28T16:15:09Z"
   },
   {
-    "id": "9633595791",
+    "id": "9928772472",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -63,22 +63,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 859791244,
-      "name": "atrakic/azure-sql-deploy-dacpac",
-      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 859791244,
-      "push_id": 31926943631,
+      "repository_id": 1175165235,
+      "push_id": 32222115033,
       "ref": "refs/heads/main",
-      "head": "9cbee132ef8dfc39966dba0bdd953962c034eb12",
-      "before": "0aab38cd9294510344aeea3575dcd64335c53f95"
+      "head": "5e85f21543c0c7264d590f7e12a9d18d1a2d2e37",
+      "before": "649a0843d0bbe367381a35eddf46163a713f37f7"
     },
     "public": true,
-    "created_at": "2026-03-20T18:08:39Z"
+    "created_at": "2026-03-28T16:13:06Z"
   },
   {
-    "id": "9633312920",
+    "id": "9928642632",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -89,22 +89,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 859791244,
-      "name": "atrakic/azure-sql-deploy-dacpac",
-      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 859791244,
-      "push_id": 31926660765,
+      "repository_id": 1175165235,
+      "push_id": 32221985712,
       "ref": "refs/heads/main",
-      "head": "0aab38cd9294510344aeea3575dcd64335c53f95",
-      "before": "c512dd71b9f5d4d176548351ba658d2fc3afa6bf"
+      "head": "649a0843d0bbe367381a35eddf46163a713f37f7",
+      "before": "b567fecab5462777e24c04b5891f8db4bd854dec"
     },
     "public": true,
-    "created_at": "2026-03-20T17:59:50Z"
+    "created_at": "2026-03-28T16:06:34Z"
   },
   {
-    "id": "9632900066",
+    "id": "9928585838",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -115,22 +115,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 859791244,
-      "name": "atrakic/azure-sql-deploy-dacpac",
-      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 859791244,
-      "push_id": 31926247836,
+      "repository_id": 1175165235,
+      "push_id": 32221929170,
       "ref": "refs/heads/main",
-      "head": "c512dd71b9f5d4d176548351ba658d2fc3afa6bf",
-      "before": "e59c6d56cf54d24ad620249fca41bb379ff03a74"
+      "head": "b567fecab5462777e24c04b5891f8db4bd854dec",
+      "before": "f99ef6443b9b0cc51813a7979e1341a69c370b8a"
     },
     "public": true,
-    "created_at": "2026-03-20T17:46:42Z"
+    "created_at": "2026-03-28T16:03:46Z"
   },
   {
-    "id": "9632886670",
+    "id": "9928540827",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -141,22 +141,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 859791244,
-      "name": "atrakic/azure-sql-deploy-dacpac",
-      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 859791244,
-      "push_id": 31926234282,
-      "ref": "refs/heads/main",
-      "head": "e59c6d56cf54d24ad620249fca41bb379ff03a74",
-      "before": "686218861a253bc323430f6d3a6937071a665167"
+      "repository_id": 1175165235,
+      "push_id": 32221884309,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "b127d5a0341149d99fe174f56bd2c1fec339a981",
+      "before": "43479bd98495345739b82510a907b51664943890"
     },
     "public": true,
-    "created_at": "2026-03-20T17:46:16Z"
+    "created_at": "2026-03-28T16:01:43Z"
   },
   {
-    "id": "9632707543",
+    "id": "9928339815",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -167,22 +167,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 859791244,
-      "name": "atrakic/azure-sql-deploy-dacpac",
-      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 859791244,
-      "push_id": 31926055716,
-      "ref": "refs/heads/main",
-      "head": "686218861a253bc323430f6d3a6937071a665167",
-      "before": "bb38a1ab52b2c218dce5b080b8396ec573e98a4f"
+      "repository_id": 1175165235,
+      "push_id": 32221684001,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "43479bd98495345739b82510a907b51664943890",
+      "before": "894ae68dfa2afcf8575c46ce9970d47e6ec7b508"
     },
     "public": true,
-    "created_at": "2026-03-20T17:40:39Z"
+    "created_at": "2026-03-28T15:51:55Z"
   },
   {
-    "id": "9612669287",
+    "id": "9927962447",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -193,22 +193,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 859791244,
-      "name": "atrakic/azure-sql-deploy-dacpac",
-      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 859791244,
-      "push_id": 31906011430,
-      "ref": "refs/heads/main",
-      "head": "bb38a1ab52b2c218dce5b080b8396ec573e98a4f",
-      "before": "449e0a6c73e2769077d98c39a7e46d19a6e3f069"
+      "repository_id": 1175165235,
+      "push_id": 32221307867,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "894ae68dfa2afcf8575c46ce9970d47e6ec7b508",
+      "before": "03a3120adcc5beb2a4827ab0168fa607e569ccc6"
     },
     "public": true,
-    "created_at": "2026-03-20T07:03:41Z"
+    "created_at": "2026-03-28T15:32:30Z"
   },
   {
-    "id": "9612619229",
+    "id": "9927916625",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -219,22 +219,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 859791244,
-      "name": "atrakic/azure-sql-deploy-dacpac",
-      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 859791244,
-      "push_id": 31905961310,
-      "ref": "refs/heads/main",
-      "head": "449e0a6c73e2769077d98c39a7e46d19a6e3f069",
-      "before": "7a195394512720efce6a0c2416c094f8f083be51"
+      "repository_id": 1175165235,
+      "push_id": 32221261983,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "03a3120adcc5beb2a4827ab0168fa607e569ccc6",
+      "before": "236094cda6b4c146ba5a1c9f77d0fdeab15ea7a7"
     },
     "public": true,
-    "created_at": "2026-03-20T07:01:38Z"
+    "created_at": "2026-03-28T15:30:17Z"
   },
   {
-    "id": "9601791834",
+    "id": "9927892160",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -245,22 +245,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 859791244,
-      "name": "atrakic/azure-sql-deploy-dacpac",
-      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 859791244,
-      "push_id": 31895129909,
-      "ref": "refs/heads/main",
-      "head": "7a195394512720efce6a0c2416c094f8f083be51",
-      "before": "ade642d72fdc82e0c26169b1a9413e0c9954d78c"
+      "repository_id": 1175165235,
+      "push_id": 32221237494,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "236094cda6b4c146ba5a1c9f77d0fdeab15ea7a7",
+      "before": "3ce6843785b09ed236009330cdc3b99c3ecc4cf5"
     },
     "public": true,
-    "created_at": "2026-03-19T22:11:45Z"
+    "created_at": "2026-03-28T15:29:04Z"
   },
   {
-    "id": "9601543064",
+    "id": "9927863689",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -271,22 +271,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 859791244,
-      "name": "atrakic/azure-sql-deploy-dacpac",
-      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 859791244,
-      "push_id": 31894881441,
-      "ref": "refs/heads/main",
-      "head": "ade642d72fdc82e0c26169b1a9413e0c9954d78c",
-      "before": "21a5ddfdc49341e6a9ffb175fc3f4ffc1ca36e40"
+      "repository_id": 1175165235,
+      "push_id": 32221209187,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "3ce6843785b09ed236009330cdc3b99c3ecc4cf5",
+      "before": "7f85674866c696e42d9f4c91bf05c09bf8e77c2a"
     },
     "public": true,
-    "created_at": "2026-03-19T22:02:06Z"
+    "created_at": "2026-03-28T15:27:35Z"
   },
   {
-    "id": "9601017819",
+    "id": "9927737996",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -297,22 +297,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 859791244,
-      "name": "atrakic/azure-sql-deploy-dacpac",
-      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 859791244,
-      "push_id": 31894356713,
-      "ref": "refs/heads/main",
-      "head": "21a5ddfdc49341e6a9ffb175fc3f4ffc1ca36e40",
-      "before": "739c91081d04e228968b21e392effb89ac10c15c"
+      "repository_id": 1175165235,
+      "push_id": 32221084060,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "7f85674866c696e42d9f4c91bf05c09bf8e77c2a",
+      "before": "488fcaf6f5776b7a13d6f389d7abf97edc0cbe94"
     },
     "public": true,
-    "created_at": "2026-03-19T21:42:23Z"
+    "created_at": "2026-03-28T15:21:16Z"
   },
   {
-    "id": "9600775902",
+    "id": "9927704274",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -323,22 +323,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 859791244,
-      "name": "atrakic/azure-sql-deploy-dacpac",
-      "url": "https://api.github.com/repos/atrakic/azure-sql-deploy-dacpac"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 859791244,
-      "push_id": 31894114688,
-      "ref": "refs/heads/main",
-      "head": "739c91081d04e228968b21e392effb89ac10c15c",
-      "before": "a83167f356aa833ae8b17b6754f653bbf117260b"
+      "repository_id": 1175165235,
+      "push_id": 32221050467,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "488fcaf6f5776b7a13d6f389d7abf97edc0cbe94",
+      "before": "92567762675a8dec079e2190f14d950ec6cd76a6"
     },
     "public": true,
-    "created_at": "2026-03-19T21:33:40Z"
+    "created_at": "2026-03-28T15:19:35Z"
   },
   {
-    "id": "9577844114",
+    "id": "9926816790",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -349,68 +349,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 1170890420,
-      "push_id": 31871181194,
-      "ref": "refs/heads/main",
-      "head": "9bd61ed4708ec41e7fedbbabec79e81fefe8b627",
-      "before": "438220aea56623eccd4516358b7da96d236a80a6"
+      "repository_id": 1175165235,
+      "push_id": 32220165649,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "92567762675a8dec079e2190f14d950ec6cd76a6",
+      "before": "dbcb0840127b9cf0bbc07446e9e6be24f788ff9a"
     },
     "public": true,
-    "created_at": "2026-03-19T10:28:35Z"
+    "created_at": "2026-03-28T14:35:14Z"
   },
   {
-    "id": "7554127028",
-    "type": "PullRequestEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
-    },
-    "payload": {
-      "action": "merged",
-      "number": 8,
-      "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/eurofxref-analytics/pulls/8",
-        "id": 3419208783,
-        "number": 8,
-        "head": {
-          "ref": "feature/simplify",
-          "sha": "01f23206ab482e1f17a819ca5ad9969bc476cf6e",
-          "repo": {
-            "id": 1170890420,
-            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
-            "name": "eurofxref-analytics"
-          }
-        },
-        "base": {
-          "ref": "main",
-          "sha": "438220aea56623eccd4516358b7da96d236a80a6",
-          "repo": {
-            "id": 1170890420,
-            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
-            "name": "eurofxref-analytics"
-          }
-        }
-      }
-    },
-    "public": true,
-    "created_at": "2026-03-19T10:28:33Z"
-  },
-  {
-    "id": "9577739894",
+    "id": "9926591256",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -421,22 +375,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 1170890420,
-      "push_id": 31871076850,
-      "ref": "refs/heads/feature/simplify",
-      "head": "01f23206ab482e1f17a819ca5ad9969bc476cf6e",
-      "before": "10a92cf55dfa4e4f21683656e142db1f5b6f340c"
+      "repository_id": 1175165235,
+      "push_id": 32219940979,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "dbcb0840127b9cf0bbc07446e9e6be24f788ff9a",
+      "before": "6a611a028d415627e2460297a31b624657c2ecda"
     },
     "public": true,
-    "created_at": "2026-03-19T10:25:22Z"
+    "created_at": "2026-03-28T14:23:50Z"
   },
   {
-    "id": "9577354217",
+    "id": "9926570308",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -447,22 +401,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 1170890420,
-      "push_id": 31870691053,
-      "ref": "refs/heads/feature/simplify",
-      "head": "10a92cf55dfa4e4f21683656e142db1f5b6f340c",
-      "before": "74182251b80378acd27bfc0d76c4bc144d66b0e7"
+      "repository_id": 1175165235,
+      "push_id": 32219919975,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "6a611a028d415627e2460297a31b624657c2ecda",
+      "before": "89fb614830770c8dfb4ab7a31c2b5a7b369e6b3f"
     },
     "public": true,
-    "created_at": "2026-03-19T10:13:33Z"
+    "created_at": "2026-03-28T14:22:43Z"
   },
   {
-    "id": "9577097627",
+    "id": "9926554319",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -473,22 +427,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 1170890420,
-      "push_id": 31870434501,
-      "ref": "refs/heads/feature/simplify",
-      "head": "74182251b80378acd27bfc0d76c4bc144d66b0e7",
-      "before": "eecc3a7b3f674198e8a90586fc1a8f39b9c4ff3d"
+      "repository_id": 1175165235,
+      "push_id": 32219904076,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "89fb614830770c8dfb4ab7a31c2b5a7b369e6b3f",
+      "before": "75d46e8f6401834d357d558e3cf0de0abf9ba859"
     },
     "public": true,
-    "created_at": "2026-03-19T10:05:41Z"
+    "created_at": "2026-03-28T14:21:54Z"
   },
   {
-    "id": "9576857652",
+    "id": "9926515093",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -499,22 +453,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 1170890420,
-      "push_id": 31870194470,
-      "ref": "refs/heads/feature/simplify",
-      "head": "eecc3a7b3f674198e8a90586fc1a8f39b9c4ff3d",
-      "before": "384898efe27d9657efdd4ace2cbe0848ef9b00f2"
+      "repository_id": 1175165235,
+      "push_id": 32219864884,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "75d46e8f6401834d357d558e3cf0de0abf9ba859",
+      "before": "0cc7f2c7e1a312d3a8b7cc7349bc96825a052a3c"
     },
     "public": true,
-    "created_at": "2026-03-19T09:58:48Z"
+    "created_at": "2026-03-28T14:19:52Z"
   },
   {
-    "id": "9576758998",
+    "id": "9926469694",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -525,141 +479,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 1170890420,
-      "push_id": 31870095760,
-      "ref": "refs/heads/feature/simplify",
-      "head": "384898efe27d9657efdd4ace2cbe0848ef9b00f2",
-      "before": "497af43d5b5beda9e61692d775611fe0d9820811"
+      "repository_id": 1175165235,
+      "push_id": 32219819675,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "0cc7f2c7e1a312d3a8b7cc7349bc96825a052a3c",
+      "before": "48d22c57ff45ca50b9299dbd8ff60e80202ff42a"
     },
     "public": true,
-    "created_at": "2026-03-19T09:55:48Z"
+    "created_at": "2026-03-28T14:17:27Z"
   },
   {
-    "id": "7553108570",
-    "type": "PullRequestEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
-    },
-    "payload": {
-      "action": "opened",
-      "number": 8,
-      "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/eurofxref-analytics/pulls/8",
-        "id": 3419208783,
-        "number": 8,
-        "head": {
-          "ref": "feature/simplify",
-          "sha": "01f23206ab482e1f17a819ca5ad9969bc476cf6e",
-          "repo": {
-            "id": 1170890420,
-            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
-            "name": "eurofxref-analytics"
-          }
-        },
-        "base": {
-          "ref": "main",
-          "sha": "438220aea56623eccd4516358b7da96d236a80a6",
-          "repo": {
-            "id": 1170890420,
-            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
-            "name": "eurofxref-analytics"
-          }
-        }
-      }
-    },
-    "public": true,
-    "created_at": "2026-03-19T09:54:38Z"
-  },
-  {
-    "id": "9576705307",
-    "type": "CreateEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
-    },
-    "payload": {
-      "ref": "feature/simplify",
-      "ref_type": "branch",
-      "full_ref": "refs/heads/feature/simplify",
-      "master_branch": "main",
-      "description": "Full stack analytics project with dbt, duckdb and evidence.",
-      "pusher_type": "user"
-    },
-    "public": true,
-    "created_at": "2026-03-19T09:54:14Z"
-  },
-  {
-    "id": "7552511538",
-    "type": "PullRequestEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
-    },
-    "payload": {
-      "action": "merged",
-      "number": 7,
-      "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/eurofxref-analytics/pulls/7",
-        "id": 3419132038,
-        "number": 7,
-        "head": {
-          "ref": "feature/playwritght",
-          "sha": "3505f19c682ce2ba836d4efbc94b5fb6c57af582",
-          "repo": {
-            "id": 1170890420,
-            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
-            "name": "eurofxref-analytics"
-          }
-        },
-        "base": {
-          "ref": "main",
-          "sha": "e89e0c83ee89efac0b945350176181837b3a9237",
-          "repo": {
-            "id": 1170890420,
-            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
-            "name": "eurofxref-analytics"
-          }
-        }
-      }
-    },
-    "public": true,
-    "created_at": "2026-03-19T09:35:42Z"
-  },
-  {
-    "id": "9576102750",
+    "id": "9926451593",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -670,95 +505,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 1170890420,
-      "push_id": 31869439214,
-      "ref": "refs/heads/main",
-      "head": "438220aea56623eccd4516358b7da96d236a80a6",
-      "before": "e89e0c83ee89efac0b945350176181837b3a9237"
+      "repository_id": 1175165235,
+      "push_id": 32219801586,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "48d22c57ff45ca50b9299dbd8ff60e80202ff42a",
+      "before": "b400ee4270edb138f02b3f3f3bc7465e96add3eb"
     },
     "public": true,
-    "created_at": "2026-03-19T09:35:43Z"
+    "created_at": "2026-03-28T14:16:31Z"
   },
   {
-    "id": "7552489095",
-    "type": "PullRequestEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
-    },
-    "payload": {
-      "action": "opened",
-      "number": 7,
-      "pull_request": {
-        "url": "https://api.github.com/repos/atrakic/eurofxref-analytics/pulls/7",
-        "id": 3419132038,
-        "number": 7,
-        "head": {
-          "ref": "feature/playwritght",
-          "sha": "3505f19c682ce2ba836d4efbc94b5fb6c57af582",
-          "repo": {
-            "id": 1170890420,
-            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
-            "name": "eurofxref-analytics"
-          }
-        },
-        "base": {
-          "ref": "main",
-          "sha": "e89e0c83ee89efac0b945350176181837b3a9237",
-          "repo": {
-            "id": 1170890420,
-            "url": "https://api.github.com/repos/atrakic/eurofxref-analytics",
-            "name": "eurofxref-analytics"
-          }
-        }
-      }
-    },
-    "public": true,
-    "created_at": "2026-03-19T09:35:00Z"
-  },
-  {
-    "id": "9576066679",
-    "type": "CreateEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
-    },
-    "payload": {
-      "ref": "feature/playwritght",
-      "ref_type": "branch",
-      "full_ref": "refs/heads/feature/playwritght",
-      "master_branch": "main",
-      "description": "Full stack analytics project with dbt, duckdb and evidence.",
-      "pusher_type": "user"
-    },
-    "public": true,
-    "created_at": "2026-03-19T09:34:37Z"
-  },
-  {
-    "id": "9575618473",
+    "id": "9926150916",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -769,23 +531,23 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "repository_id": 1170890420,
-      "push_id": 31868954509,
-      "ref": "refs/heads/main",
-      "head": "e89e0c83ee89efac0b945350176181837b3a9237",
-      "before": "bf2f27884856bf878c44cd8468b36256d32a6af9"
+      "repository_id": 1175165235,
+      "push_id": 32219502185,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "b400ee4270edb138f02b3f3f3bc7465e96add3eb",
+      "before": "4e8f18c3bcdc92851127ad48352b78dde52c14d2"
     },
     "public": true,
-    "created_at": "2026-03-19T09:20:46Z"
+    "created_at": "2026-03-28T14:01:09Z"
   },
   {
-    "id": "9575558276",
-    "type": "CreateEvent",
+    "id": "9926022322",
+    "type": "PushEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -795,24 +557,23 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1170890420,
-      "name": "atrakic/eurofxref-analytics",
-      "url": "https://api.github.com/repos/atrakic/eurofxref-analytics"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "ref": "feature/add-widgets",
-      "ref_type": "branch",
-      "full_ref": "refs/heads/feature/add-widgets",
-      "master_branch": "main",
-      "description": "Full stack analytics project with dbt, duckdb and evidence.",
-      "pusher_type": "user"
+      "repository_id": 1175165235,
+      "push_id": 32219373865,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "4e8f18c3bcdc92851127ad48352b78dde52c14d2",
+      "before": "1dd4474a91f0738f493cca890f7d83270d1b6e84"
     },
     "public": true,
-    "created_at": "2026-03-19T09:18:54Z"
+    "created_at": "2026-03-28T13:54:29Z"
   },
   {
-    "id": "7492578837",
-    "type": "WatchEvent",
+    "id": "9925928721",
+    "type": "PushEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -822,26 +583,23 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 172968029,
-      "name": "OHDSI/ETL-LambdaBuilder",
-      "url": "https://api.github.com/repos/OHDSI/ETL-LambdaBuilder"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "action": "started"
+      "repository_id": 1175165235,
+      "push_id": 32219280604,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "1dd4474a91f0738f493cca890f7d83270d1b6e84",
+      "before": "1378c3469ae8f099e2e8bc82bc689109d7590bb0"
     },
     "public": true,
-    "created_at": "2026-03-17T19:29:04Z",
-    "org": {
-      "id": 6570077,
-      "login": "OHDSI",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/OHDSI",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6570077?"
-    }
+    "created_at": "2026-03-28T13:49:35Z"
   },
   {
-    "id": "7491652382",
-    "type": "ForkEvent",
+    "id": "9925868361",
+    "type": "PushEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -851,130 +609,174 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1129158220,
-      "name": "MicrosoftLearning/mslearn-sql-developer",
-      "url": "https://api.github.com/repos/MicrosoftLearning/mslearn-sql-developer"
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
     },
     "payload": {
-      "action": "forked",
-      "forkee": {
-        "id": 1184615227,
-        "node_id": "R_kgDORpvLOw",
-        "name": "mslearn-sql-developer",
-        "full_name": "8cloud8/mslearn-sql-developer",
-        "private": false,
-        "owner": {
-          "login": "8cloud8",
-          "id": 48455440,
-          "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ4NDU1NDQw",
-          "avatar_url": "https://avatars.githubusercontent.com/u/48455440?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/8cloud8",
-          "html_url": "https://github.com/8cloud8",
-          "followers_url": "https://api.github.com/users/8cloud8/followers",
-          "following_url": "https://api.github.com/users/8cloud8/following{/other_user}",
-          "gists_url": "https://api.github.com/users/8cloud8/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/8cloud8/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/8cloud8/subscriptions",
-          "organizations_url": "https://api.github.com/users/8cloud8/orgs",
-          "repos_url": "https://api.github.com/users/8cloud8/repos",
-          "events_url": "https://api.github.com/users/8cloud8/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/8cloud8/received_events",
-          "type": "Organization",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "html_url": "https://github.com/8cloud8/mslearn-sql-developer",
-        "description": "About Repository for lab exercises and instructions for Microsoft DP-800 learning content",
-        "fork": true,
-        "url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer",
-        "forks_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/forks",
-        "keys_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/keys{/key_id}",
-        "collaborators_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/collaborators{/collaborator}",
-        "teams_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/teams",
-        "hooks_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/hooks",
-        "issue_events_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/issues/events{/number}",
-        "events_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/events",
-        "assignees_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/assignees{/user}",
-        "branches_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/branches{/branch}",
-        "tags_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/tags",
-        "blobs_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/git/blobs{/sha}",
-        "git_tags_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/git/tags{/sha}",
-        "git_refs_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/git/refs{/sha}",
-        "trees_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/git/trees{/sha}",
-        "statuses_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/statuses/{sha}",
-        "languages_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/languages",
-        "stargazers_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/stargazers",
-        "contributors_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/contributors",
-        "subscribers_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/subscribers",
-        "subscription_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/subscription",
-        "commits_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/commits{/sha}",
-        "git_commits_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/git/commits{/sha}",
-        "comments_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/comments{/number}",
-        "issue_comment_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/issues/comments{/number}",
-        "contents_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/compare/{base}...{head}",
-        "merges_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/merges",
-        "archive_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/{archive_format}{/ref}",
-        "downloads_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/downloads",
-        "issues_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/issues{/number}",
-        "pulls_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/pulls{/number}",
-        "milestones_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/milestones{/number}",
-        "notifications_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/notifications{?since,all,participating}",
-        "labels_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/labels{/name}",
-        "releases_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/releases{/id}",
-        "deployments_url": "https://api.github.com/repos/8cloud8/mslearn-sql-developer/deployments",
-        "created_at": "2026-03-17T19:00:38Z",
-        "updated_at": "2026-03-17T19:00:38Z",
-        "pushed_at": "2026-03-11T06:19:36Z",
-        "git_url": "git://github.com/8cloud8/mslearn-sql-developer.git",
-        "ssh_url": "git@github.com:8cloud8/mslearn-sql-developer.git",
-        "clone_url": "https://github.com/8cloud8/mslearn-sql-developer.git",
-        "svn_url": "https://github.com/8cloud8/mslearn-sql-developer",
-        "homepage": "https://microsoftlearning.github.io/mslearn-sql-developer/",
-        "size": 444,
-        "stargazers_count": 0,
-        "watchers_count": 0,
-        "language": null,
-        "has_issues": false,
-        "has_projects": true,
-        "has_downloads": true,
-        "has_wiki": false,
-        "has_pages": false,
-        "has_discussions": false,
-        "forks_count": 0,
-        "mirror_url": null,
-        "archived": false,
-        "disabled": false,
-        "open_issues_count": 0,
-        "license": {
-          "key": "mit",
-          "name": "MIT License",
-          "spdx_id": "MIT",
-          "url": "https://api.github.com/licenses/mit",
-          "node_id": "MDc6TGljZW5zZTEz"
-        },
-        "allow_forking": true,
-        "is_template": false,
-        "web_commit_signoff_required": false,
-        "has_pull_requests": true,
-        "pull_request_creation_policy": "all",
-        "topics": [],
-        "visibility": "public",
-        "forks": 0,
-        "open_issues": 0,
-        "watchers": 0,
-        "default_branch": "main"
-      }
+      "repository_id": 1175165235,
+      "push_id": 32219220627,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "1378c3469ae8f099e2e8bc82bc689109d7590bb0",
+      "before": "4ffd2cd264e4bfbbf6aca3699d2cd34fbf055d9c"
     },
     "public": true,
-    "created_at": "2026-03-17T19:00:38Z",
-    "org": {
-      "id": 10467123,
-      "login": "MicrosoftLearning",
+    "created_at": "2026-03-28T13:46:16Z"
+  },
+  {
+    "id": "9925770659",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
       "gravatar_id": "",
-      "url": "https://api.github.com/orgs/MicrosoftLearning",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10467123?"
-    }
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 32219123462,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "4ffd2cd264e4bfbbf6aca3699d2cd34fbf055d9c",
+      "before": "ff0dab71491b3ba53007d20aac37c34e49fd3474"
+    },
+    "public": true,
+    "created_at": "2026-03-28T13:41:07Z"
+  },
+  {
+    "id": "9924710937",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 32218064440,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "ff0dab71491b3ba53007d20aac37c34e49fd3474",
+      "before": "dce34437c5ddaefde42e9a11d9e17bfbb3609edd"
+    },
+    "public": true,
+    "created_at": "2026-03-28T12:46:45Z"
+  },
+  {
+    "id": "9924662010",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 32218015356,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "dce34437c5ddaefde42e9a11d9e17bfbb3609edd",
+      "before": "2ce5d7dc26e70bff5eaea2e5e6ea5ff71286f5a4"
+    },
+    "public": true,
+    "created_at": "2026-03-28T12:44:11Z"
+  },
+  {
+    "id": "9924615657",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 32217969062,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "2ce5d7dc26e70bff5eaea2e5e6ea5ff71286f5a4",
+      "before": "5c1f0678de86d0be9124cdbf8056a21fcfe2e67b"
+    },
+    "public": true,
+    "created_at": "2026-03-28T12:41:51Z"
+  },
+  {
+    "id": "9924476782",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 32217830836,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "5c1f0678de86d0be9124cdbf8056a21fcfe2e67b",
+      "before": "9d664c1a745ad29822364a22644ad754c733dc9a"
+    },
+    "public": true,
+    "created_at": "2026-03-28T12:34:34Z"
+  },
+  {
+    "id": "9924476566",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 1175165235,
+      "name": "atrakic/nix-home",
+      "url": "https://api.github.com/repos/atrakic/nix-home"
+    },
+    "payload": {
+      "repository_id": 1175165235,
+      "push_id": 32217830552,
+      "ref": "refs/heads/fix/broken-make",
+      "head": "5c1f0678de86d0be9124cdbf8056a21fcfe2e67b",
+      "before": "9d664c1a745ad29822364a22644ad754c733dc9a"
+    },
+    "public": true,
+    "created_at": "2026-03-28T12:34:33Z"
   }
 ]

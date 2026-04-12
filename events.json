@@ -1,5 +1,32 @@
 [
   {
+    "id": "10406316192",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 957442462,
+      "name": "atrakic/chat-with-my-database",
+      "url": "https://api.github.com/repos/atrakic/chat-with-my-database"
+    },
+    "payload": {
+      "ref": "feature/use-track-github-public-events",
+      "ref_type": "branch",
+      "full_ref": "refs/heads/feature/use-track-github-public-events",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2026-04-10T03:33:42Z"
+  },
+  {
     "id": "8073616644",
     "type": "WatchEvent",
     "actor": {
@@ -1063,31 +1090,5 @@
     },
     "public": true,
     "created_at": "2026-03-28T15:21:16Z"
-  },
-  {
-    "id": "9927704274",
-    "type": "PushEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1175165235,
-      "name": "atrakic/nix-home",
-      "url": "https://api.github.com/repos/atrakic/nix-home"
-    },
-    "payload": {
-      "repository_id": 1175165235,
-      "push_id": 32221050467,
-      "ref": "refs/heads/fix/broken-make",
-      "head": "488fcaf6f5776b7a13d6f389d7abf97edc0cbe94",
-      "before": "92567762675a8dec079e2190f14d950ec6cd76a6"
-    },
-    "public": true,
-    "created_at": "2026-03-28T15:19:35Z"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
-    "id": "8853960541",
-    "type": "WatchEvent",
+    "id": "11818640307",
+    "type": "PushEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -11,25 +11,256 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 770412881,
-      "name": "cbmr-data/esrum-utils",
-      "url": "https://api.github.com/repos/cbmr-data/esrum-utils"
+      "id": 588137058,
+      "name": "atrakic/static-generator",
+      "url": "https://api.github.com/repos/atrakic/static-generator"
     },
     "payload": {
-      "action": "started"
+      "repository_id": 588137058,
+      "push_id": 34109488532,
+      "ref": "refs/heads/master",
+      "head": "1ebbd58a7be7689ba935fe127d54f933305287f4",
+      "before": "4c90fb87da650044d305c4c401a552d943948a9c"
     },
     "public": true,
-    "created_at": "2026-04-28T03:21:33Z",
-    "org": {
-      "id": 162436858,
-      "login": "cbmr-data",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/cbmr-data",
-      "avatar_url": "https://avatars.githubusercontent.com/u/162436858?"
-    }
+    "created_at": "2026-05-13T18:58:08Z"
   },
   {
-    "id": "10856864278",
+    "id": "11818344940",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "repository_id": 587026862,
+      "push_id": 34109213218,
+      "ref": "refs/heads/main",
+      "head": "0117741193d0197067b1e6b23f4f45b7bb8db43b",
+      "before": "b6de322b863ddbc0132996d69e425493cd1f5d51"
+    },
+    "public": true,
+    "created_at": "2026-05-13T18:51:12Z"
+  },
+  {
+    "id": "11818135255",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "repository_id": 587026862,
+      "push_id": 34109015191,
+      "ref": "refs/heads/main",
+      "head": "b03eecfb15dd57087c02091b09d1a2ef1be7809f",
+      "before": "1917a922e57a70ee581e9c0704175f852360ca96"
+    },
+    "public": true,
+    "created_at": "2026-05-13T18:46:11Z"
+  },
+  {
+    "id": "11817781064",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "repository_id": 587026862,
+      "push_id": 34108734390,
+      "ref": "refs/heads/main",
+      "head": "1917a922e57a70ee581e9c0704175f852360ca96",
+      "before": "6245b0eeb7324bc526cf0e068d7a46c5e55e3993"
+    },
+    "public": true,
+    "created_at": "2026-05-13T18:39:04Z"
+  },
+  {
+    "id": "11813108414",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 588137058,
+      "name": "atrakic/static-generator",
+      "url": "https://api.github.com/repos/atrakic/static-generator"
+    },
+    "payload": {
+      "repository_id": 588137058,
+      "push_id": 34104574312,
+      "ref": "refs/heads/master",
+      "head": "4c90fb87da650044d305c4c401a552d943948a9c",
+      "before": "03e5933306925c3e9099eb59a05dab83010cc689"
+    },
+    "public": true,
+    "created_at": "2026-05-13T16:58:09Z"
+  },
+  {
+    "id": "11796656011",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "repository_id": 587026862,
+      "push_id": 34083511191,
+      "ref": "refs/heads/main",
+      "head": "6245b0eeb7324bc526cf0e068d7a46c5e55e3993",
+      "before": "a9fe54176c2b9681ce54f8d61ac65d4990a7fbef"
+    },
+    "public": true,
+    "created_at": "2026-05-13T09:10:18Z"
+  },
+  {
+    "id": "11771478400",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 588137058,
+      "name": "atrakic/static-generator",
+      "url": "https://api.github.com/repos/atrakic/static-generator"
+    },
+    "payload": {
+      "repository_id": 588137058,
+      "push_id": 34058951167,
+      "ref": "refs/heads/master",
+      "head": "03e5933306925c3e9099eb59a05dab83010cc689",
+      "before": "1192145dfd1f6c9ec9e889f504faa352c4d06214"
+    },
+    "public": true,
+    "created_at": "2026-05-12T20:05:19Z"
+  },
+  {
+    "id": "11770259113",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "repository_id": 587026862,
+      "push_id": 34056012956,
+      "ref": "refs/heads/main",
+      "head": "66a91fc621f37187e73066575ac06fa06fc348ee",
+      "before": "4144e9a42cc6c54751661ceeaf1cd03822b744d0"
+    },
+    "public": true,
+    "created_at": "2026-05-12T18:52:16Z"
+  },
+  {
+    "id": "11769752445",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "repository_id": 587026862,
+      "push_id": 34061226344,
+      "ref": "refs/heads/main",
+      "head": "a9fe54176c2b9681ce54f8d61ac65d4990a7fbef",
+      "before": "c351f63742084df7208cebf601fa3f87b4400085"
+    },
+    "public": true,
+    "created_at": "2026-05-12T21:03:59Z"
+  },
+  {
+    "id": "11768405766",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "repository_id": 587026862,
+      "push_id": 34059899597,
+      "ref": "refs/heads/main",
+      "head": "c351f63742084df7208cebf601fa3f87b4400085",
+      "before": "519a31117d3775ef1567f40291fa51b08e77f6e2"
+    },
+    "public": true,
+    "created_at": "2026-05-12T20:29:27Z"
+  },
+  {
+    "id": "11768349979",
     "type": "DeleteEvent",
     "actor": {
       "id": 15816139,
@@ -40,21 +271,92 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 106820336,
-      "name": "atrakic/dotfiles",
-      "url": "https://api.github.com/repos/atrakic/dotfiles"
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
     },
     "payload": {
-      "ref": "dependabot/pip/aws-sam-cli-1.122.0",
+      "ref": "feature/trivy",
       "ref_type": "branch",
-      "full_ref": "refs/heads/dependabot/pip/aws-sam-cli-1.122.0",
+      "full_ref": "refs/heads/feature/trivy",
       "pusher_type": "user"
     },
     "public": true,
-    "created_at": "2026-04-21T14:02:02Z"
+    "created_at": "2026-05-12T20:27:57Z"
   },
   {
-    "id": "10856861175",
+    "id": "11768324922",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "ref": "gh-pages",
+      "ref_type": "branch",
+      "full_ref": "refs/heads/gh-pages",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2026-05-12T20:27:18Z"
+  },
+  {
+    "id": "9381825331",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "action": "closed",
+      "number": 11,
+      "pull_request": {
+        "url": "https://api.github.com/repos/atrakic/static-site/pulls/11",
+        "id": 3666689393,
+        "number": 11,
+        "head": {
+          "ref": "copilot/update-go-version-management",
+          "sha": "6325d47e51ac1bbc73722c4f9325fc18a51bdda7",
+          "repo": {
+            "id": 587026862,
+            "url": "https://api.github.com/repos/atrakic/static-site",
+            "name": "static-site"
+          }
+        },
+        "base": {
+          "ref": "main",
+          "sha": "9472cc295513f6e9a214ba4085aeb7ca537469dc",
+          "repo": {
+            "id": 587026862,
+            "url": "https://api.github.com/repos/atrakic/static-site",
+            "name": "static-site"
+          }
+        }
+      }
+    },
+    "public": true,
+    "created_at": "2026-05-12T06:50:56Z"
+  },
+  {
+    "id": "11767480213",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -65,44 +367,74 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 106820336,
-      "name": "atrakic/dotfiles",
-      "url": "https://api.github.com/repos/atrakic/dotfiles"
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
     },
     "payload": {
-      "repository_id": 106820336,
-      "push_id": 33148655418,
+      "repository_id": 587026862,
+      "push_id": 34058961128,
+      "ref": "refs/heads/main",
+      "head": "519a31117d3775ef1567f40291fa51b08e77f6e2",
+      "before": "87bd7fbbb4d5c7462f29c2a3733bc31f6e7216e3"
+    },
+    "public": true,
+    "created_at": "2026-05-12T20:05:33Z"
+  },
+  {
+    "id": "11766906448",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "repository_id": 587026862,
+      "push_id": 34058381258,
+      "ref": "refs/heads/main",
+      "head": "87bd7fbbb4d5c7462f29c2a3733bc31f6e7216e3",
+      "before": "479d539989cd5d3e1b6ab232aefb230c09b9a6cf"
+    },
+    "public": true,
+    "created_at": "2026-05-12T19:51:18Z"
+  },
+  {
+    "id": "11766896966",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 588137058,
+      "name": "atrakic/static-generator",
+      "url": "https://api.github.com/repos/atrakic/static-generator"
+    },
+    "payload": {
+      "repository_id": 588137058,
+      "push_id": 34058371458,
       "ref": "refs/heads/master",
-      "head": "813cbf3b1af21b43a867b44cceb39596d934f3a3",
-      "before": "833e3411ad0fb33c1b60c60a2032fae03248dbd8"
+      "head": "1192145dfd1f6c9ec9e889f504faa352c4d06214",
+      "before": "4cf878b182145752edb7ed032d3e2ac0e6d8d9a4"
     },
     "public": true,
-    "created_at": "2026-04-21T14:01:58Z"
+    "created_at": "2026-05-12T19:51:03Z"
   },
   {
-    "id": "8612662948",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1201787282,
-      "name": "kunchenguid/no-mistakes",
-      "url": "https://api.github.com/repos/kunchenguid/no-mistakes"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-04-20T23:20:07Z"
-  },
-  {
-    "id": "10692561598",
+    "id": "11766022317",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -113,336 +445,22 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 920139103,
-      "name": "atrakic/dbdemos-notebooks",
-      "url": "https://api.github.com/repos/atrakic/dbdemos-notebooks"
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
     },
     "payload": {
-      "repository_id": 920139103,
-      "push_id": 32984371625,
+      "repository_id": 587026862,
+      "push_id": 34057471578,
       "ref": "refs/heads/main",
-      "head": "1e9f4dc7953f66fd76ea82fd7744f56119524ba2",
-      "before": "fc0979de9ba9641fd47a3c7b9e39d9ba31319517"
+      "head": "479d539989cd5d3e1b6ab232aefb230c09b9a6cf",
+      "before": "9fa937a045a3ed2b5bb5f4584a525c631cb1d528"
     },
     "public": true,
-    "created_at": "2026-04-17T05:54:12Z"
+    "created_at": "2026-05-12T19:28:06Z"
   },
   {
-    "id": "8512018713",
-    "type": "ForkEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1133707766,
-      "name": "multica-ai/multica",
-      "url": "https://api.github.com/repos/multica-ai/multica"
-    },
-    "payload": {
-      "action": "forked",
-      "forkee": {
-        "id": 1213112801,
-        "node_id": "R_kgDOSE6h4Q",
-        "name": "multica",
-        "full_name": "8cloud8/multica",
-        "private": false,
-        "owner": {
-          "login": "8cloud8",
-          "id": 48455440,
-          "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ4NDU1NDQw",
-          "avatar_url": "https://avatars.githubusercontent.com/u/48455440?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/8cloud8",
-          "html_url": "https://github.com/8cloud8",
-          "followers_url": "https://api.github.com/users/8cloud8/followers",
-          "following_url": "https://api.github.com/users/8cloud8/following{/other_user}",
-          "gists_url": "https://api.github.com/users/8cloud8/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/8cloud8/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/8cloud8/subscriptions",
-          "organizations_url": "https://api.github.com/users/8cloud8/orgs",
-          "repos_url": "https://api.github.com/users/8cloud8/repos",
-          "events_url": "https://api.github.com/users/8cloud8/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/8cloud8/received_events",
-          "type": "Organization",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "html_url": "https://github.com/8cloud8/multica",
-        "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-        "fork": true,
-        "url": "https://api.github.com/repos/8cloud8/multica",
-        "forks_url": "https://api.github.com/repos/8cloud8/multica/forks",
-        "keys_url": "https://api.github.com/repos/8cloud8/multica/keys{/key_id}",
-        "collaborators_url": "https://api.github.com/repos/8cloud8/multica/collaborators{/collaborator}",
-        "teams_url": "https://api.github.com/repos/8cloud8/multica/teams",
-        "hooks_url": "https://api.github.com/repos/8cloud8/multica/hooks",
-        "issue_events_url": "https://api.github.com/repos/8cloud8/multica/issues/events{/number}",
-        "events_url": "https://api.github.com/repos/8cloud8/multica/events",
-        "assignees_url": "https://api.github.com/repos/8cloud8/multica/assignees{/user}",
-        "branches_url": "https://api.github.com/repos/8cloud8/multica/branches{/branch}",
-        "tags_url": "https://api.github.com/repos/8cloud8/multica/tags",
-        "blobs_url": "https://api.github.com/repos/8cloud8/multica/git/blobs{/sha}",
-        "git_tags_url": "https://api.github.com/repos/8cloud8/multica/git/tags{/sha}",
-        "git_refs_url": "https://api.github.com/repos/8cloud8/multica/git/refs{/sha}",
-        "trees_url": "https://api.github.com/repos/8cloud8/multica/git/trees{/sha}",
-        "statuses_url": "https://api.github.com/repos/8cloud8/multica/statuses/{sha}",
-        "languages_url": "https://api.github.com/repos/8cloud8/multica/languages",
-        "stargazers_url": "https://api.github.com/repos/8cloud8/multica/stargazers",
-        "contributors_url": "https://api.github.com/repos/8cloud8/multica/contributors",
-        "subscribers_url": "https://api.github.com/repos/8cloud8/multica/subscribers",
-        "subscription_url": "https://api.github.com/repos/8cloud8/multica/subscription",
-        "commits_url": "https://api.github.com/repos/8cloud8/multica/commits{/sha}",
-        "git_commits_url": "https://api.github.com/repos/8cloud8/multica/git/commits{/sha}",
-        "comments_url": "https://api.github.com/repos/8cloud8/multica/comments{/number}",
-        "issue_comment_url": "https://api.github.com/repos/8cloud8/multica/issues/comments{/number}",
-        "contents_url": "https://api.github.com/repos/8cloud8/multica/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/8cloud8/multica/compare/{base}...{head}",
-        "merges_url": "https://api.github.com/repos/8cloud8/multica/merges",
-        "archive_url": "https://api.github.com/repos/8cloud8/multica/{archive_format}{/ref}",
-        "downloads_url": "https://api.github.com/repos/8cloud8/multica/downloads",
-        "issues_url": "https://api.github.com/repos/8cloud8/multica/issues{/number}",
-        "pulls_url": "https://api.github.com/repos/8cloud8/multica/pulls{/number}",
-        "milestones_url": "https://api.github.com/repos/8cloud8/multica/milestones{/number}",
-        "notifications_url": "https://api.github.com/repos/8cloud8/multica/notifications{?since,all,participating}",
-        "labels_url": "https://api.github.com/repos/8cloud8/multica/labels{/name}",
-        "releases_url": "https://api.github.com/repos/8cloud8/multica/releases{/id}",
-        "deployments_url": "https://api.github.com/repos/8cloud8/multica/deployments",
-        "created_at": "2026-04-17T03:54:35Z",
-        "updated_at": "2026-04-17T03:54:35Z",
-        "pushed_at": "2026-04-17T03:51:02Z",
-        "git_url": "git://github.com/8cloud8/multica.git",
-        "ssh_url": "git@github.com:8cloud8/multica.git",
-        "clone_url": "https://github.com/8cloud8/multica.git",
-        "svn_url": "https://github.com/8cloud8/multica",
-        "homepage": "https://multica.ai",
-        "size": 38521,
-        "stargazers_count": 0,
-        "watchers_count": 0,
-        "language": null,
-        "has_issues": false,
-        "has_projects": true,
-        "has_downloads": true,
-        "has_wiki": true,
-        "has_pages": false,
-        "has_discussions": false,
-        "forks_count": 0,
-        "mirror_url": null,
-        "archived": false,
-        "disabled": false,
-        "open_issues_count": 0,
-        "license": {
-          "key": "other",
-          "name": "Other",
-          "spdx_id": "NOASSERTION",
-          "url": null,
-          "node_id": "MDc6TGljZW5zZTA="
-        },
-        "allow_forking": true,
-        "is_template": false,
-        "web_commit_signoff_required": false,
-        "has_pull_requests": true,
-        "pull_request_creation_policy": "all",
-        "topics": [],
-        "visibility": "public",
-        "forks": 0,
-        "open_issues": 0,
-        "watchers": 0,
-        "default_branch": "main"
-      }
-    },
-    "public": true,
-    "created_at": "2026-04-17T03:54:35Z",
-    "org": {
-      "id": 254743058,
-      "login": "multica-ai",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/multica-ai",
-      "avatar_url": "https://avatars.githubusercontent.com/u/254743058?"
-    }
-  },
-  {
-    "id": "8512007069",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1133707766,
-      "name": "multica-ai/multica",
-      "url": "https://api.github.com/repos/multica-ai/multica"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-04-17T03:54:04Z",
-    "org": {
-      "id": 254743058,
-      "login": "multica-ai",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/multica-ai",
-      "avatar_url": "https://avatars.githubusercontent.com/u/254743058?"
-    }
-  },
-  {
-    "id": "8511934587",
-    "type": "ForkEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1142983825,
-      "name": "forrestchang/andrej-karpathy-skills",
-      "url": "https://api.github.com/repos/forrestchang/andrej-karpathy-skills"
-    },
-    "payload": {
-      "action": "forked",
-      "forkee": {
-        "id": 1213110364,
-        "node_id": "R_kgDOSE6YXA",
-        "name": "andrej-karpathy-skills",
-        "full_name": "8cloud8/andrej-karpathy-skills",
-        "private": false,
-        "owner": {
-          "login": "8cloud8",
-          "id": 48455440,
-          "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ4NDU1NDQw",
-          "avatar_url": "https://avatars.githubusercontent.com/u/48455440?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/8cloud8",
-          "html_url": "https://github.com/8cloud8",
-          "followers_url": "https://api.github.com/users/8cloud8/followers",
-          "following_url": "https://api.github.com/users/8cloud8/following{/other_user}",
-          "gists_url": "https://api.github.com/users/8cloud8/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/8cloud8/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/8cloud8/subscriptions",
-          "organizations_url": "https://api.github.com/users/8cloud8/orgs",
-          "repos_url": "https://api.github.com/users/8cloud8/repos",
-          "events_url": "https://api.github.com/users/8cloud8/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/8cloud8/received_events",
-          "type": "Organization",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "html_url": "https://github.com/8cloud8/andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "fork": true,
-        "url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills",
-        "forks_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/forks",
-        "keys_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/keys{/key_id}",
-        "collaborators_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/collaborators{/collaborator}",
-        "teams_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/teams",
-        "hooks_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/hooks",
-        "issue_events_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/issues/events{/number}",
-        "events_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/events",
-        "assignees_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/assignees{/user}",
-        "branches_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/branches{/branch}",
-        "tags_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/tags",
-        "blobs_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/git/blobs{/sha}",
-        "git_tags_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/git/tags{/sha}",
-        "git_refs_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/git/refs{/sha}",
-        "trees_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/git/trees{/sha}",
-        "statuses_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/statuses/{sha}",
-        "languages_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/languages",
-        "stargazers_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/stargazers",
-        "contributors_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/contributors",
-        "subscribers_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/subscribers",
-        "subscription_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/subscription",
-        "commits_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/commits{/sha}",
-        "git_commits_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/git/commits{/sha}",
-        "comments_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/comments{/number}",
-        "issue_comment_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/issues/comments{/number}",
-        "contents_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/compare/{base}...{head}",
-        "merges_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/merges",
-        "archive_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/{archive_format}{/ref}",
-        "downloads_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/downloads",
-        "issues_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/issues{/number}",
-        "pulls_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/pulls{/number}",
-        "milestones_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/milestones{/number}",
-        "notifications_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/notifications{?since,all,participating}",
-        "labels_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/labels{/name}",
-        "releases_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/releases{/id}",
-        "deployments_url": "https://api.github.com/repos/8cloud8/andrej-karpathy-skills/deployments",
-        "created_at": "2026-04-17T03:49:46Z",
-        "updated_at": "2026-04-19T18:35:59Z",
-        "pushed_at": "2026-04-15T17:47:20Z",
-        "git_url": "git://github.com/8cloud8/andrej-karpathy-skills.git",
-        "ssh_url": "git@github.com:8cloud8/andrej-karpathy-skills.git",
-        "clone_url": "https://github.com/8cloud8/andrej-karpathy-skills.git",
-        "svn_url": "https://github.com/8cloud8/andrej-karpathy-skills",
-        "homepage": "",
-        "size": 25,
-        "stargazers_count": 0,
-        "watchers_count": 0,
-        "language": null,
-        "has_issues": false,
-        "has_projects": true,
-        "has_downloads": true,
-        "has_wiki": true,
-        "has_pages": false,
-        "has_discussions": false,
-        "forks_count": 0,
-        "mirror_url": null,
-        "archived": false,
-        "disabled": false,
-        "open_issues_count": 0,
-        "license": null,
-        "allow_forking": true,
-        "is_template": false,
-        "web_commit_signoff_required": false,
-        "has_pull_requests": true,
-        "pull_request_creation_policy": "all",
-        "topics": [],
-        "visibility": "public",
-        "forks": 0,
-        "open_issues": 0,
-        "watchers": 0,
-        "default_branch": "main"
-      }
-    },
-    "public": true,
-    "created_at": "2026-04-17T03:49:46Z"
-  },
-  {
-    "id": "8511928491",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1142983825,
-      "name": "forrestchang/andrej-karpathy-skills",
-      "url": "https://api.github.com/repos/forrestchang/andrej-karpathy-skills"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-04-17T03:49:25Z"
-  },
-  {
-    "id": "10689484209",
+    "id": "11765814603",
     "type": "PushEvent",
     "actor": {
       "id": 15816139,
@@ -453,23 +471,23 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 1193071577,
-      "name": "atrakic/ai-job-market-analysis",
-      "url": "https://api.github.com/repos/atrakic/ai-job-market-analysis"
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
     },
     "payload": {
-      "repository_id": 1193071577,
-      "push_id": 32981292629,
+      "repository_id": 587026862,
+      "push_id": 34057261462,
       "ref": "refs/heads/main",
-      "head": "e8db152c84fa63e0b89386c4e60c5d6e3c4771fe",
-      "before": "cc3d54f4d706f6fe708d4d91fe3e9f6843d050f5"
+      "head": "9fa937a045a3ed2b5bb5f4584a525c631cb1d528",
+      "before": "269dcbed5a4f460e2b674482beb3f3a7463ab01e"
     },
     "public": true,
-    "created_at": "2026-04-17T03:44:56Z"
+    "created_at": "2026-05-12T19:22:52Z"
   },
   {
-    "id": "10406316192",
-    "type": "CreateEvent",
+    "id": "11765667683",
+    "type": "PushEvent",
     "actor": {
       "id": 15816139,
       "login": "atrakic",
@@ -479,19 +497,304 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
     },
     "repo": {
-      "id": 957442462,
-      "name": "atrakic/chat-with-my-database",
-      "url": "https://api.github.com/repos/atrakic/chat-with-my-database"
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
     },
     "payload": {
-      "ref": "feature/use-track-github-public-events",
-      "ref_type": "branch",
-      "full_ref": "refs/heads/feature/use-track-github-public-events",
-      "master_branch": "main",
-      "description": null,
-      "pusher_type": "user"
+      "repository_id": 587026862,
+      "push_id": 34051264146,
+      "ref": "refs/heads/main",
+      "head": "b10d6bb697a181adecac3d713f8cdb23bd3cef58",
+      "before": "e490e447f6b287e6988ae95330c24eeff1fbcd0b"
     },
     "public": true,
-    "created_at": "2026-04-10T03:33:42Z"
+    "created_at": "2026-05-12T16:57:12Z"
+  },
+  {
+    "id": "11765663551",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 567926122,
+      "name": "atrakic/go-project-template",
+      "url": "https://api.github.com/repos/atrakic/go-project-template"
+    },
+    "payload": {
+      "repository_id": 567926122,
+      "push_id": 34057107040,
+      "ref": "refs/heads/main",
+      "head": "a8754fff5c25b0f847ddcd6fa3f41608ead6d841",
+      "before": "c2d08f2668e6f54b8b243d528c8750e354381840"
+    },
+    "public": true,
+    "created_at": "2026-05-12T19:18:57Z"
+  },
+  {
+    "id": "11765586438",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 567926122,
+      "name": "atrakic/go-project-template",
+      "url": "https://api.github.com/repos/atrakic/go-project-template"
+    },
+    "payload": {
+      "repository_id": 567926122,
+      "push_id": 34057028575,
+      "ref": "refs/heads/main",
+      "head": "c2d08f2668e6f54b8b243d528c8750e354381840",
+      "before": "a8ab7d132f12b553718b3268f6a06a0088a32417"
+    },
+    "public": true,
+    "created_at": "2026-05-12T19:16:57Z"
+  },
+  {
+    "id": "11765198733",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "repository_id": 587026862,
+      "push_id": 34056632606,
+      "ref": "refs/heads/main",
+      "head": "269dcbed5a4f460e2b674482beb3f3a7463ab01e",
+      "before": "66a91fc621f37187e73066575ac06fa06fc348ee"
+    },
+    "public": true,
+    "created_at": "2026-05-12T19:07:01Z"
+  },
+  {
+    "id": "11765188360",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 588137058,
+      "name": "atrakic/static-generator",
+      "url": "https://api.github.com/repos/atrakic/static-generator"
+    },
+    "payload": {
+      "repository_id": 588137058,
+      "push_id": 34056622001,
+      "ref": "refs/heads/master",
+      "head": "4cf878b182145752edb7ed032d3e2ac0e6d8d9a4",
+      "before": "7a658a04e128efc04ed57e74205e1ffdd4d6c50b"
+    },
+    "public": true,
+    "created_at": "2026-05-12T19:06:45Z"
+  },
+  {
+    "id": "11764580665",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 588137058,
+      "name": "atrakic/static-generator",
+      "url": "https://api.github.com/repos/atrakic/static-generator"
+    },
+    "payload": {
+      "repository_id": 588137058,
+      "push_id": 34055999290,
+      "ref": "refs/heads/master",
+      "head": "7a658a04e128efc04ed57e74205e1ffdd4d6c50b",
+      "before": "c0667895b2a863c64d0054fcd2a7dada56577938"
+    },
+    "public": true,
+    "created_at": "2026-05-12T18:51:55Z"
+  },
+  {
+    "id": "11764003342",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "repository_id": 587026862,
+      "push_id": 34055413036,
+      "ref": "refs/heads/main",
+      "head": "4144e9a42cc6c54751661ceeaf1cd03822b744d0",
+      "before": "101b163573685b41bf950d9b902e56736bf1424c"
+    },
+    "public": true,
+    "created_at": "2026-05-12T18:37:13Z"
+  },
+  {
+    "id": "11763985612",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "repository_id": 587026862,
+      "push_id": 34055395327,
+      "ref": "refs/heads/main",
+      "head": "101b163573685b41bf950d9b902e56736bf1424c",
+      "before": "16bf7d67764d3c588ff13aeaeda3c55a0b044eb9"
+    },
+    "public": true,
+    "created_at": "2026-05-12T18:36:46Z"
+  },
+  {
+    "id": "11763971981",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 588137058,
+      "name": "atrakic/static-generator",
+      "url": "https://api.github.com/repos/atrakic/static-generator"
+    },
+    "payload": {
+      "repository_id": 588137058,
+      "push_id": 34055381891,
+      "ref": "refs/heads/master",
+      "head": "c0667895b2a863c64d0054fcd2a7dada56577938",
+      "before": "0fa962b8f034647f57837ffc2ff54046f1494dd0"
+    },
+    "public": true,
+    "created_at": "2026-05-12T18:36:26Z"
+  },
+  {
+    "id": "11762097139",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "repository_id": 587026862,
+      "push_id": 34053496381,
+      "ref": "refs/heads/main",
+      "head": "16bf7d67764d3c588ff13aeaeda3c55a0b044eb9",
+      "before": "6eb569957db55763d395b0160146abc989dc2693"
+    },
+    "public": true,
+    "created_at": "2026-05-12T17:50:39Z"
+  },
+  {
+    "id": "11762087537",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 588137058,
+      "name": "atrakic/static-generator",
+      "url": "https://api.github.com/repos/atrakic/static-generator"
+    },
+    "payload": {
+      "repository_id": 588137058,
+      "push_id": 34053487313,
+      "ref": "refs/heads/master",
+      "head": "0fa962b8f034647f57837ffc2ff54046f1494dd0",
+      "before": "1b0615d984d23e3dbb3f2026b4f63deb2fddb1f4"
+    },
+    "public": true,
+    "created_at": "2026-05-12T17:50:25Z"
+  },
+  {
+    "id": "11761966191",
+    "type": "PushEvent",
+    "actor": {
+      "id": 15816139,
+      "login": "atrakic",
+      "display_login": "atrakic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/atrakic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
+    },
+    "repo": {
+      "id": 587026862,
+      "name": "atrakic/static-site",
+      "url": "https://api.github.com/repos/atrakic/static-site"
+    },
+    "payload": {
+      "repository_id": 587026862,
+      "push_id": 34053367394,
+      "ref": "refs/heads/main",
+      "head": "6eb569957db55763d395b0160146abc989dc2693",
+      "before": "32665026ed433529a62db4d2fa264d72dffcd8db"
+    },
+    "public": true,
+    "created_at": "2026-05-12T17:47:27Z"
   }
 ]

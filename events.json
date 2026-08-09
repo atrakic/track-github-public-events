@@ -322,56 +322,5 @@
       "url": "https://api.github.com/orgs/aws-samples",
       "avatar_url": "https://avatars.githubusercontent.com/u/8931462?"
     }
-  },
-  {
-    "id": "11427686358",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 1185389803,
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://api.github.com/repos/MadsLorentzen/ai-job-search"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-07-06T20:48:25Z"
-  },
-  {
-    "id": "11332113339",
-    "type": "WatchEvent",
-    "actor": {
-      "id": 15816139,
-      "login": "atrakic",
-      "display_login": "atrakic",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/atrakic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15816139?"
-    },
-    "repo": {
-      "id": 137537346,
-      "name": "jupyterhub/the-littlest-jupyterhub",
-      "url": "https://api.github.com/repos/jupyterhub/the-littlest-jupyterhub"
-    },
-    "payload": {
-      "action": "started"
-    },
-    "public": true,
-    "created_at": "2026-07-03T15:58:07Z",
-    "org": {
-      "id": 17927519,
-      "login": "jupyterhub",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/jupyterhub",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17927519?"
-    }
   }
 ]
